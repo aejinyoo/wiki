@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-19T11:26:37Z",
+  "updated_at": "2026-04-19T12:33:08Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -65,6 +65,22 @@
       ],
       "path": "wiki/generative-tools/2026-04-19-claude-루틴으로-작업-자동화하기.md",
       "title": "Claude 루틴으로 작업 자동화하기"
+    },
+    "6fc45fc0d49e": {
+      "url": "https://code.claude.com/docs/ko/remote-control",
+      "source": "Manual",
+      "captured_at": "2026-04-19T12:31:24Z",
+      "status": "classified",
+      "category": "agent-interaction",
+      "tags": [
+        "remote-control",
+        "code-editing",
+        "cross-device",
+        "session-sync",
+        "developer-tools"
+      ],
+      "path": "wiki/agent-interaction/2026-04-19-모든-기기에서-로컬-claude-세션-이어가기.md",
+      "title": "모든 기기에서 로컬 Claude 세션 이어가기"
     }
   }
 }
