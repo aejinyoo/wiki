@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-19T11:20:59Z",
+  "updated_at": "2026-04-19T11:26:37Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -49,6 +49,22 @@
       ],
       "path": "wiki/trend-reports/2026-04-19-google-chrome-앱-빠르고-안전한-웹-브라우징.md",
       "title": "Google Chrome 앱: 빠르고 안전한 웹 브라우징"
+    },
+    "64e904ad79f3": {
+      "url": "https://code.claude.com/docs/ko/routines",
+      "source": "Manual",
+      "captured_at": "2026-04-19T11:25:36Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "automation",
+        "claude-code",
+        "routines",
+        "api-triggers",
+        "github-triggers"
+      ],
+      "path": "wiki/generative-tools/2026-04-19-claude-루틴으로-작업-자동화하기.md",
+      "title": "Claude 루틴으로 작업 자동화하기"
     }
   }
 }
