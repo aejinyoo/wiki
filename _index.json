@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-19T09:51:25Z",
+  "updated_at": "2026-04-19T11:20:59Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -33,6 +33,22 @@
       ],
       "path": "wiki/generative-tools/2026-04-19-claude-code-개발-생산성-향상을-위한-ai-도구.md",
       "title": "Claude Code: 개발 생산성 향상을 위한 AI 도구"
+    },
+    "788351943a48": {
+      "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
+      "source": "Manual",
+      "captured_at": "2026-04-19T11:20:19Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "mobile-browser",
+        "google-chrome",
+        "privacy-policy",
+        "cross-device-sync",
+        "web-experience"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-google-chrome-앱-빠르고-안전한-웹-브라우징.md",
+      "title": "Google Chrome 앱: 빠르고 안전한 웹 브라우징"
     }
   }
 }
