@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-19T13:04:13Z",
+  "updated_at": "2026-04-19T23:03:55Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -97,6 +97,213 @@
       ],
       "path": "wiki/generative-tools/2026-04-19-claude-code-일반-워크플로우-가이드.md",
       "title": "Claude Code 일반 워크플로우 가이드"
+    },
+    "6a2b0ce12549": {
+      "url": "https://x.com/chorokmal/status/2045379017755516930?s=12",
+      "source": "X",
+      "captured_at": "2026-04-19T15:34:19Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "javascript",
+        "browser-support",
+        "website-access"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-x-웹사이트-접속-불가-javascript-비활성화.md",
+      "title": "X 웹사이트 접속 불가: JavaScript 비활성화"
+    },
+    "9975d0eb23bc": {
+      "url": "https://x.com/amirmushich/status/2043748561729302884?s=12",
+      "source": "X",
+      "captured_at": "2026-04-19T15:35:14Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "javascript",
+        "browser-support",
+        "website-access"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-x-웹사이트-접속-불가-javascript-비활성화.md",
+      "title": "X 웹사이트 접속 불가 (JavaScript 비활성화)"
+    },
+    "7b60c34de351": {
+      "url": "https://x.com/whitenationkor/status/2045798262712799506?s=12",
+      "source": "X",
+      "captured_at": "2026-04-19T15:48:51Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "javascript",
+        "browser-compatibility",
+        "x-com",
+        "error-message"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-x-웹사이트-접속-불가-javascript-비활성화.md",
+      "title": "X 웹사이트 접속 불가 (JavaScript 비활성화)"
+    },
+    "425e52737fee": {
+      "url": "https://www.instagram.com/reel/DQEaJgmkUnk/?igsh=eGMxdGhxcm8ydzR5",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T15:52:20Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "instagram",
+        "social-media",
+        "video-content"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-릴스.md",
+      "title": "인스타그램 릴스"
+    },
+    "98773c60254e": {
+      "url": "https://www.instagram.com/reel/DWqrYtDABod/?igsh=MTk4eXplMG52cndrag==",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T15:54:09Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "social-media",
+        "onboarding",
+        "ui-design"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-로그인가입-페이지.md",
+      "title": "인스타그램 로그인/가입 페이지"
+    },
+    "fe30c500a9b2": {
+      "url": "https://www.instagram.com/reel/DREp4KYEkMd/?igsh=MW0xM2NqMDl6MWN5cg==",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T15:59:50Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "instagram",
+        "social-media",
+        "video-content",
+        "trends"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-릴스.md",
+      "title": "인스타그램 릴스"
+    },
+    "c6d41d6c3a94": {
+      "url": "https://www.instagram.com/reel/DL8lt6vtoP1/?igsh=MWh4eWw1YXRsYmNs",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T16:05:41Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "social-media",
+        "ui-design",
+        "onboarding",
+        "login-flow"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-로그인가입-페이지.md",
+      "title": "인스타그램 로그인/가입 페이지"
+    },
+    "98b2b04f832f": {
+      "url": "https://www.instagram.com/reel/DJ9ZkjATePg/?igsh=MThyYXliN3A0dTJyaA==",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T16:07:29Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "social-media",
+        "ui-design",
+        "onboarding",
+        "login-flow"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-로그인가입-페이지.md",
+      "title": "인스타그램 로그인/가입 페이지"
+    },
+    "e8f30d4e6046": {
+      "url": "https://www.instagram.com/reel/DG0EPEaTLEL/?igsh=MW4weTMwc2h3a3JmZA==",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T16:08:19Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "instagram",
+        "social-media",
+        "video-content",
+        "trends"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-릴스.md",
+      "title": "인스타그램 릴스"
+    },
+    "f28f65ca1331": {
+      "url": "https://www.instagram.com/reel/DCG3VECy-W5/?igsh=bDZpdno2eDRnaTJ6",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T16:08:31Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "login",
+        "signup",
+        "ui-design",
+        "onboarding"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-19-인스타그램-로그인가입-인터페이스.md",
+      "title": "인스타그램 로그인/가입 인터페이스"
+    },
+    "d4e7fd9a36f2": {
+      "url": "https://www.instagram.com/reel/DDCcIGmTR8l/?igsh=anY4aDdxdmg3OTBy",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T16:09:44Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "social-media",
+        "ui-design",
+        "onboarding",
+        "login",
+        "signup"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-로그인가입-페이지.md",
+      "title": "인스타그램 로그인/가입 페이지"
+    },
+    "87e0f096ffb4": {
+      "url": "https://www.instagram.com/reel/DC-eCXKTTRA/?igsh=MXFnc2ZvZjQxNXczZw==",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T16:10:00Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "instagram",
+        "social-media",
+        "video-content",
+        "short-form-video"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-릴스.md",
+      "title": "인스타그램 릴스"
+    },
+    "a9cc8cbce253": {
+      "url": "https://www.instagram.com/reel/DCoE1K6JlBL/?igsh=MTdndTd2d2c3dWU1eQ==",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T16:10:40Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "instagram",
+        "social-media",
+        "content-analysis",
+        "video-trends"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-릴스-콘텐츠-분석.md",
+      "title": "인스타그램 릴스 콘텐츠 분석"
+    },
+    "0e8a314fa4aa": {
+      "url": "https://www.instagram.com/reel/DC6MVPGpE_L/?igsh=MTY3Yjd6eXB6NXEzMA==",
+      "source": "Instagram",
+      "captured_at": "2026-04-19T16:11:02Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "social-media",
+        "ui-design",
+        "onboarding",
+        "login-flow"
+      ],
+      "path": "wiki/trend-reports/2026-04-19-인스타그램-로그인가입-페이지.md",
+      "title": "인스타그램 로그인/가입 페이지"
     }
   }
 }
