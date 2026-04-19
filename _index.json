@@ -1,5 +1,13 @@
 {
   "version": 1,
-  "updated_at": null,
-  "items": {}
+  "updated_at": "2026-04-19T09:27:29Z",
+  "items": {
+    "a4cc7467e695": {
+      "url": "https://code.claude.com/docs/en/routines",
+      "source": "Manual",
+      "captured_at": "2026-04-19T09:25:58Z",
+      "status": "raw",
+      "category": null
+    }
+  }
 }
