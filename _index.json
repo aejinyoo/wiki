@@ -1,13 +1,38 @@
 {
   "version": 1,
-  "updated_at": "2026-04-19T09:27:29Z",
+  "updated_at": "2026-04-19T09:51:25Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
       "source": "Manual",
       "captured_at": "2026-04-19T09:25:58Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "agent-interaction",
+      "tags": [
+        "automation",
+        "workflows",
+        "scheduled-tasks",
+        "api-triggers",
+        "github-events"
+      ],
+      "path": "wiki/agent-interaction/2026-04-19-claude-routines-자동화된-워크플로우-구축.md",
+      "title": "Claude Routines: 자동화된 워크플로우 구축"
+    },
+    "4d1728102932": {
+      "url": "https://code.claude.com/docs/en/overview",
+      "source": "Manual",
+      "captured_at": "2026-04-19T09:50:51Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai-coding",
+        "developer-tools",
+        "code-generation",
+        "automation",
+        "cli"
+      ],
+      "path": "wiki/generative-tools/2026-04-19-claude-code-개발-생산성-향상을-위한-ai-도구.md",
+      "title": "Claude Code: 개발 생산성 향상을 위한 AI 도구"
     }
   }
 }
