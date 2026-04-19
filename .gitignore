@@ -1,0 +1,24 @@
+# 시크릿·개인 컨텍스트
+.env
+.env.*
+_personal_context.md
+_usage.json
+
+# 캐시
+.anthropic_cache/
+__pycache__/
+*.pyc
+.venv/
+.uv/
+
+# 실패 큐 (내부 처리용)
+inbox-failed.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 에디터
+.vscode/
+.idea/
+*.swp

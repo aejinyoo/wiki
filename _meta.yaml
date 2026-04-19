@@ -1,0 +1,32 @@
+# design-wiki 설정
+# Curator가 이 파일의 규칙을 존중합니다.
+
+version: 1
+
+# Curator가 절대 건드리지 않는 카테고리
+protected:
+  - trend-reports
+
+# Curator 가드레일
+curator:
+  # 한 변경의 영향이 이 건수를 넘으면 자동반영 skip → 브리프에 승인 요청
+  autofix_impact_limit: 100
+  # 같은 카테고리 재변경 금지 기간 (일)
+  cooldown_days: 14
+  # 주당 상한
+  weekly_limits:
+    new_category: 1
+    split_merge_delete: 2
+
+# Classifier 운영 한도
+classifier:
+  daily_item_cap: 30
+
+# 일일 토큰 가드레일
+token_caps:
+  daily_sonnet: 15000
+  daily_haiku: 10000
+
+# 개인화 컨텍스트 강제 갱신 주기
+personal_context:
+  force_refresh_every_items: 20
