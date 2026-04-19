@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-19T12:33:08Z",
+  "updated_at": "2026-04-19T13:04:13Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -81,6 +81,22 @@
       ],
       "path": "wiki/agent-interaction/2026-04-19-모든-기기에서-로컬-claude-세션-이어가기.md",
       "title": "모든 기기에서 로컬 Claude 세션 이어가기"
+    },
+    "9c8dfbf35131": {
+      "url": "https://code.claude.com/docs/ko/common-workflows",
+      "source": "Manual",
+      "captured_at": "2026-04-19T13:03:26Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "claude-code",
+        "developer-workflow",
+        "plan-mode",
+        "worktrees",
+        "testing"
+      ],
+      "path": "wiki/generative-tools/2026-04-19-claude-code-일반-워크플로우-가이드.md",
+      "title": "Claude Code 일반 워크플로우 가이드"
     }
   }
 }
