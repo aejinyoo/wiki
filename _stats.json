@@ -1,20 +1,49 @@
 {
   "version": 1,
-  "updated_at": null,
+  "updated_at": "2026-04-20T10:09:23Z",
   "categories": {
-    "ai-ux-patterns": 0,
-    "prompt-ui": 0,
-    "agent-interaction": 0,
-    "generative-tools": 0,
-    "design-system-automation": 0,
-    "trend-reports": 0
+    "trend-reports": 2,
+    "agent-interaction": 2,
+    "ai-ux-patterns": 1,
+    "generative-tools": 3
   },
-  "tags": {},
+  "tags": {
+    "mobile-browser": 1,
+    "google-chrome": 1,
+    "privacy-policy": 1,
+    "cross-device-sync": 1,
+    "web-experience": 1,
+    "instagram": 1,
+    "social-media": 1,
+    "content-analysis": 1,
+    "video-trends": 1,
+    "automation": 3,
+    "workflows": 1,
+    "scheduled-tasks": 1,
+    "api-triggers": 2,
+    "github-events": 1,
+    "remote-control": 1,
+    "code-editing": 1,
+    "cross-device": 1,
+    "session-sync": 1,
+    "developer-tools": 2,
+    "login": 1,
+    "signup": 1,
+    "ui-design": 1,
+    "onboarding": 1,
+    "ai-coding": 1,
+    "code-generation": 1,
+    "cli": 1,
+    "claude-code": 2,
+    "developer-workflow": 1,
+    "plan-mode": 1,
+    "worktrees": 1,
+    "testing": 1,
+    "routines": 1,
+    "github-triggers": 1
+  },
   "sources": {
-    "X": 0,
-    "YouTube": 0,
-    "Threads": 0,
-    "Instagram": 0,
-    "Manual": 0
+    "Manual": 6,
+    "Instagram": 2
   }
 }
