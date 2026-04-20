@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "629e38f3b7a6",
+    "url": "https://x.com/mizchi/status/2045501078574350450?s=12",
+    "source": "X",
+    "captured_at": "2026-04-20T11:16:41Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Skills を自動最適化する SKILL.md 作ったんだけど、馬鹿みたいに効くので使っていいよ https://t.co/mGHmkxOdfU",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "extracted": {
+    "title": "",
+    "text": "Skills を自動最適化する SKILL.md 作ったんだけど、馬鹿みたいに効くので使っていいよ https://t.co/mGHmkxOdfU",
+    "author": "mizchi",
+    "author_url": "https://twitter.com/mizchi",
+    "tweet_url": "https://twitter.com/mizchi/status/2045501078574350450"
+  }
+}

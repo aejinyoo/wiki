@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "bbc903d4a81e",
+    "url": "https://x.com/datachaz/status/2045784379155226971?s=12",
+    "source": "X",
+    "captured_at": "2026-04-20T09:21:23Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "🚨 STOP BURNING YOUR TOKENS! If you use Claude Code, you are probably wasting 80% of your context window. I found 10 ace tools that will completely rescue your API bill. 1. Caveman Claude - Literally makes Claude talk like a caveman - Slashes 75% of output tokens with zero… https://t.co/wzCP8JpvIn pic.twitter.com/Vhy3OqthVY",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "extracted": {
+    "title": "",
+    "text": "🚨 STOP BURNING YOUR TOKENS! If you use Claude Code, you are probably wasting 80% of your context window. I found 10 ace tools that will completely rescue your API bill. 1. Caveman Claude - Literally makes Claude talk like a caveman - Slashes 75% of output tokens with zero… https://t.co/wzCP8JpvIn pic.twitter.com/Vhy3OqthVY",
+    "author": "Charly Wargnier",
+    "author_url": "https://twitter.com/DataChaz",
+    "tweet_url": "https://twitter.com/DataChaz/status/2045784379155226971"
+  }
+}

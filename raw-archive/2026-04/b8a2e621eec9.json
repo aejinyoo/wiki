@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "b8a2e621eec9",
+    "url": "https://x.com/lucas_flatwhite/status/2046089167059480883?s=12",
+    "source": "X",
+    "captured_at": "2026-04-20T11:17:39Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "📋 Claude Code 사용량 알아두면 좋은 것들 Claude 생태계는 모두 동일한 쿼터 풀을 공유해요. 웹에서 오전 내내 대화를 나눴다면, 터미널에서 코딩을 시작할 때 이미 한도가 상당히 줄어 있을 수 있죠. 먼저 관련 명령어가 여러 개 있는데, 역할이 조금씩 달라요. > /usage - 쿼터가 얼마나… https://t.co/5yNo8dIGbS pic.twitter.com/Za1ttsa9Vf",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "extracted": {
+    "title": "",
+    "text": "📋 Claude Code 사용량 알아두면 좋은 것들 Claude 생태계는 모두 동일한 쿼터 풀을 공유해요. 웹에서 오전 내내 대화를 나눴다면, 터미널에서 코딩을 시작할 때 이미 한도가 상당히 줄어 있을 수 있죠. 먼저 관련 명령어가 여러 개 있는데, 역할이 조금씩 달라요. > /usage - 쿼터가 얼마나… https://t.co/5yNo8dIGbS pic.twitter.com/Za1ttsa9Vf",
+    "author": "lucas",
+    "author_url": "https://twitter.com/lucas_flatwhite",
+    "tweet_url": "https://twitter.com/lucas_flatwhite/status/2046089167059480883"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-20T10:20:51Z",
+  "updated_at": "2026-04-20T23:08:26Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -97,6 +97,65 @@
       ],
       "path": "wiki/generative-tools/2026-04-19-claude-code-일반-워크플로우-가이드.md",
       "title": "Claude Code 일반 워크플로우 가이드"
+    },
+    "bbc903d4a81e": {
+      "url": "https://x.com/datachaz/status/2045784379155226971?s=12",
+      "source": "X",
+      "captured_at": "2026-04-20T09:21:23Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "claude",
+        "token-optimization",
+        "api-cost",
+        "prompt-engineering",
+        "code-generation"
+      ],
+      "path": "wiki/generative-tools/2026-04-20-claude-code-토큰-낭비-줄이는-10가지-도구.md",
+      "title": "Claude Code 토큰 낭비 줄이는 10가지 도구"
+    },
+    "1a79d603f19a": {
+      "url": "https://www.instagram.com/reel/DREp4KYEkMd/?igsh=MW0xM2NqMDl6MWN5cg==",
+      "source": "Instagram",
+      "captured_at": "2026-04-20T09:23:36Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "instagram",
+        "social-media"
+      ],
+      "path": "wiki/trend-reports/2026-04-20-인스타그램-릴.md",
+      "title": "인스타그램 릴"
+    },
+    "629e38f3b7a6": {
+      "url": "https://x.com/mizchi/status/2045501078574350450?s=12",
+      "source": "X",
+      "captured_at": "2026-04-20T11:16:41Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "skill-optimization",
+        "documentation",
+        "automation",
+        "developer-tools"
+      ],
+      "path": "wiki/generative-tools/2026-04-20-skillmd-자동화된-스킬-최적화-도구.md",
+      "title": "SKILL.md: 자동화된 스킬 최적화 도구"
+    },
+    "b8a2e621eec9": {
+      "url": "https://x.com/lucas_flatwhite/status/2046089167059480883?s=12",
+      "source": "X",
+      "captured_at": "2026-04-20T11:17:39Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "claude",
+        "code-generation",
+        "usage-limits",
+        "api-usage"
+      ],
+      "path": "wiki/generative-tools/2026-04-20-claude-code-사용량-관리-팁.md",
+      "title": "Claude Code 사용량 관리 팁"
     }
   }
 }
