@@ -1,10 +1,9 @@
 {
   "version": 1,
-  "updated_at": "2026-04-20T10:09:23Z",
+  "updated_at": "2026-04-20T10:20:51Z",
   "categories": {
-    "trend-reports": 2,
+    "trend-reports": 1,
     "agent-interaction": 2,
-    "ai-ux-patterns": 1,
     "generative-tools": 3
   },
   "tags": {
@@ -13,10 +12,6 @@
     "privacy-policy": 1,
     "cross-device-sync": 1,
     "web-experience": 1,
-    "instagram": 1,
-    "social-media": 1,
-    "content-analysis": 1,
-    "video-trends": 1,
     "automation": 3,
     "workflows": 1,
     "scheduled-tasks": 1,
@@ -27,10 +22,6 @@
     "cross-device": 1,
     "session-sync": 1,
     "developer-tools": 2,
-    "login": 1,
-    "signup": 1,
-    "ui-design": 1,
-    "onboarding": 1,
     "ai-coding": 1,
     "code-generation": 1,
     "cli": 1,
@@ -43,7 +34,6 @@
     "github-triggers": 1
   },
   "sources": {
-    "Manual": 6,
-    "Instagram": 2
+    "Manual": 6
   }
 }

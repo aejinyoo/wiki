@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-20T10:09:23Z",
+  "updated_at": "2026-04-20T10:20:51Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -97,127 +97,6 @@
       ],
       "path": "wiki/generative-tools/2026-04-19-claude-code-일반-워크플로우-가이드.md",
       "title": "Claude Code 일반 워크플로우 가이드"
-    },
-    "fe30c500a9b2": {
-      "url": "https://www.instagram.com/reel/DREp4KYEkMd/?igsh=MW0xM2NqMDl6MWN5cg==",
-      "source": "Instagram",
-      "captured_at": "2026-04-19T15:59:50Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "instagram",
-        "social-media",
-        "video-content",
-        "trends"
-      ],
-      "path": "wiki/trend-reports/2026-04-19-인스타그램-릴스.md",
-      "title": "인스타그램 릴스"
-    },
-    "c6d41d6c3a94": {
-      "url": "https://www.instagram.com/reel/DL8lt6vtoP1/?igsh=MWh4eWw1YXRsYmNs",
-      "source": "Instagram",
-      "captured_at": "2026-04-19T16:05:41Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "social-media",
-        "ui-design",
-        "onboarding",
-        "login-flow"
-      ],
-      "path": "wiki/trend-reports/2026-04-19-인스타그램-로그인가입-페이지.md",
-      "title": "인스타그램 로그인/가입 페이지"
-    },
-    "98b2b04f832f": {
-      "url": "https://www.instagram.com/reel/DJ9ZkjATePg/?igsh=MThyYXliN3A0dTJyaA==",
-      "source": "Instagram",
-      "captured_at": "2026-04-19T16:07:29Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "social-media",
-        "ui-design",
-        "onboarding",
-        "login-flow"
-      ],
-      "path": "wiki/trend-reports/2026-04-19-인스타그램-로그인가입-페이지.md",
-      "title": "인스타그램 로그인/가입 페이지"
-    },
-    "e8f30d4e6046": {
-      "url": "https://www.instagram.com/reel/DG0EPEaTLEL/?igsh=MW4weTMwc2h3a3JmZA==",
-      "source": "Instagram",
-      "captured_at": "2026-04-19T16:08:19Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "instagram",
-        "social-media",
-        "video-content",
-        "trends"
-      ],
-      "path": "wiki/trend-reports/2026-04-19-인스타그램-릴스.md",
-      "title": "인스타그램 릴스"
-    },
-    "f28f65ca1331": {
-      "url": "https://www.instagram.com/reel/DCG3VECy-W5/?igsh=bDZpdno2eDRnaTJ6",
-      "source": "Instagram",
-      "captured_at": "2026-04-19T16:08:31Z",
-      "status": "classified",
-      "category": "ai-ux-patterns",
-      "tags": [
-        "login",
-        "signup",
-        "ui-design",
-        "onboarding"
-      ],
-      "path": "wiki/ai-ux-patterns/2026-04-19-인스타그램-로그인가입-인터페이스.md",
-      "title": "인스타그램 로그인/가입 인터페이스"
-    },
-    "d4e7fd9a36f2": {
-      "url": "https://www.instagram.com/reel/DDCcIGmTR8l/?igsh=anY4aDdxdmg3OTBy",
-      "source": "Instagram",
-      "captured_at": "2026-04-19T16:09:44Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "social-media",
-        "ui-design",
-        "onboarding",
-        "login",
-        "signup"
-      ],
-      "path": "wiki/trend-reports/2026-04-19-인스타그램-로그인가입-페이지.md",
-      "title": "인스타그램 로그인/가입 페이지"
-    },
-    "87e0f096ffb4": {
-      "url": "https://www.instagram.com/reel/DC-eCXKTTRA/?igsh=MXFnc2ZvZjQxNXczZw==",
-      "source": "Instagram",
-      "captured_at": "2026-04-19T16:10:00Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "instagram",
-        "social-media",
-        "video-content",
-        "short-form-video"
-      ],
-      "path": "wiki/trend-reports/2026-04-19-인스타그램-릴스.md",
-      "title": "인스타그램 릴스"
-    },
-    "a9cc8cbce253": {
-      "url": "https://www.instagram.com/reel/DCoE1K6JlBL/?igsh=MTdndTd2d2c3dWU1eQ==",
-      "source": "Instagram",
-      "captured_at": "2026-04-19T16:10:40Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "instagram",
-        "social-media",
-        "content-analysis",
-        "video-trends"
-      ],
-      "path": "wiki/trend-reports/2026-04-19-인스타그램-릴스-콘텐츠-분석.md",
-      "title": "인스타그램 릴스 콘텐츠 분석"
     }
   }
 }
