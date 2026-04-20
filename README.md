@@ -5,6 +5,16 @@ AI 디자인 개인 위키. 모바일에서 공유한 링크가 자동으로 정
 - **소유자**: 애진 (개인용, 회사 계정 미사용)
 - **기획서**: [`design-wiki-agent-plan.md`](./design-wiki-agent-plan.md)
 
+## 레포 구성
+
+| 레포 | 역할 |
+|---|---|
+| **aejinyoo/wiki** (이 레포) | 처리된 문서 산출물 저장소 (데이터 레이어) |
+| [aejinyoo/wiki-agent](https://github.com/aejinyoo/wiki-agent) | 수집·분류·큐레이션 로직 (로직 레이어) |
+| [aejinyoo/wiki-site](https://github.com/aejinyoo/wiki-site) | 위키 결과물·데일리 브리프 웹사이트 (뷰 레이어) |
+
+데이터 흐름: iOS Shortcut → **이 repo의 Issues** → wiki-agent Actions → **이 repo 파일 커밋** → wiki-site 빌드
+
 ## 구조
 
 ```
