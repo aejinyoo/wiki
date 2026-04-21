@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-20T23:08:26Z",
+  "updated_at": "2026-04-21T23:06:30Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -156,6 +156,84 @@
       ],
       "path": "wiki/generative-tools/2026-04-20-claude-code-사용량-관리-팁.md",
       "title": "Claude Code 사용량 관리 팁"
+    },
+    "f02985ac7ed6": {
+      "url": "https://x.com/crypto_qianxun/status/2045789776218063212?s=12",
+      "source": "X",
+      "captured_at": "2026-04-21T10:21:46Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "image-generation",
+        "prompt-engineering",
+        "nano-banana-pro",
+        "ai-tools"
+      ],
+      "path": "wiki/generative-tools/2026-04-21-나노-바나나-pro-이미지-생성-완벽-가이드.md",
+      "title": "나노 바나나 Pro 이미지 생성 완벽 가이드"
+    },
+    "03699a433dd3": {
+      "url": "https://www.instagram.com/reel/DUiVqz4kYUt/?igsh=MWJ4b2lhdHc1M2I3ZA==",
+      "source": "Instagram",
+      "captured_at": "2026-04-21T10:29:55Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai-tool",
+        "background-removal",
+        "image-editing",
+        "photoshop-alternative"
+      ],
+      "path": "wiki/generative-tools/2026-04-21-투명-배경-누끼-따기-ai-툴.md",
+      "title": "투명 배경 누끼 따기 AI 툴"
+    },
+    "0e1f4a348a49": {
+      "url": "https://x.com/chorokmal/status/2045379017755516930?s=12",
+      "source": "X",
+      "captured_at": "2026-04-21T10:30:46Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "free-assets",
+        "textures",
+        "overlays",
+        "design-resources",
+        "ai-usage"
+      ],
+      "path": "wiki/generative-tools/2026-04-21-상업적-이용-가능한-무료-텍스쳐-400장-공유.md",
+      "title": "상업적 이용 가능한 무료 텍스쳐 400장 공유"
+    },
+    "d7c0c7be0fa9": {
+      "url": "https://x.com/designspot_jap/status/2036776023891865754?s=12",
+      "source": "X",
+      "captured_at": "2026-04-21T10:38:58Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "texture",
+        "halftone",
+        "print-effect",
+        "design-tips"
+      ],
+      "path": "wiki/generative-tools/2026-04-21-포토샵으로-하프톤-및-아날로그-인쇄-질감-표현하기.md",
+      "title": "포토샵으로 하프톤 및 아날로그 인쇄 질감 표현하기"
+    },
+    "5d4add5c4743": {
+      "url": "https://www.instagram.com/reel/DWOTjKwkkpf/?igsh=YnBqb2c5dHNrbDlj",
+      "source": "Instagram",
+      "captured_at": "2026-04-21T10:39:27Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai-icon-generator",
+        "3d-icons",
+        "figma-plugin",
+        "promptless-design",
+        "nanobanana"
+      ],
+      "path": "wiki/generative-tools/2026-04-21-blungeai-캔버스-기반-ai-아이콘-생성-서비스.md",
+      "title": "Blunge.ai: 캔버스 기반 AI 아이콘 생성 서비스"
     }
   }
 }
