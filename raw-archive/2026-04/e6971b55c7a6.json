@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "e6971b55c7a6",
+    "url": "https://x.com/stitchbygoogle/status/2046624729403142320?s=12",
+    "source": "X",
+    "captured_at": "2026-04-22T00:59:08Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Today, we’re open-sourcing the draft specification for DESIGN.md, so it can be used across any tool or platform. We’re also adding new capabilities. DESIGN.md lets you easily export and import your design rules from project to project. Instead of guessing intent, agents know… pic.twitter.com/lTSaq23jfd",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "extracted": {
+    "title": "",
+    "text": "Today, we’re open-sourcing the draft specification for DESIGN.md, so it can be used across any tool or platform. We’re also adding new capabilities. DESIGN.md lets you easily export and import your design rules from project to project. Instead of guessing intent, agents know… pic.twitter.com/lTSaq23jfd",
+    "author": "Stitch by Google",
+    "author_url": "https://twitter.com/stitchbygoogle",
+    "tweet_url": "https://twitter.com/stitchbygoogle/status/2046624729403142320"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "52945cd23259",
+    "url": "https://x.com/offtherecord26/status/2044787574573826051?s=12",
+    "source": "X",
+    "captured_at": "2026-04-22T11:42:06Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "https://t.co/XJNbtYju6B",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "extracted": {
+    "title": "",
+    "text": "https://t.co/XJNbtYju6B",
+    "author": "오프레",
+    "author_url": "https://twitter.com/offtherecord26",
+    "tweet_url": "https://twitter.com/offtherecord26/status/2044787574573826051"
+  }
+}

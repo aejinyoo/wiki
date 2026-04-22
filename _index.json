@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-21T23:06:30Z",
+  "updated_at": "2026-04-22T23:13:36Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -234,6 +234,51 @@
       ],
       "path": "wiki/generative-tools/2026-04-21-blungeai-캔버스-기반-ai-아이콘-생성-서비스.md",
       "title": "Blunge.ai: 캔버스 기반 AI 아이콘 생성 서비스"
+    },
+    "e6971b55c7a6": {
+      "url": "https://x.com/stitchbygoogle/status/2046624729403142320?s=12",
+      "source": "X",
+      "captured_at": "2026-04-22T00:59:08Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "design-md",
+        "open-source",
+        "design-rules",
+        "agent-intent"
+      ],
+      "path": "wiki/generative-tools/2026-04-22-google-designmd-초안-공개-및-기능-확장.md",
+      "title": "Google, DESIGN.md 초안 공개 및 기능 확장"
+    },
+    "52945cd23259": {
+      "url": "https://x.com/offtherecord26/status/2044787574573826051?s=12",
+      "source": "X",
+      "captured_at": "2026-04-22T11:42:06Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "chatbot",
+        "ux-design",
+        "ai-interaction",
+        "personalization"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-22-ai-기반-챗봇-사용자-경험-디자인의-새로운-지평.md",
+      "title": "AI 기반 챗봇, 사용자 경험 디자인의 새로운 지평"
+    },
+    "5fac2fee4992": {
+      "url": "https://x.com/hs_archiving/status/2029887661952086486?s=12",
+      "source": "X",
+      "captured_at": "2026-04-22T11:42:16Z",
+      "status": "classified",
+      "category": "prompt-ui",
+      "tags": [
+        "midjourney",
+        "prompt-engineering",
+        "learning-resources",
+        "ai-art"
+      ],
+      "path": "wiki/prompt-ui/2026-04-22-미드저니-프롬프트-학습-사이트-추천.md",
+      "title": "미드저니 프롬프트 학습 사이트 추천"
     }
   }
 }
