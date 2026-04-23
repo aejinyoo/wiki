@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "e50e4dc3cd72",
+    "url": "https://www.instagram.com/reel/DWgRQLcEpNI/?igsh=M3pzdmRyb3ZzZzJr",
+    "source": "Instagram",
+    "captured_at": "2026-04-23T14:56:47Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DWgRQLcEpNI/?igsh=M3pzdmRyb3ZzZzJr",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "11:56 1\n• | 7 673\n혹시 배경색과 피사체 색이 비슷해서 아직도 씨름하고 계신가요?\n(0) 수많은 방법 중 단연 가장 신박하고 재미있는 누끼따기 비법을 공개합니다!!\n심지어 흐릿한 경계까지 완벽하게 잡아내는 이 놀라운 방법, 지금 바로 저장해두고 인생 작업에 활용해보세요!\n0 한글판\n레이어 복제\n이미지 > 조정> 레벨\n입력 레벨 어두운 영역 슬라이더 오른쪽으로 이동 조정 아이콘> 단색 채우기> 원하는 색상 선택 블렌딩 모드 > 오버레이 선택\nShift 누르고 레이어 다중 선택 마우스 우클릭 > 레이어 병합 개체 선택 도구로 피사체 클릭 원본 레이어 선택 > 레이어 복제 나머지 레이어 눈을 꺼 확인하면 합성 완료\n트 영문판\nDuplicate Layer\nImage > Adjustments > Levels\nMove the dark Input Levels slider to the right Adjustments icon > Solid Color > Choose desired\ncolor\nSet Blending Mode to Overlay Hold Shift to multi-select layers\nRight-click > Merge Layers\nUse Object Selection Tool and click the subject\nSelect the original layer > Duplicate Layer Turn off other layers' visibility to confirm the\ncomposite\n사용된 단축키 정리\n레벨(Levels): Ctrl+ L\n서레이어 병합(Merge Layers): Ctrl+ E\n개체 선택 도구(Object Selection Tool): W\nh\nQ"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "6ee9c6976d4d",
+    "url": "https://www.instagram.com/reel/DVyjIHME-Ja/?igsh=MXBnNzExb2w2Yjh1ZQ==",
+    "source": "Instagram",
+    "captured_at": "2026-04-23T15:17:01Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DVyjIHME-Ja/?igsh=MXBnNzExb2w2Yjh1ZQ==",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "12:16\noll\n74\n© 32.1к Q 16.2к V 22.1К\nC 2,029\nukwaehan_osajang〉 프롬프트가 조금 깁니다! 복붙하실수 있게 정리해뒀는데 댓글에 '공사장' 남겨주시면 보내드릴께요!\n프롬프트 :\nUltra-high-resolution 4K enhancement based strictly on the provided reference image. Absolute fidelity to original facial anatomy, proportions, and identity.\nPreserve expression, gaze, pose, camera angle, framing, and perspective with zero deviation. Clothing, hair, skin, and background elements must remain unchanged in structure, placement, and design.\nRecover fine-grain detail with natural realism. Enhance pores, fine lines, hair strands, eyelashes, fabric weave, seams, and material edges without introducing stylization. Maintain original color science, white balance, and tonal relationships exactly as captured.\nLighting direction, intensity, contrast, and shadow behavior must match the source image precisely, with only improved clarity and expanded dynamic range. No relighting, no reshaping. Remove any grain.\nApply controlled sharpening and high-frequency detail reconstruction. Remove compression artifacts and noise while retaining authentic texture. No smoothing, no plastic skin, no artificial gloss. Facial features must remain consistent across the entire image with coherent anatomy and clean, stable edges.\nNegative constraints: no warping, no facial drift, no added or missing anatomy, no altered hands, no distortions, no perspective shift, no text or graphics, no hallucinated detail, no stylized rendering. Output must read as a true-to-life, photorealistic upscale that matches the reference exactly, only clearer, sharper, and higher resolution.\nMarch 13 • See translation\nQ\n田"
+  }
+}

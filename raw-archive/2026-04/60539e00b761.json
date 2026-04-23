@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "60539e00b761",
+    "url": "https://www.instagram.com/reel/DUsW1yJkpTZ/?igsh=YWtqN2hreG0ydGxh",
+    "source": "Instagram",
+    "captured_at": "2026-04-23T14:46:17Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DUsW1yJkpTZ/?igsh=YWtqN2hreG0ydGxh",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "11:46 A\n•今 623\nk 313\nLiked by e_hyunjung and others\nphotoshop.by.cat 자세한 내용 캡션 참조 (한글판/영문판/ 팁 포함)\n자동 누끼 작업 후 테두리가 남아 다시 손 봐야 할 때 있죠? 단순한 이미지는 괜찮아도, 틈이 많은 사진은 진짜 노가다..! ( 그럴 땐 이 방법만 알면 10초컷, 아니 5초컷도 가능해요! 99 지금 바로 저장하고 꿀팁 따라해보세요!\n:: 한글판\nCtrl 누르고 누끼(레이어) 썸네일 클릭하여 선택 영역 불러오\n기\n레이어 마스크 추가\n필터 > 기타 > 최소값 보존 옵션 > 원형율\n반경을 테두리가 사라질 때까지 조정>\n영문판\nCtrI-click the layer thumbnail to load the selection\nfrom the mask/alpha\nAdd a Layer Mask\nFilter > Other > Minimum\nIn the dialog, set Preserve to Roundness Adjust the Radius until the fringe/edge disappears Click OK to apply\n• Tip\n최소값 필터는 픽셀을 축소해 테두리 프린지를 제거하므로 반 경을 너무 크게 잡으면 형태가 손상됩니다. 가능한 작게, 테두리가 깨끗해질 정도로만 조정하세요."
+  }
+}
