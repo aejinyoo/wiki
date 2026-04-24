@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "09de4c0af8ea",
+    "url": "https://x.com/kunmandooo/status/2047573167271723365?s=12",
+    "source": "X",
+    "captured_at": "2026-04-24T10:31:01Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "성수 파작 ... 진짜 마싯더라 재방문의사 완전 있음 pic.twitter.com/6V5vOWExgU",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "성수 파작 ... 진짜 마싯더라 재방문의사 완전 있음 pic.twitter.com/6V5vOWExgU",
+    "author": "doo、、",
+    "author_url": "https://twitter.com/kunmandooo",
+    "tweet_url": "https://twitter.com/kunmandooo/status/2047573167271723365"
+  }
+}

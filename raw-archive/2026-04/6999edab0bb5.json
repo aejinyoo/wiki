@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "6999edab0bb5",
+    "url": "https://x.com/grav_stock/status/2046774348678099327?s=12",
+    "source": "X",
+    "captured_at": "2026-04-24T10:35:52Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "FREE 4K Grain Texture in my pack! https://t.co/pvE4o585SD pic.twitter.com/gdQuAiEV7i",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "FREE 4K Grain Texture in my pack! https://t.co/pvE4o585SD pic.twitter.com/gdQuAiEV7i",
+    "author": "Gravstock",
+    "author_url": "https://twitter.com/grav_stock",
+    "tweet_url": "https://twitter.com/grav_stock/status/2046774348678099327"
+  }
+}

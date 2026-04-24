@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "4d59a589aefd",
+    "url": "https://x.com/supernovajunn/status/2047282760734433433?s=12",
+    "source": "X",
+    "captured_at": "2026-04-24T10:28:24Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "https://t.co/v4FMPXnLRM",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "https://t.co/v4FMPXnLRM",
+    "author": "Cognac(꼬냑)",
+    "author_url": "https://twitter.com/supernovajunn",
+    "tweet_url": "https://twitter.com/supernovajunn/status/2047282760734433433"
+  }
+}

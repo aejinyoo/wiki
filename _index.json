@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-24T02:04:21Z",
+  "updated_at": "2026-04-24T23:06:34Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -357,6 +357,67 @@
       ],
       "path": "wiki/prompt-ui/2026-04-23-ai-이미지-업스케일링-프롬프트.md",
       "title": "AI 이미지 업스케일링 프롬프트"
+    },
+    "4d59a589aefd": {
+      "url": "https://x.com/supernovajunn/status/2047282760734433433?s=12",
+      "source": "X",
+      "captured_at": "2026-04-24T10:28:24Z",
+      "status": "classified",
+      "category": "agent-interaction",
+      "tags": [
+        "ai-agent",
+        "intent-recognition",
+        "human-ai-collaboration",
+        "prompting"
+      ],
+      "path": "wiki/agent-interaction/2026-04-24-ai-에이전트-인간의-의도를-파악하는-새로운-방법.md",
+      "title": "AI 에이전트, 인간의 의도를 파악하는 새로운 방법"
+    },
+    "09de4c0af8ea": {
+      "url": "https://x.com/kunmandooo/status/2047573167271723365?s=12",
+      "source": "X",
+      "captured_at": "2026-04-24T10:31:01Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "맛집",
+        "성수",
+        "음식",
+        "추천"
+      ],
+      "path": "wiki/trend-reports/2026-04-24-성수-파작-맛집-탐방-후기.md",
+      "title": "성수 파작: 맛집 탐방 후기"
+    },
+    "6999edab0bb5": {
+      "url": "https://x.com/grav_stock/status/2046774348678099327?s=12",
+      "source": "X",
+      "captured_at": "2026-04-24T10:35:52Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "freebie",
+        "texture",
+        "4k",
+        "visual-effects",
+        "motion-graphics"
+      ],
+      "path": "wiki/generative-tools/2026-04-24-무료-4k-그레인-텍스처-팩-제공.md",
+      "title": "무료 4K 그레인 텍스처 팩 제공"
+    },
+    "e18fc1ce3628": {
+      "url": "https://x.com/lisaknowsai/status/2047268606270926960?s=12",
+      "source": "X",
+      "captured_at": "2026-04-24T10:45:15Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "image-upscaling",
+        "8k",
+        "ai-image",
+        "photorealism"
+      ],
+      "path": "wiki/generative-tools/2026-04-24-8k-초고화질-이미지-업스케일링-도구.md",
+      "title": "8K 초고화질 이미지 업스케일링 도구"
     }
   }
 }
