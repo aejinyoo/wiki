@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-23T23:12:55Z",
+  "updated_at": "2026-04-24T02:04:21Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -311,21 +311,6 @@
       ],
       "path": "wiki/trend-reports/2026-04-23-들기름을-활용한-꾸덕한-한식-파스타-레시피.md",
       "title": "들기름을 활용한 꾸덕한 한식 파스타 레시피"
-    },
-    "72d39dcc3944": {
-      "url": "https://youtube.com/watch?v=pnJOd5H5Zsc&si=h5-ZxNqFFnlCk9A0",
-      "source": "YouTube",
-      "captured_at": "2026-04-23T06:38:15Z",
-      "status": "classified",
-      "category": "ai-ux-patterns",
-      "tags": [
-        "개인화",
-        "ai-튜터",
-        "학습 경험",
-        "적응형 학습"
-      ],
-      "path": "wiki/ai-ux-patterns/2026-04-23-ai-기반-개인화된-학습-경험-디자인.md",
-      "title": "AI 기반 개인화된 학습 경험 디자인"
     },
     "60539e00b761": {
       "url": "https://www.instagram.com/reel/DUsW1yJkpTZ/?igsh=YWtqN2hreG0ydGxh",
