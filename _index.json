@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-24T23:06:34Z",
+  "updated_at": "2026-04-25T23:04:45Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -418,6 +418,37 @@
       ],
       "path": "wiki/generative-tools/2026-04-24-8k-초고화질-이미지-업스케일링-도구.md",
       "title": "8K 초고화질 이미지 업스케일링 도구"
+    },
+    "673be5909e67": {
+      "url": "https://x.com/eng_khairallah1/status/2047609433489035739?s=12",
+      "source": "X",
+      "captured_at": "2026-04-25T13:42:46Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai-coding",
+        "code-generation",
+        "developer-tools",
+        "future-of-coding"
+      ],
+      "path": "wiki/generative-tools/2026-04-25-ai-기반-코드-생성-도구의-잠재력과-한계.md",
+      "title": "AI 기반 코드 생성 도구의 잠재력과 한계"
+    },
+    "eb2ac2ca9a8d": {
+      "url": "https://www.instagram.com/reel/DWY1N0wj5G4/?igsh=M3ZoeDU4cXV0eGdx",
+      "source": "Instagram",
+      "captured_at": "2026-04-25T13:47:22Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "lighting-effects",
+        "design-tutorial",
+        "visual-hierarchy",
+        "editing-tips"
+      ],
+      "path": "wiki/generative-tools/2026-04-25-포토샵-로컬-조명-효과-튜토리얼.md",
+      "title": "포토샵 로컬 조명 효과 튜토리얼"
     }
   }
 }
