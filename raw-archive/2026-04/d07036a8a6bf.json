@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "d07036a8a6bf",
+    "url": "https://x.com/yeotthang/status/2047872307193118990?s=12",
+    "source": "X",
+    "captured_at": "2026-04-26T02:19:56Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "https://t.co/kqGgzQKkvD",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "https://t.co/kqGgzQKkvD",
+    "author": "여땡",
+    "author_url": "https://twitter.com/yeotthang",
+    "tweet_url": "https://twitter.com/yeotthang/status/2047872307193118990"
+  }
+}

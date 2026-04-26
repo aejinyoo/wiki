@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-25T23:04:45Z",
+  "updated_at": "2026-04-26T23:05:47Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -449,6 +449,37 @@
       ],
       "path": "wiki/generative-tools/2026-04-25-포토샵-로컬-조명-효과-튜토리얼.md",
       "title": "포토샵 로컬 조명 효과 튜토리얼"
+    },
+    "d07036a8a6bf": {
+      "url": "https://x.com/yeotthang/status/2047872307193118990?s=12",
+      "source": "X",
+      "captured_at": "2026-04-26T02:19:56Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "chatbot",
+        "ux",
+        "ai-design",
+        "user-experience"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-26-ai-기반-챗봇-사용자-경험-향상을-위한-팁.md",
+      "title": "AI 기반 챗봇, 사용자 경험 향상을 위한 팁"
+    },
+    "901fd9bb6e88": {
+      "url": "https://www.instagram.com/reel/DXKqUXtE8j2/?igsh=MWFvbHJka2pob21scA==",
+      "source": "Instagram",
+      "captured_at": "2026-04-26T10:29:49Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "compositing",
+        "fire-effects",
+        "visual-effects",
+        "tutorial"
+      ],
+      "path": "wiki/generative-tools/2026-04-26-포토샵으로-불-효과-합성하는-방법.md",
+      "title": "포토샵으로 불 효과 합성하는 방법"
     }
   }
 }
