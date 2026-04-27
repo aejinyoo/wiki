@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "51b3f4d702d6",
+    "url": "https://youtube.com/shorts/X8L_YtM4kk8?si=ibTlFRiUIYPMSSVQ",
+    "source": "YouTube",
+    "captured_at": "2026-04-27T11:03:10Z",
+    "title": "깻잎 차지키소스\r\r오이+요거트 조합, 상큼함 끝판왕🥒\r딜 대신 깻잎 넣었더니 더 한국인 취향!\r여기저기 쓰임 많은 소스예요❤",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "깻잎 차지키소스\r\n\r\n오이+요거트 조합, 상큼함 끝판왕🥒\r\n딜 대신 깻잎 넣었더니 더 한국인 취향!\r\n여기저기 쓰임 많은 소스예요❤\r\n\r\n\r\n[재료]\r\n오이1개, 소금 1티스푼 \r\n그릭요거트 2숟가락 가득, 깻잎 2장, 올리브유 2숟가락, 레몬즙 1숟가락, 다진 마늘 1/2숟가락, 후추 약간\r\n\r\n\r\n1.오이는 속을 제거하고 얇게 썰어준다.\r\n2.소금 1티스푼을 넣고 10분간 절이고 물기를 꽉 짜준다.\r\n3.깻잎을 잘게 썰어준다. \r\n4.그릭요거트, 올리브유, 레몬즙, 다진 마늘, 소금, 후추, 넣어서 섞어놓고\r\n5.오이와 깻잎을 넣어 섞어주면 완성\r\n\r\n\r\n#오이샐러드 #차지키소스 #오이샌드위치 #만개의레시피",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "깻잎 차지키소스\r\r오이+요거트 조합, 상큼함 끝판왕🥒\r딜 대신 깻잎 넣었더니 더 한국인 취향!\r여기저기 쓰임 많은 소스예요❤",
+    "text": "깻잎 차지키소스\r\n\r\n오이+요거트 조합, 상큼함 끝판왕🥒\r\n딜 대신 깻잎 넣었더니 더 한국인 취향!\r\n여기저기 쓰임 많은 소스예요❤\r\n\r\n\r\n[재료]\r\n오이1개, 소금 1티스푼 \r\n그릭요거트 2숟가락 가득, 깻잎 2장, 올리브유 2숟가락, 레몬즙 1숟가락, 다진 마늘 1/2숟가락, 후추 약간\r\n\r\n\r\n1.오이는 속을 제거하고 얇게 썰어준다.\r\n2.소금 1티스푼을 넣고 10분간 절이고 물기를 꽉 짜준다.\r\n3.깻잎을 잘게 썰어준다. \r\n4.그릭요거트, 올리브유, 레몬즙, 다진 마늘, 소금, 후추, 넣어서 섞어놓고\r\n5.오이와 깻잎을 넣어 섞어주면 완성\r\n\r\n\r\n#오이샐러드 #차지키소스 #오이샌드위치 #만개의레시피",
+    "video_id": "X8L_YtM4kk8",
+    "channel": "만개의레시피 10K Recipe",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/X8L_YtM4kk8/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

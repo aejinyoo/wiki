@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-26T23:05:47Z",
+  "updated_at": "2026-04-27T23:28:21Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -480,6 +480,68 @@
       ],
       "path": "wiki/generative-tools/2026-04-26-포토샵으로-불-효과-합성하는-방법.md",
       "title": "포토샵으로 불 효과 합성하는 방법"
+    },
+    "76576c11ea6a": {
+      "url": "https://youtube.com/shorts/Pd-2F2gZoH8?si=z_4uOD6avIuwMEYp",
+      "source": "YouTube",
+      "captured_at": "2026-04-25T13:51:23Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "레시피",
+        "다이어트",
+        "간편식",
+        "토스트",
+        "건강식"
+      ],
+      "path": "wiki/trend-reports/2026-04-25-5분-완성-다이어트-참치-오이-토스트-레시피.md",
+      "title": "5분 완성 다이어트 참치 오이 토스트 레시피"
+    },
+    "51b3f4d702d6": {
+      "url": "https://youtube.com/shorts/X8L_YtM4kk8?si=ibTlFRiUIYPMSSVQ",
+      "source": "YouTube",
+      "captured_at": "2026-04-27T11:03:10Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "레시피",
+        "요리",
+        "깻잎",
+        "차지키소스",
+        "요거트"
+      ],
+      "path": "wiki/trend-reports/2026-04-27-깻잎-활용한-상큼한-오이-차지키-소스-레시피.md",
+      "title": "깻잎 활용한 상큼한 오이 차지키 소스 레시피"
+    },
+    "44dbb885344a": {
+      "url": "https://x.com/grav_stock/status/2048584220163834082?s=12",
+      "source": "X",
+      "captured_at": "2026-04-27T13:13:48Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "image-blending",
+        "design-tips",
+        "graphic-design"
+      ],
+      "path": "wiki/generative-tools/2026-04-27-포토샵-이미지-합성-팁.md",
+      "title": "포토샵 이미지 합성 팁"
+    },
+    "4c3cb00d6507": {
+      "url": "https://x.com/pietrobaudin/status/2024194901458481498?s=12",
+      "source": "X",
+      "captured_at": "2026-04-27T13:16:49Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "design-tools",
+        "tutorial",
+        "graphics"
+      ],
+      "path": "wiki/generative-tools/2026-04-27-포토샵-2026-팁-트릭-smartgraphicss.md",
+      "title": "포토샵 2026 팁 & 트릭 (smart.graphicss)"
     }
   }
 }

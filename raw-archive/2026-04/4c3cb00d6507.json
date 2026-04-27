@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "4c3cb00d6507",
+    "url": "https://x.com/pietrobaudin/status/2024194901458481498?s=12",
+    "source": "X",
+    "captured_at": "2026-04-27T13:16:49Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Photoshop 2026 tip and tricks By smart.graphicss pic.twitter.com/QbQfKFzom4",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Photoshop 2026 tip and tricks By smart.graphicss pic.twitter.com/QbQfKFzom4",
+    "author": "Pietro Baudin",
+    "author_url": "https://twitter.com/pietrobaudin",
+    "tweet_url": "https://twitter.com/pietrobaudin/status/2024194901458481498"
+  }
+}

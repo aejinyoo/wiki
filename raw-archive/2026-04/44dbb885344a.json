@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "44dbb885344a",
+    "url": "https://x.com/grav_stock/status/2048584220163834082?s=12",
+    "source": "X",
+    "captured_at": "2026-04-27T13:13:48Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Photoshop short Tips and Tricks - Blend imagess (smart.graphicss) pic.twitter.com/IV6hxoOucY",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Photoshop short Tips and Tricks - Blend imagess (smart.graphicss) pic.twitter.com/IV6hxoOucY",
+    "author": "Gravstock",
+    "author_url": "https://twitter.com/grav_stock",
+    "tweet_url": "https://twitter.com/grav_stock/status/2048584220163834082"
+  }
+}
