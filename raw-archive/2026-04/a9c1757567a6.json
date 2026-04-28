@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "a9c1757567a6",
+    "url": "https://youtube.com/shorts/y4K7Tp7Gr78?si=Hh9egQECLiDkdOVF",
+    "source": "YouTube",
+    "captured_at": "2026-04-28T13:43:45Z",
+    "title": "일본에서 마파두부를 주문하면 생기는 일",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "일본의 특별한 마파두부집입니다\n\n생두부를 눈앞에서 만들어주는 곳으로, 그릇에 두유를 붓고 건드리지 않으면 푸딩처럼 보드라운 두부가 순식간에 완성👀 마파 소스를 올려 부드러운 질감에 매콤한 감칠맛이 어우러집니다.\n\n볶음밥과 특히 궁합이 좋아서 함께 즐기시는 걸 추천! \n\n[mei xin restaurant Yokohama]\n- 위치: Japan, Kanagawa, Yokohama, Naka Ward, Yamashitacho 126-1\n- 영업: 매일 11:00 - 21:00\n- 메뉴: 마파두부 (1,750엔), XO소스 볶음밥 (1,180엔)\n\nA unique mapo tofu spot in Japan.\n\nThey make fresh tofu right in front of you—pour soy milk into a bowl and leave it untouched, and it turns into a silky, pudding-like tofu in no time 👀\n\nTopped with mapo sauce, the soft texture blends perfectly with a spicy, savory flavor. It pairs especially well with fried rice, so I’d recommend ordering them together.\n\n[mei xin restaurant Yokohama]\n- Location: 126-1 Yamashitacho, Naka Ward, Yokohama, Kanagawa, Japan\n- Hours: 11:00 – 21:00 (Daily)\n- Menu: Mapo Tofu (¥1,750), XO Sauce Fried Rice (¥1,180)",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "일본에서 마파두부를 주문하면 생기는 일",
+    "text": "일본의 특별한 마파두부집입니다\n\n생두부를 눈앞에서 만들어주는 곳으로, 그릇에 두유를 붓고 건드리지 않으면 푸딩처럼 보드라운 두부가 순식간에 완성👀 마파 소스를 올려 부드러운 질감에 매콤한 감칠맛이 어우러집니다.\n\n볶음밥과 특히 궁합이 좋아서 함께 즐기시는 걸 추천! \n\n[mei xin restaurant Yokohama]\n- 위치: Japan, Kanagawa, Yokohama, Naka Ward, Yamashitacho 126-1\n- 영업: 매일 11:00 - 21:00\n- 메뉴: 마파두부 (1,750엔), XO소스 볶음밥 (1,180엔)\n\nA unique mapo tofu spot in Japan.\n\nThey make fresh tofu right in front of you—pour soy milk into a bowl and leave it untouched, and it turns into a silky, pudding-like tofu in no time 👀\n\nTopped with mapo sauce, the soft texture blends perfectly with a spicy, savory flavor. It pairs especially well with fried rice, so I’d recommend ordering them together.\n\n[mei xin restaurant Yokohama]\n- Location: 126-1 Yamashitacho, Naka Ward, Yokohama, Kanagawa, Japan\n- Hours: 11:00 – 21:00 (Daily)\n- Menu: Mapo Tofu (¥1,750), XO Sauce Fried Rice (¥1,180)",
+    "video_id": "y4K7Tp7Gr78",
+    "channel": "공간 탐닉 Space Tamnik",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/y4K7Tp7Gr78/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

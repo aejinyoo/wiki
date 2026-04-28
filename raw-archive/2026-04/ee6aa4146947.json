@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "ee6aa4146947",
+    "url": "https://youtube.com/watch?v=WaqjcRwkKd8&si=lEI_PqQufykR1j_l",
+    "source": "YouTube",
+    "captured_at": "2026-04-28T13:36:16Z",
+    "title": "먹는 줄만 알면 매력적인 고수님들을 위해  #고수 #김치 #레시피",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "먹는 줄만 알면 매력적인 고수님들을 위해  #고수 #김치 #레시피",
+    "text": "",
+    "video_id": "WaqjcRwkKd8",
+    "channel": "쿡톡 (빛 & 소금)",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/WaqjcRwkKd8/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

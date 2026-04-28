@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-27T23:28:21Z",
+  "updated_at": "2026-04-28T23:28:13Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -542,6 +542,53 @@
       ],
       "path": "wiki/generative-tools/2026-04-27-포토샵-2026-팁-트릭-smartgraphicss.md",
       "title": "포토샵 2026 팁 & 트릭 (smart.graphicss)"
+    },
+    "50aa8c43e2f8": {
+      "url": "https://www.instagram.com/reel/DW6S36sjwqR/?igsh=cXRzcHk5dzNuaW8y",
+      "source": "Instagram",
+      "captured_at": "2026-04-28T13:34:45Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "perspective",
+        "tutorial",
+        "design-tips"
+      ],
+      "path": "wiki/generative-tools/2026-04-28-포토샵-투시-보정-튜토리얼.md",
+      "title": "포토샵 투시 보정 튜토리얼"
+    },
+    "ee6aa4146947": {
+      "url": "https://youtube.com/watch?v=WaqjcRwkKd8&si=lEI_PqQufykR1j_l",
+      "source": "YouTube",
+      "captured_at": "2026-04-28T13:36:16Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "고수",
+        "김치",
+        "레시피",
+        "요리",
+        "음식"
+      ],
+      "path": "wiki/trend-reports/2026-04-28-고수-김치-레시피-고수-애호가를-위한-특별한-요리.md",
+      "title": "고수 김치 레시피: 고수 애호가를 위한 특별한 요리"
+    },
+    "a9c1757567a6": {
+      "url": "https://youtube.com/shorts/y4K7Tp7Gr78?si=Hh9egQECLiDkdOVF",
+      "source": "YouTube",
+      "captured_at": "2026-04-28T13:43:45Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "일본",
+        "요코하마",
+        "마파두부",
+        "맛집",
+        "푸딩 두부"
+      ],
+      "path": "wiki/trend-reports/2026-04-28-일본-요코하마의-특별한-즉석-마파두부-맛집.md",
+      "title": "일본 요코하마의 특별한 즉석 마파두부 맛집"
     }
   }
 }
