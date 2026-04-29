@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "d49a04ca72a1",
+    "url": "https://x.com/so_ainsight/status/2049322552036868169?s=12",
+    "source": "X",
+    "captured_at": "2026-04-29T15:18:02Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "無料なのが信じられないオープンソースのAIツール10選： 1. Fooocus Midjourneyの代替。自分のノートPCで動いて、3クリックで初画像まで到達できる。 https://t.co/5aexZeO6Pr 2. ComfyUI プロのAIアーティストが本番制作で使う画像生成ツール。スタジオでも採用されている本気仕様。… pic.twitter.com/iWteS1Ocp5",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "無料なのが信じられないオープンソースのAIツール10選： 1. Fooocus Midjourneyの代替。自分のノートPCで動いて、3クリックで初画像まで到達できる。 https://t.co/5aexZeO6Pr 2. ComfyUI プロのAIアーティストが本番制作で使う画像生成ツール。スタジオでも採用されている本気仕様。… pic.twitter.com/iWteS1Ocp5",
+    "author": "そう｜Claude Codeで始めるAI自動化",
+    "author_url": "https://twitter.com/so_ainsight",
+    "tweet_url": "https://twitter.com/so_ainsight/status/2049322552036868169"
+  }
+}

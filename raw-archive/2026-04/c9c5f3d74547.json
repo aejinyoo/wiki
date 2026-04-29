@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "c9c5f3d74547",
+    "url": "https://x.com/cyrilxbt/status/2049093475560301009?s=12",
+    "source": "X",
+    "captured_at": "2026-04-29T08:17:36Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "https://t.co/k2BhDLoO2M",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "https://t.co/k2BhDLoO2M",
+    "author": "CyrilXBT",
+    "author_url": "https://twitter.com/cyrilXBT",
+    "tweet_url": "https://twitter.com/cyrilXBT/status/2049093475560301009"
+  }
+}

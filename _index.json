@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-28T23:28:13Z",
+  "updated_at": "2026-04-29T23:28:10Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -589,6 +589,52 @@
       ],
       "path": "wiki/trend-reports/2026-04-28-일본-요코하마의-특별한-즉석-마파두부-맛집.md",
       "title": "일본 요코하마의 특별한 즉석 마파두부 맛집"
+    },
+    "c9c5f3d74547": {
+      "url": "https://x.com/cyrilxbt/status/2049093475560301009?s=12",
+      "source": "X",
+      "captured_at": "2026-04-29T08:17:36Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai",
+        "text-generation",
+        "writing-assistant",
+        "content-creation"
+      ],
+      "path": "wiki/generative-tools/2026-04-29-ai-기반-텍스트-생성-도구-소개.md",
+      "title": "AI 기반 텍스트 생성 도구 소개"
+    },
+    "8c564ed03be0": {
+      "url": "https://www.instagram.com/reel/DXqP7ctD4x-/?igsh=ZG9lNGpsYjU1dTJz",
+      "source": "Instagram",
+      "captured_at": "2026-04-29T13:56:26Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "food-event",
+        "korean-food",
+        "suwon",
+        "discount"
+      ],
+      "path": "wiki/trend-reports/2026-04-29-망포동-1티어-로스카츠-만원-이벤트.md",
+      "title": "망포동 1티어 로스카츠 만원 이벤트"
+    },
+    "d49a04ca72a1": {
+      "url": "https://x.com/so_ainsight/status/2049322552036868169?s=12",
+      "source": "X",
+      "captured_at": "2026-04-29T15:18:02Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "open-source",
+        "free-tools",
+        "ai-art",
+        "fooocus",
+        "comfyui"
+      ],
+      "path": "wiki/generative-tools/2026-04-29-무료-오픈소스-ai-도구-10선-fooocus-comfyui-등.md",
+      "title": "무료 오픈소스 AI 도구 10선: Fooocus, ComfyUI 등"
     }
   }
 }
