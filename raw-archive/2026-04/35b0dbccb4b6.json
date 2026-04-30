@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "35b0dbccb4b6",
+    "url": "https://x.com/eng_khairallah1/status/2044339963316302313?s=12",
+    "source": "X",
+    "captured_at": "2026-04-30T00:32:05Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "https://t.co/pj9owQa3u3",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "https://t.co/pj9owQa3u3",
+    "author": "Khairallah AL-Awady",
+    "author_url": "https://twitter.com/eng_khairallah1",
+    "tweet_url": "https://twitter.com/eng_khairallah1/status/2044339963316302313"
+  }
+}

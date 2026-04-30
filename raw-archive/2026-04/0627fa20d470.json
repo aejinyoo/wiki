@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "0627fa20d470",
+    "url": "https://x.com/cursor_ai/status/2049499866217185492?s=12",
+    "source": "X",
+    "captured_at": "2026-04-30T00:50:34Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "We’re introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor. Run agents from CI/CD pipelines, create automations for end-to-end workflows, or embed agents directly inside your products. pic.twitter.com/bRcn9xjuVz",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "We’re introducing the Cursor SDK so you can build agents with the same runtime, harness, and models that power Cursor. Run agents from CI/CD pipelines, create automations for end-to-end workflows, or embed agents directly inside your products. pic.twitter.com/bRcn9xjuVz",
+    "author": "Cursor",
+    "author_url": "https://twitter.com/cursor_ai",
+    "tweet_url": "https://twitter.com/cursor_ai/status/2049499866217185492"
+  }
+}

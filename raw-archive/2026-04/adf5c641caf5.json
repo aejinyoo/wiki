@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "adf5c641caf5",
+    "url": "https://x.com/shipper_now/status/2049441395866509492?s=12",
+    "source": "X",
+    "captured_at": "2026-04-30T00:34:34Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Introducing Website to App. Turn any website into an native mobile app. Just paste a URL. Claude Opus 4.7 will code, design, launch and translate a mobile app inspired by the original website. We’ve been using this internally a ton for iOS/Android apps. pic.twitter.com/daTyvT0rTM",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Introducing Website to App. Turn any website into an native mobile app. Just paste a URL. Claude Opus 4.7 will code, design, launch and translate a mobile app inspired by the original website. We’ve been using this internally a ton for iOS/Android apps. pic.twitter.com/daTyvT0rTM",
+    "author": "Shipper",
+    "author_url": "https://twitter.com/shipper_now",
+    "tweet_url": "https://twitter.com/shipper_now/status/2049441395866509492"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "b48123c2543d",
+    "url": "https://x.com/bram_naus/status/2049432209384161440?s=12",
+    "source": "X",
+    "captured_at": "2026-04-30T00:26:27Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Insane that this is free. Clean, modern, techy sans serif. Download link below. pic.twitter.com/Fsub9xUb7h",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Insane that this is free. Clean, modern, techy sans serif. Download link below. pic.twitter.com/Fsub9xUb7h",
+    "author": "bram naus",
+    "author_url": "https://twitter.com/bram_naus",
+    "tweet_url": "https://twitter.com/bram_naus/status/2049432209384161440"
+  }
+}

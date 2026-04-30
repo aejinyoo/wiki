@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-29T23:28:10Z",
+  "updated_at": "2026-04-30T23:27:16Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -635,6 +635,67 @@
       ],
       "path": "wiki/generative-tools/2026-04-29-무료-오픈소스-ai-도구-10선-fooocus-comfyui-등.md",
       "title": "무료 오픈소스 AI 도구 10선: Fooocus, ComfyUI 등"
+    },
+    "b48123c2543d": {
+      "url": "https://x.com/bram_naus/status/2049432209384161440?s=12",
+      "source": "X",
+      "captured_at": "2026-04-30T00:26:27Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "font",
+        "free-font",
+        "sans-serif",
+        "design-resources"
+      ],
+      "path": "wiki/generative-tools/2026-04-30-무료-폰트-깔끔하고-현대적인-테크니컬-산세리프.md",
+      "title": "무료 폰트: 깔끔하고 현대적인 테크니컬 산세리프"
+    },
+    "35b0dbccb4b6": {
+      "url": "https://x.com/eng_khairallah1/status/2044339963316302313?s=12",
+      "source": "X",
+      "captured_at": "2026-04-30T00:32:05Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "chatbot",
+        "ux",
+        "ai-design",
+        "personalization"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-30-ai-기반-챗봇-사용자-경험-향상을-위한-팁.md",
+      "title": "AI 기반 챗봇, 사용자 경험 향상을 위한 팁"
+    },
+    "adf5c641caf5": {
+      "url": "https://x.com/shipper_now/status/2049441395866509492?s=12",
+      "source": "X",
+      "captured_at": "2026-04-30T00:34:34Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "no-code",
+        "app-development",
+        "ai-powered",
+        "website-to-app"
+      ],
+      "path": "wiki/generative-tools/2026-04-30-웹사이트를-네이티브-앱으로-변환하는-website-to-app-출시.md",
+      "title": "웹사이트를 네이티브 앱으로 변환하는 'Website to App' 출시"
+    },
+    "0627fa20d470": {
+      "url": "https://x.com/cursor_ai/status/2049499866217185492?s=12",
+      "source": "X",
+      "captured_at": "2026-04-30T00:50:34Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "sdk",
+        "ai-agents",
+        "developer-tools",
+        "automation",
+        "cursor-ai"
+      ],
+      "path": "wiki/generative-tools/2026-04-30-cursor-ai-개발자-위한-sdk-출시.md",
+      "title": "Cursor AI, 개발자 위한 SDK 출시"
     }
   }
 }
