@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "147627f5cd83",
+    "url": "https://youtube.com/shorts/5TVnGpYPFgo?si=myz33F2meAO8t1_g",
+    "source": "YouTube",
+    "captured_at": "2026-05-01T14:40:32Z",
+    "title": "이 파스타 레시피 무조건 알아야 됨 #궁극의레시피",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "이 파스타 레시피 무조건 알아야 됨 #궁극의레시피",
+    "text": "",
+    "video_id": "5TVnGpYPFgo",
+    "channel": "연늘",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/5TVnGpYPFgo/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

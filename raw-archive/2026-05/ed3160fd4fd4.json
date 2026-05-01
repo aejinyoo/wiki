@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "ed3160fd4fd4",
+    "url": "https://youtube.com/watch?v=QFgu_ngUU4U&si=Q5wSMaaMkHZMskls",
+    "source": "YouTube",
+    "captured_at": "2026-05-01T14:41:53Z",
+    "title": "양배추로 다이어트 파스타 만들기",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "#요리 #레시피 #자취요리 #자취레시피 #다이어트브이로그 #다이어터 #다이어트 #양배추 #파스타 #파스타레시피 #양배추김파스타",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "양배추로 다이어트 파스타 만들기",
+    "text": "#요리 #레시피 #자취요리 #자취레시피 #다이어트브이로그 #다이어터 #다이어트 #양배추 #파스타 #파스타레시피 #양배추김파스타",
+    "video_id": "QFgu_ngUU4U",
+    "channel": "쿡훈 Cook_Hoon_",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/QFgu_ngUU4U/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

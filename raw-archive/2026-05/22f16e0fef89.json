@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "22f16e0fef89",
+    "url": "https://youtube.com/shorts/7I4duVuCjxw?si=H7_cRl95oJsZXwNf",
+    "source": "YouTube",
+    "captured_at": "2026-05-01T14:41:22Z",
+    "title": "절대 모르면 안되는 양배추 레시피",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "#양배추야끼소바파스타 #야끼소바파스타 #다이어터 #shorts #다이어트브이로그 #레시피 #영양식 #자취요리 #요리로그 #파스타 #양배추",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "절대 모르면 안되는 양배추 레시피",
+    "text": "#양배추야끼소바파스타 #야끼소바파스타 #다이어터 #shorts #다이어트브이로그 #레시피 #영양식 #자취요리 #요리로그 #파스타 #양배추",
+    "video_id": "7I4duVuCjxw",
+    "channel": "1분다이어터 1mindiet",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/7I4duVuCjxw/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}
