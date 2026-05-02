@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-01T23:26:18Z",
+  "updated_at": "2026-05-02T23:08:58Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -743,6 +743,21 @@
       ],
       "path": "wiki/trend-reports/2026-05-01-양배추로-만드는-초간단-다이어트-파스타-레시피.md",
       "title": "양배추로 만드는 초간단 다이어트 파스타 레시피"
+    },
+    "d8320350cc96": {
+      "url": "https://x.com/milesdeutscher/status/2049618781841031551?s=12",
+      "source": "X",
+      "captured_at": "2026-05-02T12:27:19Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "ai-agents",
+        "text-ui",
+        "prompt-engineering",
+        "ux-design"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-05-02-ai-에이전트의-새로운-가능성-텍스트-기반-인터페이스.md",
+      "title": "AI 에이전트의 새로운 가능성: 텍스트 기반 인터페이스"
     }
   }
 }

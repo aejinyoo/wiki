@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "d8320350cc96",
+    "url": "https://x.com/milesdeutscher/status/2049618781841031551?s=12",
+    "source": "X",
+    "captured_at": "2026-05-02T12:27:19Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "https://t.co/042ZheWx7F",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "https://t.co/042ZheWx7F",
+    "author": "Miles Deutscher",
+    "author_url": "https://twitter.com/milesdeutscher",
+    "tweet_url": "https://twitter.com/milesdeutscher/status/2049618781841031551"
+  }
+}
