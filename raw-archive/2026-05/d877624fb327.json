@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "d877624fb327",
+    "url": "https://youtube.com/shorts/a1mg7feFYHM?si=yNdZu0A5gdxER8rk",
+    "source": "YouTube",
+    "captured_at": "2026-05-05T13:12:30Z",
+    "title": "다이소 찐고인물이 진짜 잘 썼던 다이소 브러쉬 총집합!! #다이소추천템",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "다이소 찐고인물이 진짜 잘 썼던 다이소 브러쉬 총집합!! #다이소추천템",
+    "text": "",
+    "video_id": "a1mg7feFYHM",
+    "channel": "현징이",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/a1mg7feFYHM/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-02T23:08:58Z",
+  "updated_at": "2026-05-05T23:26:15Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -758,6 +758,83 @@
       ],
       "path": "wiki/ai-ux-patterns/2026-05-02-ai-에이전트의-새로운-가능성-텍스트-기반-인터페이스.md",
       "title": "AI 에이전트의 새로운 가능성: 텍스트 기반 인터페이스"
+    },
+    "096dfea07579": {
+      "url": "https://x.com/yahyavision/status/2051283969992278432?s=12",
+      "source": "X",
+      "captured_at": "2026-05-05T11:22:30Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "font-selection",
+        "design-tools",
+        "typography",
+        "ux-design"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-05-05-디자이너를-위한-필수-폰트-5가지.md",
+      "title": "디자이너를 위한 필수 폰트 5가지"
+    },
+    "da036c06c1a8": {
+      "url": "https://x.com/berryme0v0/status/2051504535408148635?s=12",
+      "source": "X",
+      "captured_at": "2026-05-05T11:29:45Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "foodie",
+        "korean-food",
+        "recommendation",
+        "noodles"
+      ],
+      "path": "wiki/trend-reports/2026-05-05-인생-들기름국수-맛집-추천.md",
+      "title": "인생 들기름국수 맛집 추천"
+    },
+    "235c59ba4cb3": {
+      "url": "https://youtube.com/shorts/XPbzntIOCGc?si=YkZ7qXMQZa9-8a59",
+      "source": "YouTube",
+      "captured_at": "2026-05-05T13:10:28Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "뷰티",
+        "추천템",
+        "파우치",
+        "미니멀리즘",
+        "꿀템"
+      ],
+      "path": "wiki/trend-reports/2026-05-05-보부상이-추천하는-파우치-미니템-best-3.md",
+      "title": "보부상이 추천하는 파우치 미니템 BEST 3"
+    },
+    "d877624fb327": {
+      "url": "https://youtube.com/shorts/a1mg7feFYHM?si=yNdZu0A5gdxER8rk",
+      "source": "YouTube",
+      "captured_at": "2026-05-05T13:12:30Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "beauty",
+        "shopping",
+        "k-beauty",
+        "daiso"
+      ],
+      "path": "wiki/trend-reports/2026-05-05-다이소-찐고인물이-추천하는-다이소-브러쉬-모음.md",
+      "title": "다이소 찐고인물이 추천하는 다이소 브러쉬 모음"
+    },
+    "583656991d5a": {
+      "url": "https://youtube.com/shorts/abl4trTwbC0?si=g7XLTj84GdMVai4A",
+      "source": "YouTube",
+      "captured_at": "2026-05-05T13:19:58Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "레시피",
+        "다이어트",
+        "간편식",
+        "건강식",
+        "김밥"
+      ],
+      "path": "wiki/trend-reports/2026-05-05-10분-완성-맛있고-살-빠지는-명란-오이-두부-김밥.md",
+      "title": "10분 완성! 맛있고 살 빠지는 명란 오이 두부 김밥"
     }
   }
 }

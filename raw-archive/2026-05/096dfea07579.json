@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "096dfea07579",
+    "url": "https://x.com/yahyavision/status/2051283969992278432?s=12",
+    "source": "X",
+    "captured_at": "2026-05-05T11:22:30Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "5+ years as designer. The only fonts I'll ever need again pic.twitter.com/l3XAB9dpPm",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "5+ years as designer. The only fonts I'll ever need again pic.twitter.com/l3XAB9dpPm",
+    "author": "Yahyavision — Logo & Brand Designer",
+    "author_url": "https://twitter.com/yahyavision",
+    "tweet_url": "https://twitter.com/yahyavision/status/2051283969992278432"
+  }
+}
