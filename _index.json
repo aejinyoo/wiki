@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-05T23:26:15Z",
+  "updated_at": "2026-05-06T23:13:04Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -835,6 +835,67 @@
       ],
       "path": "wiki/trend-reports/2026-05-05-10분-완성-맛있고-살-빠지는-명란-오이-두부-김밥.md",
       "title": "10분 완성! 맛있고 살 빠지는 명란 오이 두부 김밥"
+    },
+    "8049fad6432d": {
+      "url": "https://x.com/madebyvishesh/status/2051398925064819105?s=12",
+      "source": "X",
+      "captured_at": "2026-05-06T11:19:53Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "pattern-effects",
+        "web-design",
+        "creative-coding",
+        "animation"
+      ],
+      "path": "wiki/generative-tools/2026-05-06-vishesh의-흥미로운-패턴-효과-툴.md",
+      "title": "Vishesh의 흥미로운 패턴 효과 툴"
+    },
+    "c5a3759e9c18": {
+      "url": "https://x.com/poellll/status/2051249017808449705?s=12",
+      "source": "X",
+      "captured_at": "2026-05-06T11:22:08Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "ai-art",
+        "generative-ai",
+        "image-generation",
+        "visual-style"
+      ],
+      "path": "wiki/trend-reports/2026-05-06-ai-생성-이미지의-독특한-분위기.md",
+      "title": "AI 생성 이미지의 독특한 분위기"
+    },
+    "858207e0d8ab": {
+      "url": "https://x.com/slideland229/status/2051958737255154112?s=12",
+      "source": "X",
+      "captured_at": "2026-05-06T13:30:13Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "design-styles",
+        "inspiration",
+        "visual-design",
+        "history"
+      ],
+      "path": "wiki/trend-reports/2026-05-06-50가지-주요-디자인-스타일-총정리.md",
+      "title": "50가지 주요 디자인 스타일 총정리"
+    },
+    "fb3fe2fa2522": {
+      "url": "https://x.com/uisavior/status/2051674614644781486?s=12",
+      "source": "X",
+      "captured_at": "2026-05-06T13:57:06Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ux",
+        "ui",
+        "design-tools",
+        "resources",
+        "productivity"
+      ],
+      "path": "wiki/generative-tools/2026-05-06-uxui-디자이너-필수-웹사이트-6가지-추천.md",
+      "title": "UX/UI 디자이너 필수 웹사이트 6가지 추천"
     }
   }
 }

@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "fb3fe2fa2522",
+    "url": "https://x.com/uisavior/status/2051674614644781486?s=12",
+    "source": "X",
+    "captured_at": "2026-05-06T13:57:06Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Every UX/UI designer should know these websites! 1. tinywow .com - free file converter 2. microcopy .me - UX copy generator 3. fontjoy .com - font pairing tool 4. iconoir. com - 1,151 free icons 5. mixkit. co - free stock videos! 6. screenlane. com - real UI design…",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Every UX/UI designer should know these websites! 1. tinywow .com - free file converter 2. microcopy .me - UX copy generator 3. fontjoy .com - font pairing tool 4. iconoir. com - 1,151 free icons 5. mixkit. co - free stock videos! 6. screenlane. com - real UI design…",
+    "author": "UI/UX Savior",
+    "author_url": "https://twitter.com/UiSavior",
+    "tweet_url": "https://twitter.com/UiSavior/status/2051674614644781486"
+  }
+}
