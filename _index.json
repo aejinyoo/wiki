@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-06T23:13:04Z",
+  "updated_at": "2026-05-07T23:26:57Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -896,6 +896,22 @@
       ],
       "path": "wiki/generative-tools/2026-05-06-uxui-디자이너-필수-웹사이트-6가지-추천.md",
       "title": "UX/UI 디자이너 필수 웹사이트 6가지 추천"
+    },
+    "4f8cc826ade2": {
+      "url": "https://x.com/uisavior/status/2052124296382922993?s=12",
+      "source": "X",
+      "captured_at": "2026-05-07T13:18:51Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "web-design",
+        "inspiration",
+        "resources",
+        "ui-design",
+        "ux-inspiration"
+      ],
+      "path": "wiki/trend-reports/2026-05-07-디자인-영감을-주는-웹사이트-모음.md",
+      "title": "디자인 영감을 주는 웹사이트 모음"
     }
   }
 }
