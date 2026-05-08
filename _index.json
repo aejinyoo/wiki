@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-07T23:26:57Z",
+  "updated_at": "2026-05-08T23:28:54Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -912,6 +912,50 @@
       ],
       "path": "wiki/trend-reports/2026-05-07-디자인-영감을-주는-웹사이트-모음.md",
       "title": "디자인 영감을 주는 웹사이트 모음"
+    },
+    "c8ea0054e122": {
+      "url": "https://x.com/a2can3/status/2052544899153596906?s=12",
+      "source": "X",
+      "captured_at": "2026-05-08T13:59:06Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "ai-tool",
+        "recommendation",
+        "user-experience"
+      ],
+      "path": "wiki/trend-reports/2026-05-08-ai-도구-사용-후기-및-추천.md",
+      "title": "AI 도구 사용 후기 및 추천"
+    },
+    "0875b57e3093": {
+      "url": "https://x.com/lloydcreates/status/2052387986168312054?s=12",
+      "source": "X",
+      "captured_at": "2026-05-08T14:04:56Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "midjourney",
+        "image-generation",
+        "ai-art",
+        "v8.1"
+      ],
+      "path": "wiki/generative-tools/2026-05-08-midjourney-v81-경량-데이터셋-이미지-생성.md",
+      "title": "Midjourney V8.1: 경량 데이터셋 이미지 생성"
+    },
+    "27a23d25e975": {
+      "url": "https://x.com/a2can3/status/2052484725629919617?s=12",
+      "source": "X",
+      "captured_at": "2026-05-08T14:27:56Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai-tool",
+        "timelapse",
+        "how-to",
+        "generative-ai"
+      ],
+      "path": "wiki/generative-tools/2026-05-08-ai-도구-사용법-타임랩스-영상.md",
+      "title": "AI 도구 사용법 타임랩스 영상"
     }
   }
 }

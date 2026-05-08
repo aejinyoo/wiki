@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "c8ea0054e122",
+    "url": "https://x.com/a2can3/status/2052544899153596906?s=12",
+    "source": "X",
+    "captured_at": "2026-05-08T13:59:06Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "I can't stop using it, have you tried it yet? https://t.co/dJFpk9kJPE pic.twitter.com/68RdELJtFo",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "I can't stop using it, have you tried it yet? https://t.co/dJFpk9kJPE pic.twitter.com/68RdELJtFo",
+    "author": "Jorge",
+    "author_url": "https://twitter.com/a2can3",
+    "tweet_url": "https://twitter.com/a2can3/status/2052544899153596906"
+  }
+}

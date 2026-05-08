@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "0875b57e3093",
+    "url": "https://x.com/lloydcreates/status/2052387986168312054?s=12",
+    "source": "X",
+    "captured_at": "2026-05-08T14:04:56Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Light data sets - Midjourney V8.1 pic.twitter.com/ie192onfES",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Light data sets - Midjourney V8.1 pic.twitter.com/ie192onfES",
+    "author": "Lloyd Creates",
+    "author_url": "https://twitter.com/lloydcreates",
+    "tweet_url": "https://twitter.com/lloydcreates/status/2052387986168312054"
+  }
+}
