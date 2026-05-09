@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-08T23:28:54Z",
+  "updated_at": "2026-05-09T23:12:02Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -956,6 +956,52 @@
       ],
       "path": "wiki/generative-tools/2026-05-08-ai-도구-사용법-타임랩스-영상.md",
       "title": "AI 도구 사용법 타임랩스 영상"
+    },
+    "ed6eb8b402c8": {
+      "url": "https://x.com/krongggggg/status/2052939694166729183?s=12",
+      "source": "X",
+      "captured_at": "2026-05-09T12:55:52Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "claude-code",
+        "web-development",
+        "tutorial",
+        "frontend",
+        "cli"
+      ],
+      "path": "wiki/generative-tools/2026-05-09-claude-code로-인터랙티브-웹-개발-튜토리얼.md",
+      "title": "Claude Code로 인터랙티브 웹 개발 튜토리얼"
+    },
+    "300cb46b43f2": {
+      "url": "https://www.instagram.com/reel/DXQyVBpk7NO/?igsh=MThrZGp1amt6ZWVhZA==",
+      "source": "Instagram",
+      "captured_at": "2026-05-09T13:05:44Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "food-review",
+        "instagram-reel",
+        "suwon-food",
+        "samgyetang"
+      ],
+      "path": "wiki/trend-reports/2026-05-09-수원-호매실-오복누룽지삼계탕-방문-후기.md",
+      "title": "수원 호매실 오복누룽지삼계탕 방문 후기"
+    },
+    "83723e8c7b41": {
+      "url": "https://www.instagram.com/reel/DV1fUvvDZM_/?igsh=Y3Ywdm02NTJ5ejVs",
+      "source": "Instagram",
+      "captured_at": "2026-05-09T13:13:31Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "layer-styles",
+        "graphic-design",
+        "tutorial"
+      ],
+      "path": "wiki/generative-tools/2026-05-09-포토샵-레이어-스타일-튜토리얼-금속-질감-만들기.md",
+      "title": "포토샵 레이어 스타일 튜토리얼: 금속 질감 만들기"
     }
   }
 }
