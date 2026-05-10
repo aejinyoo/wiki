@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-09T23:12:02Z",
+  "updated_at": "2026-05-10T23:14:04Z",
   "items": {
     "a4cc7467e695": {
       "url": "https://code.claude.com/docs/en/routines",
@@ -1002,6 +1002,51 @@
       ],
       "path": "wiki/generative-tools/2026-05-09-포토샵-레이어-스타일-튜토리얼-금속-질감-만들기.md",
       "title": "포토샵 레이어 스타일 튜토리얼: 금속 질감 만들기"
+    },
+    "d739fc7110af": {
+      "url": "https://www.instagram.com/reel/DV_EPgpksnp/?igsh=emE5OXV3eW83aGNt",
+      "source": "Instagram",
+      "captured_at": "2026-05-10T07:08:55Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "여드름",
+        "피부 관리",
+        "약사",
+        "생리전증후군"
+      ],
+      "path": "wiki/trend-reports/2026-05-10-생리-전-여드름-관리법-약사-추천.md",
+      "title": "생리 전 여드름 관리법 (약사 추천)"
+    },
+    "dca6e6d543f1": {
+      "url": "https://www.instagram.com/reel/DXqE9pXD7tX/?igsh=dno5em5lazF5OW80",
+      "source": "Instagram",
+      "captured_at": "2026-05-10T07:12:44Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "food-production",
+        "monastic-craft",
+        "german-sausage",
+        "instagram-reel"
+      ],
+      "path": "wiki/trend-reports/2026-05-10-성베네딕도회-왜관수도원-수제-독일식-소시지.md",
+      "title": "성베네딕도회 왜관수도원 수제 독일식 소시지"
+    },
+    "1b9289e79f92": {
+      "url": "https://www.instagram.com/reel/DYCIhoXSqx1/?igsh=MXBvaXhqMGh2cWV1cg==",
+      "source": "Instagram",
+      "captured_at": "2026-05-10T12:45:30Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "recipe",
+        "korean-food",
+        "cooking-hack",
+        "quick-meal"
+      ],
+      "path": "wiki/trend-reports/2026-05-10-닭볶음탕-닭으로-만드는-찹쌀밥-레시피.md",
+      "title": "닭볶음탕 닭으로 만드는 찹쌀밥 레시피"
     }
   }
 }
