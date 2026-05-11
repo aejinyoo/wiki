@@ -4,8 +4,9 @@
 version: 1
 
 # Curator가 절대 건드리지 않는 카테고리
-protected:
-  - trend-reports
+# 2026-05-11: trend-reports 가 사실상 미분류 폴더화 (음식·라이프스타일 다수).
+# Curator v2 가 food-recipe 등으로 분할 제안할 수 있도록 해제. 필요시 다시 추가.
+protected: []
 
 # Curator 가드레일
 curator:
