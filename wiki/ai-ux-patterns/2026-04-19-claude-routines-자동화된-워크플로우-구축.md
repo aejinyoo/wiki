@@ -1,7 +1,7 @@
 ---
 author: ''
 captured_at: '2026-04-19T09:25:58Z'
-category: agent-interaction
+category: ai-ux-patterns
 confidence: 0.9
 id: a4cc7467e695
 source: Manual

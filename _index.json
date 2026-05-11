@@ -1,39 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-05-10T23:14:04Z",
+  "updated_at": "2026-05-11T06:58:43Z",
   "items": {
-    "a4cc7467e695": {
-      "url": "https://code.claude.com/docs/en/routines",
-      "source": "Manual",
-      "captured_at": "2026-04-19T09:25:58Z",
-      "status": "classified",
-      "category": "agent-interaction",
-      "tags": [
-        "automation",
-        "workflows",
-        "scheduled-tasks",
-        "api-triggers",
-        "github-events"
-      ],
-      "path": "wiki/agent-interaction/2026-04-19-claude-routines-자동화된-워크플로우-구축.md",
-      "title": "Claude Routines: 자동화된 워크플로우 구축"
-    },
-    "4d1728102932": {
-      "url": "https://code.claude.com/docs/en/overview",
-      "source": "Manual",
-      "captured_at": "2026-04-19T09:50:51Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "ai-coding",
-        "developer-tools",
-        "code-generation",
-        "automation",
-        "cli"
-      ],
-      "path": "wiki/generative-tools/2026-04-19-claude-code-개발-생산성-향상을-위한-ai-도구.md",
-      "title": "Claude Code: 개발 생산성 향상을 위한 AI 도구"
-    },
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
       "source": "Manual",
@@ -50,807 +18,6 @@
       "path": "wiki/trend-reports/2026-04-19-google-chrome-앱-빠르고-안전한-웹-브라우징.md",
       "title": "Google Chrome 앱: 빠르고 안전한 웹 브라우징"
     },
-    "64e904ad79f3": {
-      "url": "https://code.claude.com/docs/ko/routines",
-      "source": "Manual",
-      "captured_at": "2026-04-19T11:25:36Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "automation",
-        "claude-code",
-        "routines",
-        "api-triggers",
-        "github-triggers"
-      ],
-      "path": "wiki/generative-tools/2026-04-19-claude-루틴으로-작업-자동화하기.md",
-      "title": "Claude 루틴으로 작업 자동화하기"
-    },
-    "6fc45fc0d49e": {
-      "url": "https://code.claude.com/docs/ko/remote-control",
-      "source": "Manual",
-      "captured_at": "2026-04-19T12:31:24Z",
-      "status": "classified",
-      "category": "agent-interaction",
-      "tags": [
-        "remote-control",
-        "code-editing",
-        "cross-device",
-        "session-sync",
-        "developer-tools"
-      ],
-      "path": "wiki/agent-interaction/2026-04-19-모든-기기에서-로컬-claude-세션-이어가기.md",
-      "title": "모든 기기에서 로컬 Claude 세션 이어가기"
-    },
-    "9c8dfbf35131": {
-      "url": "https://code.claude.com/docs/ko/common-workflows",
-      "source": "Manual",
-      "captured_at": "2026-04-19T13:03:26Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "claude-code",
-        "developer-workflow",
-        "plan-mode",
-        "worktrees",
-        "testing"
-      ],
-      "path": "wiki/generative-tools/2026-04-19-claude-code-일반-워크플로우-가이드.md",
-      "title": "Claude Code 일반 워크플로우 가이드"
-    },
-    "bbc903d4a81e": {
-      "url": "https://x.com/datachaz/status/2045784379155226971?s=12",
-      "source": "X",
-      "captured_at": "2026-04-20T09:21:23Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "claude",
-        "token-optimization",
-        "api-cost",
-        "prompt-engineering",
-        "code-generation"
-      ],
-      "path": "wiki/generative-tools/2026-04-20-claude-code-토큰-낭비-줄이는-10가지-도구.md",
-      "title": "Claude Code 토큰 낭비 줄이는 10가지 도구"
-    },
-    "1a79d603f19a": {
-      "url": "https://www.instagram.com/reel/DREp4KYEkMd/?igsh=MW0xM2NqMDl6MWN5cg==",
-      "source": "Instagram",
-      "captured_at": "2026-04-20T09:23:36Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "instagram",
-        "social-media"
-      ],
-      "path": "wiki/trend-reports/2026-04-20-인스타그램-릴.md",
-      "title": "인스타그램 릴"
-    },
-    "629e38f3b7a6": {
-      "url": "https://x.com/mizchi/status/2045501078574350450?s=12",
-      "source": "X",
-      "captured_at": "2026-04-20T11:16:41Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "skill-optimization",
-        "documentation",
-        "automation",
-        "developer-tools"
-      ],
-      "path": "wiki/generative-tools/2026-04-20-skillmd-자동화된-스킬-최적화-도구.md",
-      "title": "SKILL.md: 자동화된 스킬 최적화 도구"
-    },
-    "b8a2e621eec9": {
-      "url": "https://x.com/lucas_flatwhite/status/2046089167059480883?s=12",
-      "source": "X",
-      "captured_at": "2026-04-20T11:17:39Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "claude",
-        "code-generation",
-        "usage-limits",
-        "api-usage"
-      ],
-      "path": "wiki/generative-tools/2026-04-20-claude-code-사용량-관리-팁.md",
-      "title": "Claude Code 사용량 관리 팁"
-    },
-    "f02985ac7ed6": {
-      "url": "https://x.com/crypto_qianxun/status/2045789776218063212?s=12",
-      "source": "X",
-      "captured_at": "2026-04-21T10:21:46Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "image-generation",
-        "prompt-engineering",
-        "nano-banana-pro",
-        "ai-tools"
-      ],
-      "path": "wiki/generative-tools/2026-04-21-나노-바나나-pro-이미지-생성-완벽-가이드.md",
-      "title": "나노 바나나 Pro 이미지 생성 완벽 가이드"
-    },
-    "03699a433dd3": {
-      "url": "https://www.instagram.com/reel/DUiVqz4kYUt/?igsh=MWJ4b2lhdHc1M2I3ZA==",
-      "source": "Instagram",
-      "captured_at": "2026-04-21T10:29:55Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "ai-tool",
-        "background-removal",
-        "image-editing",
-        "photoshop-alternative"
-      ],
-      "path": "wiki/generative-tools/2026-04-21-투명-배경-누끼-따기-ai-툴.md",
-      "title": "투명 배경 누끼 따기 AI 툴"
-    },
-    "0e1f4a348a49": {
-      "url": "https://x.com/chorokmal/status/2045379017755516930?s=12",
-      "source": "X",
-      "captured_at": "2026-04-21T10:30:46Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "free-assets",
-        "textures",
-        "overlays",
-        "design-resources",
-        "ai-usage"
-      ],
-      "path": "wiki/generative-tools/2026-04-21-상업적-이용-가능한-무료-텍스쳐-400장-공유.md",
-      "title": "상업적 이용 가능한 무료 텍스쳐 400장 공유"
-    },
-    "d7c0c7be0fa9": {
-      "url": "https://x.com/designspot_jap/status/2036776023891865754?s=12",
-      "source": "X",
-      "captured_at": "2026-04-21T10:38:58Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "photoshop",
-        "texture",
-        "halftone",
-        "print-effect",
-        "design-tips"
-      ],
-      "path": "wiki/generative-tools/2026-04-21-포토샵으로-하프톤-및-아날로그-인쇄-질감-표현하기.md",
-      "title": "포토샵으로 하프톤 및 아날로그 인쇄 질감 표현하기"
-    },
-    "5d4add5c4743": {
-      "url": "https://www.instagram.com/reel/DWOTjKwkkpf/?igsh=YnBqb2c5dHNrbDlj",
-      "source": "Instagram",
-      "captured_at": "2026-04-21T10:39:27Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "ai-icon-generator",
-        "3d-icons",
-        "figma-plugin",
-        "promptless-design",
-        "nanobanana"
-      ],
-      "path": "wiki/generative-tools/2026-04-21-blungeai-캔버스-기반-ai-아이콘-생성-서비스.md",
-      "title": "Blunge.ai: 캔버스 기반 AI 아이콘 생성 서비스"
-    },
-    "e6971b55c7a6": {
-      "url": "https://x.com/stitchbygoogle/status/2046624729403142320?s=12",
-      "source": "X",
-      "captured_at": "2026-04-22T00:59:08Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "design-md",
-        "open-source",
-        "design-rules",
-        "agent-intent"
-      ],
-      "path": "wiki/generative-tools/2026-04-22-google-designmd-초안-공개-및-기능-확장.md",
-      "title": "Google, DESIGN.md 초안 공개 및 기능 확장"
-    },
-    "52945cd23259": {
-      "url": "https://x.com/offtherecord26/status/2044787574573826051?s=12",
-      "source": "X",
-      "captured_at": "2026-04-22T11:42:06Z",
-      "status": "classified",
-      "category": "ai-ux-patterns",
-      "tags": [
-        "chatbot",
-        "ux-design",
-        "ai-interaction",
-        "personalization"
-      ],
-      "path": "wiki/ai-ux-patterns/2026-04-22-ai-기반-챗봇-사용자-경험-디자인의-새로운-지평.md",
-      "title": "AI 기반 챗봇, 사용자 경험 디자인의 새로운 지평"
-    },
-    "5fac2fee4992": {
-      "url": "https://x.com/hs_archiving/status/2029887661952086486?s=12",
-      "source": "X",
-      "captured_at": "2026-04-22T11:42:16Z",
-      "status": "classified",
-      "category": "prompt-ui",
-      "tags": [
-        "midjourney",
-        "prompt-engineering",
-        "learning-resources",
-        "ai-art"
-      ],
-      "path": "wiki/prompt-ui/2026-04-22-미드저니-프롬프트-학습-사이트-추천.md",
-      "title": "미드저니 프롬프트 학습 사이트 추천"
-    },
-    "156a5c262d43": {
-      "url": "https://www.instagram.com/reel/DCoE1K6JlBL/?igsh=MTdndTd2d2c3dWU1eQ==",
-      "source": "Instagram",
-      "captured_at": "2026-04-23T06:35:18Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "레시피",
-        "토스트",
-        "간단요리",
-        "디저트",
-        "홈베이킹"
-      ],
-      "path": "wiki/trend-reports/2026-04-23-우유-품은-허니버터토스트-레시피.md",
-      "title": "우유 품은 허니버터토스트 레시피"
-    },
-    "843feed0634b": {
-      "url": "https://www.instagram.com/reel/DCG3VECy-W5/?igsh=bDZpdno2eDRnaTJ6",
-      "source": "Instagram",
-      "captured_at": "2026-04-23T06:35:46Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "레시피",
-        "들기름",
-        "한식",
-        "파스타",
-        "건강식"
-      ],
-      "path": "wiki/trend-reports/2026-04-23-들기름을-활용한-꾸덕한-한식-파스타-레시피.md",
-      "title": "들기름을 활용한 꾸덕한 한식 파스타 레시피"
-    },
-    "60539e00b761": {
-      "url": "https://www.instagram.com/reel/DUsW1yJkpTZ/?igsh=YWtqN2hreG0ydGxh",
-      "source": "Instagram",
-      "captured_at": "2026-04-23T14:46:17Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "photoshop",
-        "image-editing",
-        "quick-tip",
-        "masking",
-        "ai-tools"
-      ],
-      "path": "wiki/generative-tools/2026-04-23-포토샵-누끼-테두리-5초-제거-팁.md",
-      "title": "포토샵 누끼 테두리 5초 제거 팁"
-    },
-    "e50e4dc3cd72": {
-      "url": "https://www.instagram.com/reel/DWgRQLcEpNI/?igsh=M3pzdmRyb3ZzZzJr",
-      "source": "Instagram",
-      "captured_at": "2026-04-23T14:56:47Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "photoshop",
-        "image-editing",
-        "compositing",
-        "selection-tool"
-      ],
-      "path": "wiki/generative-tools/2026-04-23-포토샵-오버레이-블렌딩으로-누끼따기.md",
-      "title": "포토샵 오버레이 블렌딩으로 누끼따기"
-    },
-    "6ee9c6976d4d": {
-      "url": "https://www.instagram.com/reel/DVyjIHME-Ja/?igsh=MXBnNzExb2w2Yjh1ZQ==",
-      "source": "Instagram",
-      "captured_at": "2026-04-23T15:17:01Z",
-      "status": "classified",
-      "category": "prompt-ui",
-      "tags": [
-        "ai-image-upscaling",
-        "prompt-engineering",
-        "photorealism",
-        "fidelity"
-      ],
-      "path": "wiki/prompt-ui/2026-04-23-ai-이미지-업스케일링-프롬프트.md",
-      "title": "AI 이미지 업스케일링 프롬프트"
-    },
-    "4d59a589aefd": {
-      "url": "https://x.com/supernovajunn/status/2047282760734433433?s=12",
-      "source": "X",
-      "captured_at": "2026-04-24T10:28:24Z",
-      "status": "classified",
-      "category": "agent-interaction",
-      "tags": [
-        "ai-agent",
-        "intent-recognition",
-        "human-ai-collaboration",
-        "prompting"
-      ],
-      "path": "wiki/agent-interaction/2026-04-24-ai-에이전트-인간의-의도를-파악하는-새로운-방법.md",
-      "title": "AI 에이전트, 인간의 의도를 파악하는 새로운 방법"
-    },
-    "09de4c0af8ea": {
-      "url": "https://x.com/kunmandooo/status/2047573167271723365?s=12",
-      "source": "X",
-      "captured_at": "2026-04-24T10:31:01Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "맛집",
-        "성수",
-        "음식",
-        "추천"
-      ],
-      "path": "wiki/trend-reports/2026-04-24-성수-파작-맛집-탐방-후기.md",
-      "title": "성수 파작: 맛집 탐방 후기"
-    },
-    "6999edab0bb5": {
-      "url": "https://x.com/grav_stock/status/2046774348678099327?s=12",
-      "source": "X",
-      "captured_at": "2026-04-24T10:35:52Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "freebie",
-        "texture",
-        "4k",
-        "visual-effects",
-        "motion-graphics"
-      ],
-      "path": "wiki/generative-tools/2026-04-24-무료-4k-그레인-텍스처-팩-제공.md",
-      "title": "무료 4K 그레인 텍스처 팩 제공"
-    },
-    "e18fc1ce3628": {
-      "url": "https://x.com/lisaknowsai/status/2047268606270926960?s=12",
-      "source": "X",
-      "captured_at": "2026-04-24T10:45:15Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "image-upscaling",
-        "8k",
-        "ai-image",
-        "photorealism"
-      ],
-      "path": "wiki/generative-tools/2026-04-24-8k-초고화질-이미지-업스케일링-도구.md",
-      "title": "8K 초고화질 이미지 업스케일링 도구"
-    },
-    "673be5909e67": {
-      "url": "https://x.com/eng_khairallah1/status/2047609433489035739?s=12",
-      "source": "X",
-      "captured_at": "2026-04-25T13:42:46Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "ai-coding",
-        "code-generation",
-        "developer-tools",
-        "future-of-coding"
-      ],
-      "path": "wiki/generative-tools/2026-04-25-ai-기반-코드-생성-도구의-잠재력과-한계.md",
-      "title": "AI 기반 코드 생성 도구의 잠재력과 한계"
-    },
-    "eb2ac2ca9a8d": {
-      "url": "https://www.instagram.com/reel/DWY1N0wj5G4/?igsh=M3ZoeDU4cXV0eGdx",
-      "source": "Instagram",
-      "captured_at": "2026-04-25T13:47:22Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "photoshop",
-        "lighting-effects",
-        "design-tutorial",
-        "visual-hierarchy",
-        "editing-tips"
-      ],
-      "path": "wiki/generative-tools/2026-04-25-포토샵-로컬-조명-효과-튜토리얼.md",
-      "title": "포토샵 로컬 조명 효과 튜토리얼"
-    },
-    "d07036a8a6bf": {
-      "url": "https://x.com/yeotthang/status/2047872307193118990?s=12",
-      "source": "X",
-      "captured_at": "2026-04-26T02:19:56Z",
-      "status": "classified",
-      "category": "ai-ux-patterns",
-      "tags": [
-        "chatbot",
-        "ux",
-        "ai-design",
-        "user-experience"
-      ],
-      "path": "wiki/ai-ux-patterns/2026-04-26-ai-기반-챗봇-사용자-경험-향상을-위한-팁.md",
-      "title": "AI 기반 챗봇, 사용자 경험 향상을 위한 팁"
-    },
-    "901fd9bb6e88": {
-      "url": "https://www.instagram.com/reel/DXKqUXtE8j2/?igsh=MWFvbHJka2pob21scA==",
-      "source": "Instagram",
-      "captured_at": "2026-04-26T10:29:49Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "photoshop",
-        "compositing",
-        "fire-effects",
-        "visual-effects",
-        "tutorial"
-      ],
-      "path": "wiki/generative-tools/2026-04-26-포토샵으로-불-효과-합성하는-방법.md",
-      "title": "포토샵으로 불 효과 합성하는 방법"
-    },
-    "76576c11ea6a": {
-      "url": "https://youtube.com/shorts/Pd-2F2gZoH8?si=z_4uOD6avIuwMEYp",
-      "source": "YouTube",
-      "captured_at": "2026-04-25T13:51:23Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "레시피",
-        "다이어트",
-        "간편식",
-        "토스트",
-        "건강식"
-      ],
-      "path": "wiki/trend-reports/2026-04-25-5분-완성-다이어트-참치-오이-토스트-레시피.md",
-      "title": "5분 완성 다이어트 참치 오이 토스트 레시피"
-    },
-    "51b3f4d702d6": {
-      "url": "https://youtube.com/shorts/X8L_YtM4kk8?si=ibTlFRiUIYPMSSVQ",
-      "source": "YouTube",
-      "captured_at": "2026-04-27T11:03:10Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "레시피",
-        "요리",
-        "깻잎",
-        "차지키소스",
-        "요거트"
-      ],
-      "path": "wiki/trend-reports/2026-04-27-깻잎-활용한-상큼한-오이-차지키-소스-레시피.md",
-      "title": "깻잎 활용한 상큼한 오이 차지키 소스 레시피"
-    },
-    "44dbb885344a": {
-      "url": "https://x.com/grav_stock/status/2048584220163834082?s=12",
-      "source": "X",
-      "captured_at": "2026-04-27T13:13:48Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "photoshop",
-        "image-blending",
-        "design-tips",
-        "graphic-design"
-      ],
-      "path": "wiki/generative-tools/2026-04-27-포토샵-이미지-합성-팁.md",
-      "title": "포토샵 이미지 합성 팁"
-    },
-    "4c3cb00d6507": {
-      "url": "https://x.com/pietrobaudin/status/2024194901458481498?s=12",
-      "source": "X",
-      "captured_at": "2026-04-27T13:16:49Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "photoshop",
-        "design-tools",
-        "tutorial",
-        "graphics"
-      ],
-      "path": "wiki/generative-tools/2026-04-27-포토샵-2026-팁-트릭-smartgraphicss.md",
-      "title": "포토샵 2026 팁 & 트릭 (smart.graphicss)"
-    },
-    "50aa8c43e2f8": {
-      "url": "https://www.instagram.com/reel/DW6S36sjwqR/?igsh=cXRzcHk5dzNuaW8y",
-      "source": "Instagram",
-      "captured_at": "2026-04-28T13:34:45Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "photoshop",
-        "perspective",
-        "tutorial",
-        "design-tips"
-      ],
-      "path": "wiki/generative-tools/2026-04-28-포토샵-투시-보정-튜토리얼.md",
-      "title": "포토샵 투시 보정 튜토리얼"
-    },
-    "ee6aa4146947": {
-      "url": "https://youtube.com/watch?v=WaqjcRwkKd8&si=lEI_PqQufykR1j_l",
-      "source": "YouTube",
-      "captured_at": "2026-04-28T13:36:16Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "고수",
-        "김치",
-        "레시피",
-        "요리",
-        "음식"
-      ],
-      "path": "wiki/trend-reports/2026-04-28-고수-김치-레시피-고수-애호가를-위한-특별한-요리.md",
-      "title": "고수 김치 레시피: 고수 애호가를 위한 특별한 요리"
-    },
-    "a9c1757567a6": {
-      "url": "https://youtube.com/shorts/y4K7Tp7Gr78?si=Hh9egQECLiDkdOVF",
-      "source": "YouTube",
-      "captured_at": "2026-04-28T13:43:45Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "일본",
-        "요코하마",
-        "마파두부",
-        "맛집",
-        "푸딩 두부"
-      ],
-      "path": "wiki/trend-reports/2026-04-28-일본-요코하마의-특별한-즉석-마파두부-맛집.md",
-      "title": "일본 요코하마의 특별한 즉석 마파두부 맛집"
-    },
-    "c9c5f3d74547": {
-      "url": "https://x.com/cyrilxbt/status/2049093475560301009?s=12",
-      "source": "X",
-      "captured_at": "2026-04-29T08:17:36Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "ai",
-        "text-generation",
-        "writing-assistant",
-        "content-creation"
-      ],
-      "path": "wiki/generative-tools/2026-04-29-ai-기반-텍스트-생성-도구-소개.md",
-      "title": "AI 기반 텍스트 생성 도구 소개"
-    },
-    "8c564ed03be0": {
-      "url": "https://www.instagram.com/reel/DXqP7ctD4x-/?igsh=ZG9lNGpsYjU1dTJz",
-      "source": "Instagram",
-      "captured_at": "2026-04-29T13:56:26Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "food-event",
-        "korean-food",
-        "suwon",
-        "discount"
-      ],
-      "path": "wiki/trend-reports/2026-04-29-망포동-1티어-로스카츠-만원-이벤트.md",
-      "title": "망포동 1티어 로스카츠 만원 이벤트"
-    },
-    "d49a04ca72a1": {
-      "url": "https://x.com/so_ainsight/status/2049322552036868169?s=12",
-      "source": "X",
-      "captured_at": "2026-04-29T15:18:02Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "open-source",
-        "free-tools",
-        "ai-art",
-        "fooocus",
-        "comfyui"
-      ],
-      "path": "wiki/generative-tools/2026-04-29-무료-오픈소스-ai-도구-10선-fooocus-comfyui-등.md",
-      "title": "무료 오픈소스 AI 도구 10선: Fooocus, ComfyUI 등"
-    },
-    "b48123c2543d": {
-      "url": "https://x.com/bram_naus/status/2049432209384161440?s=12",
-      "source": "X",
-      "captured_at": "2026-04-30T00:26:27Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "font",
-        "free-font",
-        "sans-serif",
-        "design-resources"
-      ],
-      "path": "wiki/generative-tools/2026-04-30-무료-폰트-깔끔하고-현대적인-테크니컬-산세리프.md",
-      "title": "무료 폰트: 깔끔하고 현대적인 테크니컬 산세리프"
-    },
-    "35b0dbccb4b6": {
-      "url": "https://x.com/eng_khairallah1/status/2044339963316302313?s=12",
-      "source": "X",
-      "captured_at": "2026-04-30T00:32:05Z",
-      "status": "classified",
-      "category": "ai-ux-patterns",
-      "tags": [
-        "chatbot",
-        "ux",
-        "ai-design",
-        "personalization"
-      ],
-      "path": "wiki/ai-ux-patterns/2026-04-30-ai-기반-챗봇-사용자-경험-향상을-위한-팁.md",
-      "title": "AI 기반 챗봇, 사용자 경험 향상을 위한 팁"
-    },
-    "adf5c641caf5": {
-      "url": "https://x.com/shipper_now/status/2049441395866509492?s=12",
-      "source": "X",
-      "captured_at": "2026-04-30T00:34:34Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "no-code",
-        "app-development",
-        "ai-powered",
-        "website-to-app"
-      ],
-      "path": "wiki/generative-tools/2026-04-30-웹사이트를-네이티브-앱으로-변환하는-website-to-app-출시.md",
-      "title": "웹사이트를 네이티브 앱으로 변환하는 'Website to App' 출시"
-    },
-    "0627fa20d470": {
-      "url": "https://x.com/cursor_ai/status/2049499866217185492?s=12",
-      "source": "X",
-      "captured_at": "2026-04-30T00:50:34Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "sdk",
-        "ai-agents",
-        "developer-tools",
-        "automation",
-        "cursor-ai"
-      ],
-      "path": "wiki/generative-tools/2026-04-30-cursor-ai-개발자-위한-sdk-출시.md",
-      "title": "Cursor AI, 개발자 위한 SDK 출시"
-    },
-    "147627f5cd83": {
-      "url": "https://youtube.com/shorts/5TVnGpYPFgo?si=myz33F2meAO8t1_g",
-      "source": "YouTube",
-      "captured_at": "2026-05-01T14:40:32Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "recipe",
-        "food",
-        "cooking",
-        "youtube"
-      ],
-      "path": "wiki/trend-reports/2026-05-01-궁극의-파스타-레시피.md",
-      "title": "궁극의 파스타 레시피"
-    },
-    "22f16e0fef89": {
-      "url": "https://youtube.com/shorts/7I4duVuCjxw?si=H7_cRl95oJsZXwNf",
-      "source": "YouTube",
-      "captured_at": "2026-05-01T14:41:22Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "recipe",
-        "cooking",
-        "healthy-eating",
-        "shorts",
-        "japanese-food"
-      ],
-      "path": "wiki/trend-reports/2026-05-01-절대-모르면-안-되는-양배추-야끼소바-파스타-레시피.md",
-      "title": "절대 모르면 안 되는 양배추 야끼소바 파스타 레시피"
-    },
-    "ed3160fd4fd4": {
-      "url": "https://youtube.com/watch?v=QFgu_ngUU4U&si=Q5wSMaaMkHZMskls",
-      "source": "YouTube",
-      "captured_at": "2026-05-01T14:41:53Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "다이어트",
-        "레시피",
-        "요리",
-        "양배추",
-        "파스타"
-      ],
-      "path": "wiki/trend-reports/2026-05-01-양배추로-만드는-초간단-다이어트-파스타-레시피.md",
-      "title": "양배추로 만드는 초간단 다이어트 파스타 레시피"
-    },
-    "d8320350cc96": {
-      "url": "https://x.com/milesdeutscher/status/2049618781841031551?s=12",
-      "source": "X",
-      "captured_at": "2026-05-02T12:27:19Z",
-      "status": "classified",
-      "category": "ai-ux-patterns",
-      "tags": [
-        "ai-agents",
-        "text-ui",
-        "prompt-engineering",
-        "ux-design"
-      ],
-      "path": "wiki/ai-ux-patterns/2026-05-02-ai-에이전트의-새로운-가능성-텍스트-기반-인터페이스.md",
-      "title": "AI 에이전트의 새로운 가능성: 텍스트 기반 인터페이스"
-    },
-    "096dfea07579": {
-      "url": "https://x.com/yahyavision/status/2051283969992278432?s=12",
-      "source": "X",
-      "captured_at": "2026-05-05T11:22:30Z",
-      "status": "classified",
-      "category": "ai-ux-patterns",
-      "tags": [
-        "font-selection",
-        "design-tools",
-        "typography",
-        "ux-design"
-      ],
-      "path": "wiki/ai-ux-patterns/2026-05-05-디자이너를-위한-필수-폰트-5가지.md",
-      "title": "디자이너를 위한 필수 폰트 5가지"
-    },
-    "da036c06c1a8": {
-      "url": "https://x.com/berryme0v0/status/2051504535408148635?s=12",
-      "source": "X",
-      "captured_at": "2026-05-05T11:29:45Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "foodie",
-        "korean-food",
-        "recommendation",
-        "noodles"
-      ],
-      "path": "wiki/trend-reports/2026-05-05-인생-들기름국수-맛집-추천.md",
-      "title": "인생 들기름국수 맛집 추천"
-    },
-    "235c59ba4cb3": {
-      "url": "https://youtube.com/shorts/XPbzntIOCGc?si=YkZ7qXMQZa9-8a59",
-      "source": "YouTube",
-      "captured_at": "2026-05-05T13:10:28Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "뷰티",
-        "추천템",
-        "파우치",
-        "미니멀리즘",
-        "꿀템"
-      ],
-      "path": "wiki/trend-reports/2026-05-05-보부상이-추천하는-파우치-미니템-best-3.md",
-      "title": "보부상이 추천하는 파우치 미니템 BEST 3"
-    },
-    "d877624fb327": {
-      "url": "https://youtube.com/shorts/a1mg7feFYHM?si=yNdZu0A5gdxER8rk",
-      "source": "YouTube",
-      "captured_at": "2026-05-05T13:12:30Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "beauty",
-        "shopping",
-        "k-beauty",
-        "daiso"
-      ],
-      "path": "wiki/trend-reports/2026-05-05-다이소-찐고인물이-추천하는-다이소-브러쉬-모음.md",
-      "title": "다이소 찐고인물이 추천하는 다이소 브러쉬 모음"
-    },
-    "583656991d5a": {
-      "url": "https://youtube.com/shorts/abl4trTwbC0?si=g7XLTj84GdMVai4A",
-      "source": "YouTube",
-      "captured_at": "2026-05-05T13:19:58Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "레시피",
-        "다이어트",
-        "간편식",
-        "건강식",
-        "김밥"
-      ],
-      "path": "wiki/trend-reports/2026-05-05-10분-완성-맛있고-살-빠지는-명란-오이-두부-김밥.md",
-      "title": "10분 완성! 맛있고 살 빠지는 명란 오이 두부 김밥"
-    },
-    "8049fad6432d": {
-      "url": "https://x.com/madebyvishesh/status/2051398925064819105?s=12",
-      "source": "X",
-      "captured_at": "2026-05-06T11:19:53Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "pattern-effects",
-        "web-design",
-        "creative-coding",
-        "animation"
-      ],
-      "path": "wiki/generative-tools/2026-05-06-vishesh의-흥미로운-패턴-효과-툴.md",
-      "title": "Vishesh의 흥미로운 패턴 효과 툴"
-    },
     "c5a3759e9c18": {
       "url": "https://x.com/poellll/status/2051249017808449705?s=12",
       "source": "X",
@@ -865,37 +32,6 @@
       ],
       "path": "wiki/trend-reports/2026-05-06-ai-생성-이미지의-독특한-분위기.md",
       "title": "AI 생성 이미지의 독특한 분위기"
-    },
-    "858207e0d8ab": {
-      "url": "https://x.com/slideland229/status/2051958737255154112?s=12",
-      "source": "X",
-      "captured_at": "2026-05-06T13:30:13Z",
-      "status": "classified",
-      "category": "trend-reports",
-      "tags": [
-        "design-styles",
-        "inspiration",
-        "visual-design",
-        "history"
-      ],
-      "path": "wiki/trend-reports/2026-05-06-50가지-주요-디자인-스타일-총정리.md",
-      "title": "50가지 주요 디자인 스타일 총정리"
-    },
-    "fb3fe2fa2522": {
-      "url": "https://x.com/uisavior/status/2051674614644781486?s=12",
-      "source": "X",
-      "captured_at": "2026-05-06T13:57:06Z",
-      "status": "classified",
-      "category": "generative-tools",
-      "tags": [
-        "ux",
-        "ui",
-        "design-tools",
-        "resources",
-        "productivity"
-      ],
-      "path": "wiki/generative-tools/2026-05-06-uxui-디자이너-필수-웹사이트-6가지-추천.md",
-      "title": "UX/UI 디자이너 필수 웹사이트 6가지 추천"
     },
     "4f8cc826ade2": {
       "url": "https://x.com/uisavior/status/2052124296382922993?s=12",
@@ -913,6 +49,34 @@
       "path": "wiki/trend-reports/2026-05-07-디자인-영감을-주는-웹사이트-모음.md",
       "title": "디자인 영감을 주는 웹사이트 모음"
     },
+    "858207e0d8ab": {
+      "url": "https://x.com/slideland229/status/2051958737255154112?s=12",
+      "source": "X",
+      "captured_at": "2026-05-06T13:30:13Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "design-styles",
+        "inspiration",
+        "visual-design",
+        "history"
+      ],
+      "path": "wiki/trend-reports/2026-05-06-50가지-주요-디자인-스타일-총정리.md",
+      "title": "50가지 주요 디자인 스타일 총정리"
+    },
+    "1a79d603f19a": {
+      "url": "https://www.instagram.com/reel/DREp4KYEkMd/?igsh=MW0xM2NqMDl6MWN5cg==",
+      "source": "Instagram",
+      "captured_at": "2026-04-20T09:23:36Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "instagram",
+        "social-media"
+      ],
+      "path": "wiki/trend-reports/2026-04-20-인스타그램-릴.md",
+      "title": "인스타그램 릴"
+    },
     "c8ea0054e122": {
       "url": "https://x.com/a2can3/status/2052544899153596906?s=12",
       "source": "X",
@@ -927,35 +91,545 @@
       "path": "wiki/trend-reports/2026-05-08-ai-도구-사용-후기-및-추천.md",
       "title": "AI 도구 사용 후기 및 추천"
     },
-    "0875b57e3093": {
-      "url": "https://x.com/lloydcreates/status/2052387986168312054?s=12",
+    "35b0dbccb4b6": {
+      "url": "https://x.com/eng_khairallah1/status/2044339963316302313?s=12",
       "source": "X",
-      "captured_at": "2026-05-08T14:04:56Z",
+      "captured_at": "2026-04-30T00:32:05Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "chatbot",
+        "ux",
+        "ai-design",
+        "personalization"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-30-ai-기반-챗봇-사용자-경험-향상을-위한-팁.md",
+      "title": "AI 기반 챗봇, 사용자 경험 향상을 위한 팁"
+    },
+    "a4cc7467e695": {
+      "url": "https://code.claude.com/docs/en/routines",
+      "source": "Manual",
+      "captured_at": "2026-04-19T09:25:58Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "automation",
+        "workflows",
+        "scheduled-tasks",
+        "api-triggers",
+        "github-events"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-19-claude-routines-자동화된-워크플로우-구축.md",
+      "title": "Claude Routines: 자동화된 워크플로우 구축"
+    },
+    "5fac2fee4992": {
+      "url": "https://x.com/hs_archiving/status/2029887661952086486?s=12",
+      "source": "X",
+      "captured_at": "2026-04-22T11:42:16Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "midjourney",
+        "prompt-engineering",
+        "learning-resources",
+        "ai-art"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-22-미드저니-프롬프트-학습-사이트-추천.md",
+      "title": "미드저니 프롬프트 학습 사이트 추천"
+    },
+    "d07036a8a6bf": {
+      "url": "https://x.com/yeotthang/status/2047872307193118990?s=12",
+      "source": "X",
+      "captured_at": "2026-04-26T02:19:56Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "chatbot",
+        "ux",
+        "ai-design",
+        "user-experience"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-26-ai-기반-챗봇-사용자-경험-향상을-위한-팁.md",
+      "title": "AI 기반 챗봇, 사용자 경험 향상을 위한 팁"
+    },
+    "52945cd23259": {
+      "url": "https://x.com/offtherecord26/status/2044787574573826051?s=12",
+      "source": "X",
+      "captured_at": "2026-04-22T11:42:06Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "chatbot",
+        "ux-design",
+        "ai-interaction",
+        "personalization"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-22-ai-기반-챗봇-사용자-경험-디자인의-새로운-지평.md",
+      "title": "AI 기반 챗봇, 사용자 경험 디자인의 새로운 지평"
+    },
+    "6ee9c6976d4d": {
+      "url": "https://www.instagram.com/reel/DVyjIHME-Ja/?igsh=MXBnNzExb2w2Yjh1ZQ==",
+      "source": "Instagram",
+      "captured_at": "2026-04-23T15:17:01Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "ai-image-upscaling",
+        "prompt-engineering",
+        "photorealism",
+        "fidelity"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-23-ai-이미지-업스케일링-프롬프트.md",
+      "title": "AI 이미지 업스케일링 프롬프트"
+    },
+    "4d59a589aefd": {
+      "url": "https://x.com/supernovajunn/status/2047282760734433433?s=12",
+      "source": "X",
+      "captured_at": "2026-04-24T10:28:24Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "ai-agent",
+        "intent-recognition",
+        "human-ai-collaboration",
+        "prompting"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-24-ai-에이전트-인간의-의도를-파악하는-새로운-방법.md",
+      "title": "AI 에이전트, 인간의 의도를 파악하는 새로운 방법"
+    },
+    "d8320350cc96": {
+      "url": "https://x.com/milesdeutscher/status/2049618781841031551?s=12",
+      "source": "X",
+      "captured_at": "2026-05-02T12:27:19Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "ai-agents",
+        "text-ui",
+        "prompt-engineering",
+        "ux-design"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-05-02-ai-에이전트의-새로운-가능성-텍스트-기반-인터페이스.md",
+      "title": "AI 에이전트의 새로운 가능성: 텍스트 기반 인터페이스"
+    },
+    "6fc45fc0d49e": {
+      "url": "https://code.claude.com/docs/ko/remote-control",
+      "source": "Manual",
+      "captured_at": "2026-04-19T12:31:24Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "remote-control",
+        "code-editing",
+        "cross-device",
+        "session-sync",
+        "developer-tools"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-04-19-모든-기기에서-로컬-claude-세션-이어가기.md",
+      "title": "모든 기기에서 로컬 Claude 세션 이어가기"
+    },
+    "096dfea07579": {
+      "url": "https://x.com/yahyavision/status/2051283969992278432?s=12",
+      "source": "X",
+      "captured_at": "2026-05-05T11:22:30Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "font-selection",
+        "design-tools",
+        "typography",
+        "ux-design"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-05-05-디자이너를-위한-필수-폰트-5가지.md",
+      "title": "디자이너를 위한 필수 폰트 5가지"
+    },
+    "22f16e0fef89": {
+      "url": "https://youtube.com/shorts/7I4duVuCjxw?si=H7_cRl95oJsZXwNf",
+      "source": "YouTube",
+      "captured_at": "2026-05-01T14:41:22Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "recipe",
+        "cooking",
+        "healthy-eating",
+        "shorts",
+        "japanese-food"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-01-절대-모르면-안-되는-양배추-야끼소바-파스타-레시피.md",
+      "title": "절대 모르면 안 되는 양배추 야끼소바 파스타 레시피"
+    },
+    "d739fc7110af": {
+      "url": "https://www.instagram.com/reel/DV_EPgpksnp/?igsh=emE5OXV3eW83aGNt",
+      "source": "Instagram",
+      "captured_at": "2026-05-10T07:08:55Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "여드름",
+        "피부 관리",
+        "약사",
+        "생리전증후군"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-10-생리-전-여드름-관리법-약사-추천.md",
+      "title": "생리 전 여드름 관리법 (약사 추천)"
+    },
+    "8c564ed03be0": {
+      "url": "https://www.instagram.com/reel/DXqP7ctD4x-/?igsh=ZG9lNGpsYjU1dTJz",
+      "source": "Instagram",
+      "captured_at": "2026-04-29T13:56:26Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "food-event",
+        "korean-food",
+        "suwon",
+        "discount"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-04-29-망포동-1티어-로스카츠-만원-이벤트.md",
+      "title": "망포동 1티어 로스카츠 만원 이벤트"
+    },
+    "ed3160fd4fd4": {
+      "url": "https://youtube.com/watch?v=QFgu_ngUU4U&si=Q5wSMaaMkHZMskls",
+      "source": "YouTube",
+      "captured_at": "2026-05-01T14:41:53Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "다이어트",
+        "레시피",
+        "요리",
+        "양배추",
+        "파스타"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-01-양배추로-만드는-초간단-다이어트-파스타-레시피.md",
+      "title": "양배추로 만드는 초간단 다이어트 파스타 레시피"
+    },
+    "583656991d5a": {
+      "url": "https://youtube.com/shorts/abl4trTwbC0?si=g7XLTj84GdMVai4A",
+      "source": "YouTube",
+      "captured_at": "2026-05-05T13:19:58Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "다이어트",
+        "간편식",
+        "건강식",
+        "김밥"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-05-10분-완성-맛있고-살-빠지는-명란-오이-두부-김밥.md",
+      "title": "10분 완성! 맛있고 살 빠지는 명란 오이 두부 김밥"
+    },
+    "dca6e6d543f1": {
+      "url": "https://www.instagram.com/reel/DXqE9pXD7tX/?igsh=dno5em5lazF5OW80",
+      "source": "Instagram",
+      "captured_at": "2026-05-10T07:12:44Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "food-production",
+        "monastic-craft",
+        "german-sausage",
+        "instagram-reel"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-10-성베네딕도회-왜관수도원-수제-독일식-소시지.md",
+      "title": "성베네딕도회 왜관수도원 수제 독일식 소시지"
+    },
+    "235c59ba4cb3": {
+      "url": "https://youtube.com/shorts/XPbzntIOCGc?si=YkZ7qXMQZa9-8a59",
+      "source": "YouTube",
+      "captured_at": "2026-05-05T13:10:28Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "뷰티",
+        "추천템",
+        "파우치",
+        "미니멀리즘",
+        "꿀템"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-05-보부상이-추천하는-파우치-미니템-best-3.md",
+      "title": "보부상이 추천하는 파우치 미니템 BEST 3"
+    },
+    "d877624fb327": {
+      "url": "https://youtube.com/shorts/a1mg7feFYHM?si=yNdZu0A5gdxER8rk",
+      "source": "YouTube",
+      "captured_at": "2026-05-05T13:12:30Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "beauty",
+        "shopping",
+        "k-beauty",
+        "daiso"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-05-다이소-찐고인물이-추천하는-다이소-브러쉬-모음.md",
+      "title": "다이소 찐고인물이 추천하는 다이소 브러쉬 모음"
+    },
+    "300cb46b43f2": {
+      "url": "https://www.instagram.com/reel/DXQyVBpk7NO/?igsh=MThrZGp1amt6ZWVhZA==",
+      "source": "Instagram",
+      "captured_at": "2026-05-09T13:05:44Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "food-review",
+        "instagram-reel",
+        "suwon-food",
+        "samgyetang"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-09-수원-호매실-오복누룽지삼계탕-방문-후기.md",
+      "title": "수원 호매실 오복누룽지삼계탕 방문 후기"
+    },
+    "76576c11ea6a": {
+      "url": "https://youtube.com/shorts/Pd-2F2gZoH8?si=z_4uOD6avIuwMEYp",
+      "source": "YouTube",
+      "captured_at": "2026-04-25T13:51:23Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "다이어트",
+        "간편식",
+        "토스트",
+        "건강식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-04-25-5분-완성-다이어트-참치-오이-토스트-레시피.md",
+      "title": "5분 완성 다이어트 참치 오이 토스트 레시피"
+    },
+    "843feed0634b": {
+      "url": "https://www.instagram.com/reel/DCG3VECy-W5/?igsh=bDZpdno2eDRnaTJ6",
+      "source": "Instagram",
+      "captured_at": "2026-04-23T06:35:46Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "들기름",
+        "한식",
+        "파스타",
+        "건강식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-04-23-들기름을-활용한-꾸덕한-한식-파스타-레시피.md",
+      "title": "들기름을 활용한 꾸덕한 한식 파스타 레시피"
+    },
+    "da036c06c1a8": {
+      "url": "https://x.com/berryme0v0/status/2051504535408148635?s=12",
+      "source": "X",
+      "captured_at": "2026-05-05T11:29:45Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "foodie",
+        "korean-food",
+        "recommendation",
+        "noodles"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-05-인생-들기름국수-맛집-추천.md",
+      "title": "인생 들기름국수 맛집 추천"
+    },
+    "a9c1757567a6": {
+      "url": "https://youtube.com/shorts/y4K7Tp7Gr78?si=Hh9egQECLiDkdOVF",
+      "source": "YouTube",
+      "captured_at": "2026-04-28T13:43:45Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "일본",
+        "요코하마",
+        "마파두부",
+        "맛집",
+        "푸딩 두부"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-04-28-일본-요코하마의-특별한-즉석-마파두부-맛집.md",
+      "title": "일본 요코하마의 특별한 즉석 마파두부 맛집"
+    },
+    "1b9289e79f92": {
+      "url": "https://www.instagram.com/reel/DYCIhoXSqx1/?igsh=MXBvaXhqMGh2cWV1cg==",
+      "source": "Instagram",
+      "captured_at": "2026-05-10T12:45:30Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "recipe",
+        "korean-food",
+        "cooking-hack",
+        "quick-meal"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-10-닭볶음탕-닭으로-만드는-찹쌀밥-레시피.md",
+      "title": "닭볶음탕 닭으로 만드는 찹쌀밥 레시피"
+    },
+    "ee6aa4146947": {
+      "url": "https://youtube.com/watch?v=WaqjcRwkKd8&si=lEI_PqQufykR1j_l",
+      "source": "YouTube",
+      "captured_at": "2026-04-28T13:36:16Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "고수",
+        "김치",
+        "레시피",
+        "요리",
+        "음식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-04-28-고수-김치-레시피-고수-애호가를-위한-특별한-요리.md",
+      "title": "고수 김치 레시피: 고수 애호가를 위한 특별한 요리"
+    },
+    "51b3f4d702d6": {
+      "url": "https://youtube.com/shorts/X8L_YtM4kk8?si=ibTlFRiUIYPMSSVQ",
+      "source": "YouTube",
+      "captured_at": "2026-04-27T11:03:10Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "요리",
+        "깻잎",
+        "차지키소스",
+        "요거트"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-04-27-깻잎-활용한-상큼한-오이-차지키-소스-레시피.md",
+      "title": "깻잎 활용한 상큼한 오이 차지키 소스 레시피"
+    },
+    "147627f5cd83": {
+      "url": "https://youtube.com/shorts/5TVnGpYPFgo?si=myz33F2meAO8t1_g",
+      "source": "YouTube",
+      "captured_at": "2026-05-01T14:40:32Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "recipe",
+        "food",
+        "cooking",
+        "youtube"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-01-궁극의-파스타-레시피.md",
+      "title": "궁극의 파스타 레시피"
+    },
+    "156a5c262d43": {
+      "url": "https://www.instagram.com/reel/DCoE1K6JlBL/?igsh=MTdndTd2d2c3dWU1eQ==",
+      "source": "Instagram",
+      "captured_at": "2026-04-23T06:35:18Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "토스트",
+        "간단요리",
+        "디저트",
+        "홈베이킹"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-04-23-우유-품은-허니버터토스트-레시피.md",
+      "title": "우유 품은 허니버터토스트 레시피"
+    },
+    "09de4c0af8ea": {
+      "url": "https://x.com/kunmandooo/status/2047573167271723365?s=12",
+      "source": "X",
+      "captured_at": "2026-04-24T10:31:01Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "맛집",
+        "성수",
+        "음식",
+        "추천"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-04-24-성수-파작-맛집-탐방-후기.md",
+      "title": "성수 파작: 맛집 탐방 후기"
+    },
+    "901fd9bb6e88": {
+      "url": "https://www.instagram.com/reel/DXKqUXtE8j2/?igsh=MWFvbHJka2pob21scA==",
+      "source": "Instagram",
+      "captured_at": "2026-04-26T10:29:49Z",
       "status": "classified",
       "category": "generative-tools",
       "tags": [
-        "midjourney",
-        "image-generation",
-        "ai-art",
-        "v8.1"
+        "photoshop",
+        "compositing",
+        "fire-effects",
+        "visual-effects",
+        "tutorial"
       ],
-      "path": "wiki/generative-tools/2026-05-08-midjourney-v81-경량-데이터셋-이미지-생성.md",
-      "title": "Midjourney V8.1: 경량 데이터셋 이미지 생성"
+      "path": "wiki/generative-tools/2026-04-26-포토샵으로-불-효과-합성하는-방법.md",
+      "title": "포토샵으로 불 효과 합성하는 방법"
     },
-    "27a23d25e975": {
-      "url": "https://x.com/a2can3/status/2052484725629919617?s=12",
+    "f02985ac7ed6": {
+      "url": "https://x.com/crypto_qianxun/status/2045789776218063212?s=12",
       "source": "X",
-      "captured_at": "2026-05-08T14:27:56Z",
+      "captured_at": "2026-04-21T10:21:46Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "image-generation",
+        "prompt-engineering",
+        "nano-banana-pro",
+        "ai-tools"
+      ],
+      "path": "wiki/generative-tools/2026-04-21-나노-바나나-pro-이미지-생성-완벽-가이드.md",
+      "title": "나노 바나나 Pro 이미지 생성 완벽 가이드"
+    },
+    "0627fa20d470": {
+      "url": "https://x.com/cursor_ai/status/2049499866217185492?s=12",
+      "source": "X",
+      "captured_at": "2026-04-30T00:50:34Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "sdk",
+        "ai-agents",
+        "developer-tools",
+        "automation",
+        "cursor-ai"
+      ],
+      "path": "wiki/generative-tools/2026-04-30-cursor-ai-개발자-위한-sdk-출시.md",
+      "title": "Cursor AI, 개발자 위한 SDK 출시"
+    },
+    "b48123c2543d": {
+      "url": "https://x.com/bram_naus/status/2049432209384161440?s=12",
+      "source": "X",
+      "captured_at": "2026-04-30T00:26:27Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "font",
+        "free-font",
+        "sans-serif",
+        "design-resources"
+      ],
+      "path": "wiki/generative-tools/2026-04-30-무료-폰트-깔끔하고-현대적인-테크니컬-산세리프.md",
+      "title": "무료 폰트: 깔끔하고 현대적인 테크니컬 산세리프"
+    },
+    "03699a433dd3": {
+      "url": "https://www.instagram.com/reel/DUiVqz4kYUt/?igsh=MWJ4b2lhdHc1M2I3ZA==",
+      "source": "Instagram",
+      "captured_at": "2026-04-21T10:29:55Z",
       "status": "classified",
       "category": "generative-tools",
       "tags": [
         "ai-tool",
-        "timelapse",
-        "how-to",
-        "generative-ai"
+        "background-removal",
+        "image-editing",
+        "photoshop-alternative"
       ],
-      "path": "wiki/generative-tools/2026-05-08-ai-도구-사용법-타임랩스-영상.md",
-      "title": "AI 도구 사용법 타임랩스 영상"
+      "path": "wiki/generative-tools/2026-04-21-투명-배경-누끼-따기-ai-툴.md",
+      "title": "투명 배경 누끼 따기 AI 툴"
+    },
+    "5d4add5c4743": {
+      "url": "https://www.instagram.com/reel/DWOTjKwkkpf/?igsh=YnBqb2c5dHNrbDlj",
+      "source": "Instagram",
+      "captured_at": "2026-04-21T10:39:27Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai-icon-generator",
+        "3d-icons",
+        "figma-plugin",
+        "promptless-design",
+        "nanobanana"
+      ],
+      "path": "wiki/generative-tools/2026-04-21-blungeai-캔버스-기반-ai-아이콘-생성-서비스.md",
+      "title": "Blunge.ai: 캔버스 기반 AI 아이콘 생성 서비스"
     },
     "ed6eb8b402c8": {
       "url": "https://x.com/krongggggg/status/2052939694166729183?s=12",
@@ -973,20 +647,345 @@
       "path": "wiki/generative-tools/2026-05-09-claude-code로-인터랙티브-웹-개발-튜토리얼.md",
       "title": "Claude Code로 인터랙티브 웹 개발 튜토리얼"
     },
-    "300cb46b43f2": {
-      "url": "https://www.instagram.com/reel/DXQyVBpk7NO/?igsh=MThrZGp1amt6ZWVhZA==",
-      "source": "Instagram",
-      "captured_at": "2026-05-09T13:05:44Z",
+    "4c3cb00d6507": {
+      "url": "https://x.com/pietrobaudin/status/2024194901458481498?s=12",
+      "source": "X",
+      "captured_at": "2026-04-27T13:16:49Z",
       "status": "classified",
-      "category": "trend-reports",
+      "category": "generative-tools",
       "tags": [
-        "food-review",
-        "instagram-reel",
-        "suwon-food",
-        "samgyetang"
+        "photoshop",
+        "design-tools",
+        "tutorial",
+        "graphics"
       ],
-      "path": "wiki/trend-reports/2026-05-09-수원-호매실-오복누룽지삼계탕-방문-후기.md",
-      "title": "수원 호매실 오복누룽지삼계탕 방문 후기"
+      "path": "wiki/generative-tools/2026-04-27-포토샵-2026-팁-트릭-smartgraphicss.md",
+      "title": "포토샵 2026 팁 & 트릭 (smart.graphicss)"
+    },
+    "e18fc1ce3628": {
+      "url": "https://x.com/lisaknowsai/status/2047268606270926960?s=12",
+      "source": "X",
+      "captured_at": "2026-04-24T10:45:15Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "image-upscaling",
+        "8k",
+        "ai-image",
+        "photorealism"
+      ],
+      "path": "wiki/generative-tools/2026-04-24-8k-초고화질-이미지-업스케일링-도구.md",
+      "title": "8K 초고화질 이미지 업스케일링 도구"
+    },
+    "4d1728102932": {
+      "url": "https://code.claude.com/docs/en/overview",
+      "source": "Manual",
+      "captured_at": "2026-04-19T09:50:51Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai-coding",
+        "developer-tools",
+        "code-generation",
+        "automation",
+        "cli"
+      ],
+      "path": "wiki/generative-tools/2026-04-19-claude-code-개발-생산성-향상을-위한-ai-도구.md",
+      "title": "Claude Code: 개발 생산성 향상을 위한 AI 도구"
+    },
+    "fb3fe2fa2522": {
+      "url": "https://x.com/uisavior/status/2051674614644781486?s=12",
+      "source": "X",
+      "captured_at": "2026-05-06T13:57:06Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ux",
+        "ui",
+        "design-tools",
+        "resources",
+        "productivity"
+      ],
+      "path": "wiki/generative-tools/2026-05-06-uxui-디자이너-필수-웹사이트-6가지-추천.md",
+      "title": "UX/UI 디자이너 필수 웹사이트 6가지 추천"
+    },
+    "0875b57e3093": {
+      "url": "https://x.com/lloydcreates/status/2052387986168312054?s=12",
+      "source": "X",
+      "captured_at": "2026-05-08T14:04:56Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "midjourney",
+        "image-generation",
+        "ai-art",
+        "v8.1"
+      ],
+      "path": "wiki/generative-tools/2026-05-08-midjourney-v81-경량-데이터셋-이미지-생성.md",
+      "title": "Midjourney V8.1: 경량 데이터셋 이미지 생성"
+    },
+    "bbc903d4a81e": {
+      "url": "https://x.com/datachaz/status/2045784379155226971?s=12",
+      "source": "X",
+      "captured_at": "2026-04-20T09:21:23Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "claude",
+        "token-optimization",
+        "api-cost",
+        "prompt-engineering",
+        "code-generation"
+      ],
+      "path": "wiki/generative-tools/2026-04-20-claude-code-토큰-낭비-줄이는-10가지-도구.md",
+      "title": "Claude Code 토큰 낭비 줄이는 10가지 도구"
+    },
+    "9c8dfbf35131": {
+      "url": "https://code.claude.com/docs/ko/common-workflows",
+      "source": "Manual",
+      "captured_at": "2026-04-19T13:03:26Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "claude-code",
+        "developer-workflow",
+        "plan-mode",
+        "worktrees",
+        "testing"
+      ],
+      "path": "wiki/generative-tools/2026-04-19-claude-code-일반-워크플로우-가이드.md",
+      "title": "Claude Code 일반 워크플로우 가이드"
+    },
+    "629e38f3b7a6": {
+      "url": "https://x.com/mizchi/status/2045501078574350450?s=12",
+      "source": "X",
+      "captured_at": "2026-04-20T11:16:41Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "skill-optimization",
+        "documentation",
+        "automation",
+        "developer-tools"
+      ],
+      "path": "wiki/generative-tools/2026-04-20-skillmd-자동화된-스킬-최적화-도구.md",
+      "title": "SKILL.md: 자동화된 스킬 최적화 도구"
+    },
+    "6999edab0bb5": {
+      "url": "https://x.com/grav_stock/status/2046774348678099327?s=12",
+      "source": "X",
+      "captured_at": "2026-04-24T10:35:52Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "freebie",
+        "texture",
+        "4k",
+        "visual-effects",
+        "motion-graphics"
+      ],
+      "path": "wiki/generative-tools/2026-04-24-무료-4k-그레인-텍스처-팩-제공.md",
+      "title": "무료 4K 그레인 텍스처 팩 제공"
+    },
+    "44dbb885344a": {
+      "url": "https://x.com/grav_stock/status/2048584220163834082?s=12",
+      "source": "X",
+      "captured_at": "2026-04-27T13:13:48Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "image-blending",
+        "design-tips",
+        "graphic-design"
+      ],
+      "path": "wiki/generative-tools/2026-04-27-포토샵-이미지-합성-팁.md",
+      "title": "포토샵 이미지 합성 팁"
+    },
+    "adf5c641caf5": {
+      "url": "https://x.com/shipper_now/status/2049441395866509492?s=12",
+      "source": "X",
+      "captured_at": "2026-04-30T00:34:34Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "no-code",
+        "app-development",
+        "ai-powered",
+        "website-to-app"
+      ],
+      "path": "wiki/generative-tools/2026-04-30-웹사이트를-네이티브-앱으로-변환하는-website-to-app-출시.md",
+      "title": "웹사이트를 네이티브 앱으로 변환하는 'Website to App' 출시"
+    },
+    "0e1f4a348a49": {
+      "url": "https://x.com/chorokmal/status/2045379017755516930?s=12",
+      "source": "X",
+      "captured_at": "2026-04-21T10:30:46Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "free-assets",
+        "textures",
+        "overlays",
+        "design-resources",
+        "ai-usage"
+      ],
+      "path": "wiki/generative-tools/2026-04-21-상업적-이용-가능한-무료-텍스쳐-400장-공유.md",
+      "title": "상업적 이용 가능한 무료 텍스쳐 400장 공유"
+    },
+    "b8a2e621eec9": {
+      "url": "https://x.com/lucas_flatwhite/status/2046089167059480883?s=12",
+      "source": "X",
+      "captured_at": "2026-04-20T11:17:39Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "claude",
+        "code-generation",
+        "usage-limits",
+        "api-usage"
+      ],
+      "path": "wiki/generative-tools/2026-04-20-claude-code-사용량-관리-팁.md",
+      "title": "Claude Code 사용량 관리 팁"
+    },
+    "e6971b55c7a6": {
+      "url": "https://x.com/stitchbygoogle/status/2046624729403142320?s=12",
+      "source": "X",
+      "captured_at": "2026-04-22T00:59:08Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "design-md",
+        "open-source",
+        "design-rules",
+        "agent-intent"
+      ],
+      "path": "wiki/generative-tools/2026-04-22-google-designmd-초안-공개-및-기능-확장.md",
+      "title": "Google, DESIGN.md 초안 공개 및 기능 확장"
+    },
+    "e50e4dc3cd72": {
+      "url": "https://www.instagram.com/reel/DWgRQLcEpNI/?igsh=M3pzdmRyb3ZzZzJr",
+      "source": "Instagram",
+      "captured_at": "2026-04-23T14:56:47Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "image-editing",
+        "compositing",
+        "selection-tool"
+      ],
+      "path": "wiki/generative-tools/2026-04-23-포토샵-오버레이-블렌딩으로-누끼따기.md",
+      "title": "포토샵 오버레이 블렌딩으로 누끼따기"
+    },
+    "d7c0c7be0fa9": {
+      "url": "https://x.com/designspot_jap/status/2036776023891865754?s=12",
+      "source": "X",
+      "captured_at": "2026-04-21T10:38:58Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "texture",
+        "halftone",
+        "print-effect",
+        "design-tips"
+      ],
+      "path": "wiki/generative-tools/2026-04-21-포토샵으로-하프톤-및-아날로그-인쇄-질감-표현하기.md",
+      "title": "포토샵으로 하프톤 및 아날로그 인쇄 질감 표현하기"
+    },
+    "60539e00b761": {
+      "url": "https://www.instagram.com/reel/DUsW1yJkpTZ/?igsh=YWtqN2hreG0ydGxh",
+      "source": "Instagram",
+      "captured_at": "2026-04-23T14:46:17Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "image-editing",
+        "quick-tip",
+        "masking",
+        "ai-tools"
+      ],
+      "path": "wiki/generative-tools/2026-04-23-포토샵-누끼-테두리-5초-제거-팁.md",
+      "title": "포토샵 누끼 테두리 5초 제거 팁"
+    },
+    "673be5909e67": {
+      "url": "https://x.com/eng_khairallah1/status/2047609433489035739?s=12",
+      "source": "X",
+      "captured_at": "2026-04-25T13:42:46Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai-coding",
+        "code-generation",
+        "developer-tools",
+        "future-of-coding"
+      ],
+      "path": "wiki/generative-tools/2026-04-25-ai-기반-코드-생성-도구의-잠재력과-한계.md",
+      "title": "AI 기반 코드 생성 도구의 잠재력과 한계"
+    },
+    "8049fad6432d": {
+      "url": "https://x.com/madebyvishesh/status/2051398925064819105?s=12",
+      "source": "X",
+      "captured_at": "2026-05-06T11:19:53Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "pattern-effects",
+        "web-design",
+        "creative-coding",
+        "animation"
+      ],
+      "path": "wiki/generative-tools/2026-05-06-vishesh의-흥미로운-패턴-효과-툴.md",
+      "title": "Vishesh의 흥미로운 패턴 효과 툴"
+    },
+    "eb2ac2ca9a8d": {
+      "url": "https://www.instagram.com/reel/DWY1N0wj5G4/?igsh=M3ZoeDU4cXV0eGdx",
+      "source": "Instagram",
+      "captured_at": "2026-04-25T13:47:22Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "lighting-effects",
+        "design-tutorial",
+        "visual-hierarchy",
+        "editing-tips"
+      ],
+      "path": "wiki/generative-tools/2026-04-25-포토샵-로컬-조명-효과-튜토리얼.md",
+      "title": "포토샵 로컬 조명 효과 튜토리얼"
+    },
+    "50aa8c43e2f8": {
+      "url": "https://www.instagram.com/reel/DW6S36sjwqR/?igsh=cXRzcHk5dzNuaW8y",
+      "source": "Instagram",
+      "captured_at": "2026-04-28T13:34:45Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "perspective",
+        "tutorial",
+        "design-tips"
+      ],
+      "path": "wiki/generative-tools/2026-04-28-포토샵-투시-보정-튜토리얼.md",
+      "title": "포토샵 투시 보정 튜토리얼"
+    },
+    "d49a04ca72a1": {
+      "url": "https://x.com/so_ainsight/status/2049322552036868169?s=12",
+      "source": "X",
+      "captured_at": "2026-04-29T15:18:02Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "open-source",
+        "free-tools",
+        "ai-art",
+        "fooocus",
+        "comfyui"
+      ],
+      "path": "wiki/generative-tools/2026-04-29-무료-오픈소스-ai-도구-10선-fooocus-comfyui-등.md",
+      "title": "무료 오픈소스 AI 도구 10선: Fooocus, ComfyUI 등"
     },
     "83723e8c7b41": {
       "url": "https://www.instagram.com/reel/DV1fUvvDZM_/?igsh=Y3Ywdm02NTJ5ejVs",
@@ -1003,50 +1002,51 @@
       "path": "wiki/generative-tools/2026-05-09-포토샵-레이어-스타일-튜토리얼-금속-질감-만들기.md",
       "title": "포토샵 레이어 스타일 튜토리얼: 금속 질감 만들기"
     },
-    "d739fc7110af": {
-      "url": "https://www.instagram.com/reel/DV_EPgpksnp/?igsh=emE5OXV3eW83aGNt",
-      "source": "Instagram",
-      "captured_at": "2026-05-10T07:08:55Z",
+    "64e904ad79f3": {
+      "url": "https://code.claude.com/docs/ko/routines",
+      "source": "Manual",
+      "captured_at": "2026-04-19T11:25:36Z",
       "status": "classified",
-      "category": "trend-reports",
+      "category": "generative-tools",
       "tags": [
-        "여드름",
-        "피부 관리",
-        "약사",
-        "생리전증후군"
+        "automation",
+        "claude-code",
+        "routines",
+        "api-triggers",
+        "github-triggers"
       ],
-      "path": "wiki/trend-reports/2026-05-10-생리-전-여드름-관리법-약사-추천.md",
-      "title": "생리 전 여드름 관리법 (약사 추천)"
+      "path": "wiki/generative-tools/2026-04-19-claude-루틴으로-작업-자동화하기.md",
+      "title": "Claude 루틴으로 작업 자동화하기"
     },
-    "dca6e6d543f1": {
-      "url": "https://www.instagram.com/reel/DXqE9pXD7tX/?igsh=dno5em5lazF5OW80",
-      "source": "Instagram",
-      "captured_at": "2026-05-10T07:12:44Z",
+    "c9c5f3d74547": {
+      "url": "https://x.com/cyrilxbt/status/2049093475560301009?s=12",
+      "source": "X",
+      "captured_at": "2026-04-29T08:17:36Z",
       "status": "classified",
-      "category": "trend-reports",
+      "category": "generative-tools",
       "tags": [
-        "food-production",
-        "monastic-craft",
-        "german-sausage",
-        "instagram-reel"
+        "ai",
+        "text-generation",
+        "writing-assistant",
+        "content-creation"
       ],
-      "path": "wiki/trend-reports/2026-05-10-성베네딕도회-왜관수도원-수제-독일식-소시지.md",
-      "title": "성베네딕도회 왜관수도원 수제 독일식 소시지"
+      "path": "wiki/generative-tools/2026-04-29-ai-기반-텍스트-생성-도구-소개.md",
+      "title": "AI 기반 텍스트 생성 도구 소개"
     },
-    "1b9289e79f92": {
-      "url": "https://www.instagram.com/reel/DYCIhoXSqx1/?igsh=MXBvaXhqMGh2cWV1cg==",
-      "source": "Instagram",
-      "captured_at": "2026-05-10T12:45:30Z",
+    "27a23d25e975": {
+      "url": "https://x.com/a2can3/status/2052484725629919617?s=12",
+      "source": "X",
+      "captured_at": "2026-05-08T14:27:56Z",
       "status": "classified",
-      "category": "trend-reports",
+      "category": "generative-tools",
       "tags": [
-        "recipe",
-        "korean-food",
-        "cooking-hack",
-        "quick-meal"
+        "ai-tool",
+        "timelapse",
+        "how-to",
+        "generative-ai"
       ],
-      "path": "wiki/trend-reports/2026-05-10-닭볶음탕-닭으로-만드는-찹쌀밥-레시피.md",
-      "title": "닭볶음탕 닭으로 만드는 찹쌀밥 레시피"
+      "path": "wiki/generative-tools/2026-05-08-ai-도구-사용법-타임랩스-영상.md",
+      "title": "AI 도구 사용법 타임랩스 영상"
     }
   }
 }
