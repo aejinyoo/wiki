@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "af71a6dd5692",
+    "url": "https://x.com/kouji_tajima/status/2054127453321548262?s=12",
+    "source": "X",
+    "captured_at": "2026-05-12T23:59:35Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "解説はないけどBlenderでモデリングする全行程ノーカットで見れるので超超超勉強になります。 https://t.co/ntSsZSmDdP pic.twitter.com/4y4P9XNuD0",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "解説はないけどBlenderでモデリングする全行程ノーカットで見れるので超超超勉強になります。 https://t.co/ntSsZSmDdP pic.twitter.com/4y4P9XNuD0",
+    "author": "Kouji Tajima 田島光二",
+    "author_url": "https://twitter.com/Kouji_Tajima",
+    "tweet_url": "https://twitter.com/Kouji_Tajima/status/2054127453321548262"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-11T06:58:43Z",
+  "updated_at": "2026-05-13T23:36:45Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1047,6 +1047,69 @@
       ],
       "path": "wiki/generative-tools/2026-05-08-ai-도구-사용법-타임랩스-영상.md",
       "title": "AI 도구 사용법 타임랩스 영상"
+    },
+    "af71a6dd5692": {
+      "url": "https://x.com/kouji_tajima/status/2054127453321548262?s=12",
+      "source": "X",
+      "captured_at": "2026-05-12T23:59:35Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "blender",
+        "3d-modeling",
+        "tutorial",
+        "workflow",
+        "animation"
+      ],
+      "path": "wiki/generative-tools/2026-05-12-blender-모델링-전체-과정-노컷-영상.md",
+      "title": "Blender 모델링 전체 과정 노컷 영상"
+    },
+    "41334bf55f40": {
+      "url": "https://x.com/hamspasito/status/2053845187013890213?s=12",
+      "source": "X",
+      "captured_at": "2026-05-13T00:25:21Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "요리",
+        "계란",
+        "반숙란",
+        "레시피",
+        "꿀팁"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-13-반숙란-완벽하게-만드는-비법-공개.md",
+      "title": "반숙란 완벽하게 만드는 비법 공개"
+    },
+    "8dda9cf09b1d": {
+      "url": "https://x.com/afterwork0307/status/2054090590732865902?s=12",
+      "source": "X",
+      "captured_at": "2026-05-13T00:34:54Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "절세",
+        "재테크",
+        "직장인",
+        "금융",
+        "세금"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-13-30대-직장인을-위한-절세-계좌-활용-순서.md",
+      "title": "30대 직장인을 위한 절세 계좌 활용 순서"
+    },
+    "a03b218d3edc": {
+      "url": "https://x.com/om_patel5/status/2054398227844116930?s=12",
+      "source": "X",
+      "captured_at": "2026-05-13T10:47:42Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "app-store",
+        "screenshot-tool",
+        "design-automation",
+        "ux-design"
+      ],
+      "path": "wiki/generative-tools/2026-05-13-간단한-앱-스토어-스크린샷-제작-도구.md",
+      "title": "간단한 앱 스토어 스크린샷 제작 도구"
     }
   }
 }
