@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-13T23:36:45Z",
+  "updated_at": "2026-05-15T23:27:59Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1110,6 +1110,53 @@
       ],
       "path": "wiki/generative-tools/2026-05-13-간단한-앱-스토어-스크린샷-제작-도구.md",
       "title": "간단한 앱 스토어 스크린샷 제작 도구"
+    },
+    "4afc9c606d28": {
+      "url": "https://velog.io/@teo/we-programmer",
+      "source": "Manual",
+      "captured_at": "2026-05-15T10:34:09Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "ai",
+        "programming-philosophy",
+        "software-development",
+        "abstraction",
+        "details"
+      ],
+      "path": "wiki/trend-reports/2026-05-15-ai-시대-프로그래머-정신과-디테일의-중요성.md",
+      "title": "AI 시대, '프로그래머 정신'과 디테일의 중요성"
+    },
+    "49739b569f1a": {
+      "url": "https://x.com/copyrebeldia/status/2055083368870817818?s=12",
+      "source": "X",
+      "captured_at": "2026-05-15T12:18:39Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "3d-generation",
+        "photogrammetry",
+        "ai-tools",
+        "spatial-computing"
+      ],
+      "path": "wiki/generative-tools/2026-05-15-사진-한-장으로-5분-만에-3d-월드-생성-ai.md",
+      "title": "사진 한 장으로 5분 만에 3D 월드 생성 AI"
+    },
+    "80b8ac4618b9": {
+      "url": "https://x.com/sol__finetree/status/2055130504689778844?s=12",
+      "source": "X",
+      "captured_at": "2026-05-15T12:19:38Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "간편식",
+        "파스타",
+        "레시피",
+        "브리치즈",
+        "전자레인지"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-15-초간단-브리치즈-파스타-레시피.md",
+      "title": "초간단 브리치즈 파스타 레시피"
     }
   }
 }
