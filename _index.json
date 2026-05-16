@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-15T23:27:59Z",
+  "updated_at": "2026-05-16T23:25:33Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1157,6 +1157,37 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-05-15-초간단-브리치즈-파스타-레시피.md",
       "title": "초간단 브리치즈 파스타 레시피"
+    },
+    "af838929c63d": {
+      "url": "https://x.com/Krongggggg/status/2055237204465852919?s=20",
+      "source": "X",
+      "captured_at": "2026-05-16T01:54:37Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "distributed-systems",
+        "message-ordering",
+        "slack",
+        "infrastructure",
+        "design-patterns"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-05-16-슬랙의-분산-환경-메시지-순서-보장-설계.md",
+      "title": "슬랙의 분산 환경 메시지 순서 보장 설계"
+    },
+    "fc98ef041f05": {
+      "url": "https://www.instagram.com/reel/DU4mkgiE4Rx/?igsh=aXg5d3NrNDg5cnN5",
+      "source": "Instagram",
+      "captured_at": "2026-05-16T02:13:38Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "수원맛집",
+        "인계동맛집",
+        "데이트코스",
+        "커피맛집"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-16-수원-인계동-데이트-맛집-추천.md",
+      "title": "수원 인계동 데이트 맛집 추천"
     }
   }
 }
