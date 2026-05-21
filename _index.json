@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-16T23:25:33Z",
+  "updated_at": "2026-05-21T23:34:15Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1188,6 +1188,52 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-05-16-수원-인계동-데이트-맛집-추천.md",
       "title": "수원 인계동 데이트 맛집 추천"
+    },
+    "2b421fe02958": {
+      "url": "https://www.instagram.com/reel/DYl_j3bTZ68/?igsh=ZGIyYzg1M2dkaGg0",
+      "source": "Instagram",
+      "captured_at": "2026-05-21T15:51:56Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "figma",
+        "ai-typography",
+        "oplux-ai",
+        "graphic-design"
+      ],
+      "path": "wiki/generative-tools/2026-05-21-피그마-oplux-ai로-타이포그래피-작업하기.md",
+      "title": "피그마 Oplux AI로 타이포그래피 작업하기"
+    },
+    "b3236b590dde": {
+      "url": "https://www.instagram.com/p/DYjxc0oEeV6/?img_index=1&igsh=MTluazNhZjFxcTc5MQ==",
+      "source": "Instagram",
+      "captured_at": "2026-05-21T15:53:12Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "motion-tracking",
+        "graphic-effects",
+        "design-tools",
+        "ai-design"
+      ],
+      "path": "wiki/generative-tools/2026-05-21-ai-기반-그래픽-효과-디자인-사이트-추천.md",
+      "title": "AI 기반 그래픽 효과 디자인 사이트 추천"
+    },
+    "0ef74309a323": {
+      "url": "https://www.instagram.com/p/DYhD8ZBlI8E/?img_index=2&igsh=MWN1MXc5cjY2b2lxNw==",
+      "source": "Instagram",
+      "captured_at": "2026-05-21T15:56:24Z",
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "design-inspiration",
+        "y2k-style",
+        "graphic-assets",
+        "curated-archives",
+        "visual-search"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-05-21-디자인-영감-고갈-탈출-y2k-크롬-그런지-텍스처-아카이브-6곳.md",
+      "title": "디자인 영감 고갈 탈출: Y2K, 크롬, 그런지 텍스처 아카이브 6곳"
     }
   }
 }
