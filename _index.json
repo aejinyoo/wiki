@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-21T23:34:15Z",
+  "updated_at": "2026-05-23T23:29:08Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1234,6 +1234,22 @@
       ],
       "path": "wiki/ai-ux-patterns/2026-05-21-디자인-영감-고갈-탈출-y2k-크롬-그런지-텍스처-아카이브-6곳.md",
       "title": "디자인 영감 고갈 탈출: Y2K, 크롬, 그런지 텍스처 아카이브 6곳"
+    },
+    "876289eb908a": {
+      "url": "https://x.com/meunchiscene/status/2057678294548627603?s=12",
+      "source": "X",
+      "captured_at": "2026-05-23T01:49:05Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "shanghai",
+        "food",
+        "cafe",
+        "travel",
+        "recommendation"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-23-상하이-맛집카페-추천-타래.md",
+      "title": "상하이 맛집/카페 추천 타래"
     }
   }
 }
