@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-23T23:29:08Z",
+  "updated_at": "2026-05-25T23:38:22Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1250,6 +1250,38 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-05-23-상하이-맛집카페-추천-타래.md",
       "title": "상하이 맛집/카페 추천 타래"
+    },
+    "cc357671dd38": {
+      "url": "https://www.instagram.com/p/DX8PkLijxfH/",
+      "source": "Instagram",
+      "captured_at": "2026-05-25T13:57:43Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "design-inspiration",
+        "trend-archiving",
+        "creative-block",
+        "web-resources",
+        "design-trends"
+      ],
+      "path": "wiki/trend-reports/2026-05-25-창의적-영감을-위한-트렌드-아카이빙-웹사이트-모음.md",
+      "title": "창의적 영감을 위한 트렌드 아카이빙 웹사이트 모음"
+    },
+    "7cc2298df3d6": {
+      "url": "https://www.instagram.com/reel/DYNW3X7J2TH/",
+      "source": "Instagram",
+      "captured_at": "2026-05-25T13:59:39Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "github",
+        "ui-effects",
+        "3d-design",
+        "webdevelopment",
+        "design-assets"
+      ],
+      "path": "wiki/generative-tools/2026-05-25-github의-3d-액체-그라데이션-ui-효과.md",
+      "title": "GitHub의 3D, 액체, 그라데이션 UI 효과"
     }
   }
 }
