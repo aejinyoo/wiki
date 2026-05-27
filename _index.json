@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-25T23:38:22Z",
+  "updated_at": "2026-05-27T23:43:43Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1282,6 +1282,37 @@
       ],
       "path": "wiki/generative-tools/2026-05-25-github의-3d-액체-그라데이션-ui-효과.md",
       "title": "GitHub의 3D, 액체, 그라데이션 UI 효과"
+    },
+    "19754a920dc9": {
+      "url": "https://x.com/hanra_32/status/2059286262448832902?s=12",
+      "source": "X",
+      "captured_at": "2026-05-27T02:06:30Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "맛집",
+        "추천",
+        "원단 시장",
+        "음식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-27-원단-시장-맛집-추천-오리지널-명란-카레-크림.md",
+      "title": "원단 시장 맛집 추천: 오리지널, 명란, 카레, 크림"
+    },
+    "3d5ee98b260b": {
+      "url": "https://www.instagram.com/p/DYzL6wDEqSj/",
+      "source": "Instagram",
+      "captured_at": "2026-05-27T10:11:44Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "figma",
+        "claude-code",
+        "design-qa",
+        "automation",
+        "design-system"
+      ],
+      "path": "wiki/generative-tools/2026-05-27-figma와-claude-code로-디자인-qa-자동화하기.md",
+      "title": "Figma와 Claude Code로 디자인 QA 자동화하기"
     }
   }
 }
