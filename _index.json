@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-27T23:43:43Z",
+  "updated_at": "2026-05-29T23:48:20Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1313,6 +1313,21 @@
       ],
       "path": "wiki/generative-tools/2026-05-27-figma와-claude-code로-디자인-qa-자동화하기.md",
       "title": "Figma와 Claude Code로 디자인 QA 자동화하기"
+    },
+    "313dc8d88c0b": {
+      "url": "https://www.instagram.com/reel/DWlr66hATT1/",
+      "source": "Instagram",
+      "captured_at": "2026-05-29T10:59:13Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "animation",
+        "claude-code",
+        "prompt-engineering",
+        "design-tools"
+      ],
+      "path": "wiki/generative-tools/2026-05-29-claude-code로-단일-프롬프트로-애니메이션-만들기.md",
+      "title": "Claude Code로 단일 프롬프트로 애니메이션 만들기"
     }
   }
 }
