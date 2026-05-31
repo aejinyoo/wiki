@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "6639e3ae6e71",
+    "url": "https://youtube.com/shorts/UhXHzM2_29c?si=Rm0EyMTzkJeP9U_M",
+    "source": "YouTube",
+    "captured_at": "2026-05-31T13:15:19Z",
+    "title": "아침 시간을 줄여줄 30초 토스트 비법",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Credits to the original creator.\nFor any copyright issues or removal requests, please contact: \nybag6031@gmail.com",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "아침 시간을 줄여줄 30초 토스트 비법",
+    "text": "Credits to the original creator.\nFor any copyright issues or removal requests, please contact: \nybag6031@gmail.com",
+    "video_id": "UhXHzM2_29c",
+    "channel": "우린만났다",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/UhXHzM2_29c/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

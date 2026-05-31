@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-29T23:48:20Z",
+  "updated_at": "2026-05-31T23:36:49Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1328,6 +1328,22 @@
       ],
       "path": "wiki/generative-tools/2026-05-29-claude-code로-단일-프롬프트로-애니메이션-만들기.md",
       "title": "Claude Code로 단일 프롬프트로 애니메이션 만들기"
+    },
+    "6639e3ae6e71": {
+      "url": "https://youtube.com/shorts/UhXHzM2_29c?si=Rm0EyMTzkJeP9U_M",
+      "source": "YouTube",
+      "captured_at": "2026-05-31T13:15:19Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "아침",
+        "간편식",
+        "토스트",
+        "레시피",
+        "요리팁"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-05-31-30초-만에-완성하는-아침-토스트-비법.md",
+      "title": "30초 만에 완성하는 아침 토스트 비법"
     }
   }
 }
