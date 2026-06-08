@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-31T23:36:49Z",
+  "updated_at": "2026-06-08T23:45:34Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1344,6 +1344,20 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-05-31-30초-만에-완성하는-아침-토스트-비법.md",
       "title": "30초 만에 완성하는 아침 토스트 비법"
+    },
+    "26acec29e9ba": {
+      "url": "https://www.instagram.com/p/DZSPlqOEpDa/?img_index=1",
+      "source": "Instagram",
+      "captured_at": "2026-06-08T10:16:13Z",
+      "status": "raw",
+      "category": null
+    },
+    "e2829a2b4b4f": {
+      "url": "https://x.com/dudyoji/status/2063749223653560515?s=12",
+      "source": "X",
+      "captured_at": "2026-06-08T10:27:20Z",
+      "status": "raw",
+      "category": null
     }
   }
 }
