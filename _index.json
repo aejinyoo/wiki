@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-09T23:50:32Z",
+  "updated_at": "2026-06-10T23:55:37Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1349,22 +1349,46 @@
       "url": "https://www.instagram.com/p/DZSPlqOEpDa/?img_index=1",
       "source": "Instagram",
       "captured_at": "2026-06-08T10:16:13Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "figma",
+        "productivity",
+        "design-tools",
+        "plugins",
+        "ux-tips"
+      ],
+      "path": "wiki/generative-tools/2026-06-08-피그마-생산성-향상-꿀팁-모음.md",
+      "title": "피그마 생산성 향상 꿀팁 모음"
     },
     "e2829a2b4b4f": {
       "url": "https://x.com/dudyoji/status/2063749223653560515?s=12",
       "source": "X",
       "captured_at": "2026-06-08T10:27:20Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "부산",
+        "맛집",
+        "서면",
+        "여행",
+        "음식추천"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-06-08-부산-서면-맛집-반핀-추천.md",
+      "title": "부산 서면 맛집 '반핀' 추천"
     },
     "27036a5e682b": {
       "url": "https://www.instagram.com/reel/DZQ5sA0yYkt/",
       "source": "Instagram",
       "captured_at": "2026-06-09T10:27:10Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "instagram",
+        "reel"
+      ],
+      "path": "wiki/trend-reports/2026-06-09-instagram-릴.md",
+      "title": "Instagram 릴"
     }
   }
 }
