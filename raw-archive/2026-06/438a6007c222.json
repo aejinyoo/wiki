@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "438a6007c222",
+    "url": "https://www.instagram.com/reel/DZUczNHOGg9/",
+    "source": "Instagram",
+    "captured_at": "2026-06-11T14:40:54Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DZUczNHOGg9/",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "11:40 &\n•il ÷ 724\n프롬프트를 수정할 때는 후속 질문을 보내지 마세요.\nClaude는 매번 답변할 때마다 전체 대화 기록을 다시 읽습니다.\n원하는 답이 안 나왔다면 새 메시지를 보내는 대신, 원래 프롬프트 를 수정(Edit) 하고 다시 생성하세요.\n이 경우 기존 답변이 새 답변으로 교체되기 때문에 토큰이 계속 누 적되지 않습니다.\n10번 정도 대화를 주고받는 상황에서는 이것만으로도 토큰 사용량 을 80~90% 줄일 수 있습니다.\n100~200개 메시지마다 새 채팅을 시작하세요.\n첫 번째 메시지는 약 200토큰 정도 사용됩니다.\n하지만 30번째 메시지쯤 가면 같은 질문도 50,000토큰 이상 사용 할 수 있습니다.\nClaude가 만든 요약본을 복사한 뒤, 새 채팅을 열어서 붙여넣고 이어서 작업하세요.\n작업에 맞는 모델을 사용하세요.\n이건 가장 효과가 큰 방법입니다.\n- Haiku 빠른 답변, 브레인스토밍, 문법 교정, 포맷 정리\n- Sonnet 콘텐츠 작성, 분석, 코딩\n- Opus 깊이 있는 리서치, 복잡한 추론, 어려운 문제 해결 간단한 작업은 Haiku를 사용하면\n더 큰 모델이 꼭 필요한 작업에 사용할 토큰을 50~70% 절약할 수 있습니다.\nMemory와 User Preferences를 설정하세요.\n매번 새로운 채팅을 시작할 때마다\n본인이 누구인지, 어떤 일을 하는지, 어떤 스타일을 원하는지 설명 그만큼 토큰이 계속 소모됩니다.\n설정 Memory에서\n역할, 말투, 선호사항 등을 한 번 저장해 두세요.\n그러면 Claude가 모든 새 채팅에 자동으로 반영합니다.\n^ 사용하지 않는 기능은 꺼두세요.\nn\nQ"
+  }
+}

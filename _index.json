@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-10T23:55:37Z",
+  "updated_at": "2026-06-11T23:59:35Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1389,6 +1389,67 @@
       ],
       "path": "wiki/trend-reports/2026-06-09-instagram-릴.md",
       "title": "Instagram 릴"
+    },
+    "87a12b1505c5": {
+      "url": "https://www.instagram.com/reel/DZUE5SVyz6e/",
+      "source": "Instagram",
+      "captured_at": "2026-06-11T14:33:44Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "claude",
+        "ai-tools",
+        "prompt-engineering",
+        "productivity"
+      ],
+      "path": "wiki/generative-tools/2026-06-11-claude-ai-활용법-메모리-인간화-맞춤-요약.md",
+      "title": "Claude AI 활용법: 메모리, 인간화, 맞춤 요약"
+    },
+    "438a6007c222": {
+      "url": "https://www.instagram.com/reel/DZUczNHOGg9/",
+      "source": "Instagram",
+      "captured_at": "2026-06-11T14:40:54Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "claude",
+        "prompt-engineering",
+        "token-saving",
+        "ai-efficiency"
+      ],
+      "path": "wiki/trend-reports/2026-06-11-claude-토큰-절약-및-효율적-사용법.md",
+      "title": "Claude 토큰 절약 및 효율적 사용법"
+    },
+    "ccb303706e44": {
+      "url": "https://www.instagram.com/p/DZEfUMumi7x/?img_index=4",
+      "source": "Instagram",
+      "captured_at": "2026-06-11T14:44:14Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "figma-plugin",
+        "html-to-design",
+        "design-automation",
+        "ux-workflow"
+      ],
+      "path": "wiki/generative-tools/2026-06-11-html을-디자인으로-변환하는-htmltodesign-플러그인.md",
+      "title": "HTML을 디자인으로 변환하는 html.to.design 플러그인"
+    },
+    "06daf73f167f": {
+      "url": "https://www.instagram.com/reel/DWBq3PTk9XK/",
+      "source": "Instagram",
+      "captured_at": "2026-06-11T14:47:40Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "omakase",
+        "sushi",
+        "suwon",
+        "budget-friendly",
+        "korean-food"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-06-11-수원-가성비-스시-오마카세-런치-29만원-디너-39만원.md",
+      "title": "수원 가성비 스시 오마카세: 런치 2.9만원, 디너 3.9만원"
     }
   }
 }
