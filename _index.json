@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-11T23:59:35Z",
+  "updated_at": "2026-06-13T23:39:27Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1450,6 +1450,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-06-11-수원-가성비-스시-오마카세-런치-29만원-디너-39만원.md",
       "title": "수원 가성비 스시 오마카세: 런치 2.9만원, 디너 3.9만원"
+    },
+    "4ea60bd47f29": {
+      "url": "https://www.instagram.com/reel/DYi8YydRrS_/",
+      "source": "Instagram",
+      "captured_at": "2026-06-13T16:47:29Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "스트레칭",
+        "골반교정",
+        "홈트",
+        "이완",
+        "체형관리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-06-13-침대에서-하는-골반-전방경사-개선-이완-루틴.md",
+      "title": "침대에서 하는 골반 전방경사 개선 이완 루틴"
     }
   }
 }
