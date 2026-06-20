@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-13T23:39:27Z",
+  "updated_at": "2026-06-20T23:43:44Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1466,6 +1466,36 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-06-13-침대에서-하는-골반-전방경사-개선-이완-루틴.md",
       "title": "침대에서 하는 골반 전방경사 개선 이완 루틴"
+    },
+    "52b24c9f6c02": {
+      "url": "https://x.com/asobodesign/status/2067889927782883468?s=12",
+      "source": "X",
+      "captured_at": "2026-06-20T01:57:55Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "generative-design",
+        "mathematical-art",
+        "svg-output",
+        "customization"
+      ],
+      "path": "wiki/generative-tools/2026-06-20-수식-기반-이미지-생성-디자인-툴.md",
+      "title": "수식 기반 이미지 생성 디자인 툴"
+    },
+    "f4de291d6a81": {
+      "url": "https://www.instagram.com/reel/DZpc_GXpgKv/?igsh=aGh1dnl1djY2Njhm",
+      "source": "Instagram",
+      "captured_at": "2026-06-20T12:43:23Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "illustrator",
+        "text-effects",
+        "graphic-design",
+        "tutorial"
+      ],
+      "path": "wiki/generative-tools/2026-06-20-일러스트레이터-테두리-텍스트-효과-만들기.md",
+      "title": "일러스트레이터 테두리 텍스트 효과 만들기"
     }
   }
 }
