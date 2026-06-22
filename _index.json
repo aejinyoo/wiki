@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-20T23:43:44Z",
+  "updated_at": "2026-06-22T23:49:27Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1496,6 +1496,21 @@
       ],
       "path": "wiki/generative-tools/2026-06-20-일러스트레이터-테두리-텍스트-효과-만들기.md",
       "title": "일러스트레이터 테두리 텍스트 효과 만들기"
+    },
+    "66a018904ec7": {
+      "url": "https://x.com/endo_cg/status/2068589929857495158?s=12",
+      "source": "X",
+      "captured_at": "2026-06-22T10:36:39Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "blender",
+        "3d-modeling",
+        "material",
+        "free-asset"
+      ],
+      "path": "wiki/generative-tools/2026-06-22-blender용-무료-물-matcap-3종-공개.md",
+      "title": "Blender용 무료 물 MatCap 3종 공개"
     }
   }
 }
