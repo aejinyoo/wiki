@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-22T23:49:27Z",
+  "updated_at": "2026-06-28T23:37:06Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1511,6 +1511,38 @@
       ],
       "path": "wiki/generative-tools/2026-06-22-blender용-무료-물-matcap-3종-공개.md",
       "title": "Blender용 무료 물 MatCap 3종 공개"
+    },
+    "927b3768829d": {
+      "url": "https://www.instagram.com/reel/DaAgllAPy2s/",
+      "source": "Instagram",
+      "captured_at": "2026-06-28T13:27:15Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "recipe",
+        "korean-food",
+        "mushroom",
+        "sesame-leaf",
+        "quick-meal"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-06-28-새송이-들깨-무침-레시피.md",
+      "title": "새송이 들깨 무침 레시피"
+    },
+    "5da8faf62826": {
+      "url": "https://www.instagram.com/reel/DZ40YSfJdcb/",
+      "source": "Instagram",
+      "captured_at": "2026-06-28T13:33:54Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "food",
+        "restaurant",
+        "korea",
+        "suwon",
+        "chinese-food"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-06-28-17년-경력-셰프의-수원-중식당-ywok.md",
+      "title": "17년 경력 셰프의 수원 중식당 Y&WOK"
     }
   }
 }
