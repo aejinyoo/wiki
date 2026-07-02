@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "0b441b44d1da",
+    "url": "https://www.instagram.com/reel/DZn4OTizEcq/",
+    "source": "Instagram",
+    "captured_at": "2026-07-02T15:17:27Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DZn4OTizEcq/",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "12:17 г\n65\n메탈릭 JD 아이콘\n프롬프트\n프롬프트 캡처 후 텍스트 복사해서 사용!\nHigh-resolution 3D render based on the uploaded image, preserve the original shape and silhouette, thick rounded puffy forms, liquid chrome material, mirror-polished liquid metal, highly glossy reflections, clean silver highlights, cute playful futuristic aesthetic, studio product photography, isolated object, centered composition, pure white (#FFFFFF) background, white seamless backdrop, cutout style, no environment, no scenery, no sky, no clouds, no landscape, no background elements, no text, no shadows, 8k\n1,074\n1,028\n167\nolmm\nFollow\n@pixelnotajog\n디자인 소스 아직도 직접 만들고 계신가요?\nn\n+"
+  }
+}

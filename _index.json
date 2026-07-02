@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-06-28T23:37:06Z",
+  "updated_at": "2026-07-02T23:35:46Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1543,6 +1543,21 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-06-28-17년-경력-셰프의-수원-중식당-ywok.md",
       "title": "17년 경력 셰프의 수원 중식당 Y&WOK"
+    },
+    "0b441b44d1da": {
+      "url": "https://www.instagram.com/reel/DZn4OTizEcq/",
+      "source": "Instagram",
+      "captured_at": "2026-07-02T15:17:27Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "prompt-engineering",
+        "ai-art",
+        "3d-render",
+        "chrome-style"
+      ],
+      "path": "wiki/generative-tools/2026-07-02-ai-이미지-생성-프롬프트-공유.md",
+      "title": "AI 이미지 생성 프롬프트 공유"
     }
   }
 }
