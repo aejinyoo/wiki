@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-06-28T23:37:06Z",
+  "updated_at": "2026-07-05T23:33:56Z",
   "categories": {
     "lifestyle-recipe": 31,
     "trend-reports": 10,
     "ai-ux-patterns": 12,
-    "generative-tools": 47
+    "generative-tools": 48
   },
   "tags": {
     "스트레칭": 1,
@@ -131,12 +131,12 @@
     "ux-inspiration": 1,
     "ai-tool": 3,
     "user-experience": 2,
-    "ai-art": 4,
+    "ai-art": 5,
     "generative-ai": 2,
     "image-generation": 3,
     "visual-style": 1,
     "claude": 4,
-    "prompt-engineering": 8,
+    "prompt-engineering": 9,
     "token-saving": 1,
     "ai-efficiency": 1,
     "mobile-browser": 1,
@@ -213,6 +213,8 @@
     "pattern-effects": 1,
     "creative-coding": 1,
     "animation": 3,
+    "3d-render": 1,
+    "chrome-style": 1,
     "graphics": 1,
     "lighting-effects": 1,
     "design-tutorial": 1,
@@ -306,7 +308,7 @@
     "print-effect": 1
   },
   "sources": {
-    "Instagram": 35,
+    "Instagram": 36,
     "X": 47,
     "YouTube": 11,
     "Manual": 7
