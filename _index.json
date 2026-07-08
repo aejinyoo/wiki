@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-02T23:35:46Z",
+  "updated_at": "2026-07-08T23:34:44Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1558,6 +1558,38 @@
       ],
       "path": "wiki/generative-tools/2026-07-02-ai-이미지-생성-프롬프트-공유.md",
       "title": "AI 이미지 생성 프롬프트 공유"
+    },
+    "495c6faed90d": {
+      "url": "https://www.instagram.com/reel/DachSWeTNrL/",
+      "source": "Instagram",
+      "captured_at": "2026-07-08T13:53:08Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "intj",
+        "mbti",
+        "수면",
+        "자기계발",
+        "효율"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-08-intj의-똥고집과-수면-효율.md",
+      "title": "INTJ의 '똥고집'과 수면 효율"
+    },
+    "776335436069": {
+      "url": "https://www.instagram.com/reel/DYiqDFSTUIR/",
+      "source": "Instagram",
+      "captured_at": "2026-07-08T13:54:22Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "home-dining",
+        "seafood",
+        "recipe",
+        "diy-sauce",
+        "fine-dining"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-08-집에서-즐기는-고급-회-요리-세비체-소스-레시피.md",
+      "title": "집에서 즐기는 고급 회 요리: 세비체 소스 레시피"
     }
   }
 }
