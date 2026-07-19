@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "7f8d1d46f915",
+    "url": "https://youtube.com/shorts/ZtvFlaOfNeQ?si=eamsek7oGqUVEu7A",
+    "source": "YouTube",
+    "captured_at": "2026-07-15T16:35:38Z",
+    "title": "또 하나 건졌네",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "오리엔탈 메밀면\n\n* 메밀면은 그냥 좋아하는 메밀면으로 드셔도 됨\n\n* 오이는 1개 먼저 얇게 잘라서 소금찹찹,\n5~10분 후 물기 꽉 짜서 올리기\n\n* 들기름 오리엔탈 소스\n들기름 3T, 간장2~3T, 알룰로스 2T, 레몬즙 1.5T, 다진마늘 0.5T, 깨 1T 숟가락으로 부셔넣기\n\n#간단요리 #메밀막국수 #들기름",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "또 하나 건졌네",
+    "text": "오리엔탈 메밀면\n\n* 메밀면은 그냥 좋아하는 메밀면으로 드셔도 됨\n\n* 오이는 1개 먼저 얇게 잘라서 소금찹찹,\n5~10분 후 물기 꽉 짜서 올리기\n\n* 들기름 오리엔탈 소스\n들기름 3T, 간장2~3T, 알룰로스 2T, 레몬즙 1.5T, 다진마늘 0.5T, 깨 1T 숟가락으로 부셔넣기\n\n#간단요리 #메밀막국수 #들기름",
+    "video_id": "ZtvFlaOfNeQ",
+    "channel": "원쿡",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/ZtvFlaOfNeQ/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

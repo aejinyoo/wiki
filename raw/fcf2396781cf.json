@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "fcf2396781cf",
+    "url": "https://youtube.com/shorts/Elv9SzkA1lE?si=jy8uj55N6mXt4VEr",
+    "source": "YouTube",
+    "captured_at": "2026-07-12T13:40:12Z",
+    "title": "[#습팁📌] 대게 많~이 먹고 싶다면 이 영상만 보세요🦀 살 한 톨도 남기지 않고 대게 깔끔하게 먹는 방법! | 생활의 달인 | SBS",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "술자리 인싸가 되고 싶은 사람 일반 물병만 준비하세요\n#SBS교양 #생활의달인 #AMasterOfLiving\n\nSBS '생활의 달인'\n☞ [월] 밤 9시\n\nCopyright Ⓒ SBS. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "[#습팁📌] 대게 많~이 먹고 싶다면 이 영상만 보세요🦀 살 한 톨도 남기지 않고 대게 깔끔하게 먹는 방법! | 생활의 달인 | SBS",
+    "text": "술자리 인싸가 되고 싶은 사람 일반 물병만 준비하세요\n#SBS교양 #생활의달인 #AMasterOfLiving\n\nSBS '생활의 달인'\n☞ [월] 밤 9시\n\nCopyright Ⓒ SBS. All rights reserved. 무단 전재, 재배포 및 AI학습 이용 금지",
+    "video_id": "Elv9SzkA1lE",
+    "channel": "SBS ",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/Elv9SzkA1lE/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

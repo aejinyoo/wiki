@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "28f7c1a70779",
+    "url": "https://youtube.com/shorts/0TTbsjJq1MQ?si=D7AhdiiNEoESmPyG",
+    "source": "YouTube",
+    "captured_at": "2026-07-12T13:53:56Z",
+    "title": "밥솥으로 이게 가능? 올 여름 최고의 보양식",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "밥솥으로 이게 가능? 올 여름 최고의 보양식",
+    "text": "",
+    "video_id": "0TTbsjJq1MQ",
+    "channel": "체리밀 Cherrymeal",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/0TTbsjJq1MQ/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

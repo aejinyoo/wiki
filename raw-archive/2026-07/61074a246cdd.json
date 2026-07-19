@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "61074a246cdd",
+    "url": "https://youtube.com/shorts/akSDX9Nq3Y0?si=DwnG6APCf9Je6C2y",
+    "source": "YouTube",
+    "captured_at": "2026-07-14T14:42:55Z",
+    "title": "무조건 살 안찌는 가성비 스테이크 🥬자기전까지 생각나요(진짜)",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "무조건 살 안찌는 가성비 스테이크 🥬자기전까지 생각나요(진짜)",
+    "text": "",
+    "video_id": "akSDX9Nq3Y0",
+    "channel": "우나스 woonas",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/akSDX9Nq3Y0/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}
