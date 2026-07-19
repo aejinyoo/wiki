@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-19T07:16:25Z",
+  "updated_at": "2026-07-19T07:44:00Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1611,8 +1611,16 @@
       "url": "https://youtube.com/shorts/Elv9SzkA1lE?si=jy8uj55N6mXt4VEr",
       "source": "YouTube",
       "captured_at": "2026-07-12T13:40:12Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "food-hacks",
+        "seafood",
+        "cooking-tips",
+        "life-hacks"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-12-대게-살-한-톨-안-남기고-먹는-법-생활의-달인.md",
+      "title": "대게 살 한 톨 안 남기고 먹는 법 (생활의 달인)"
     },
     "28f7c1a70779": {
       "url": "https://youtube.com/shorts/0TTbsjJq1MQ?si=D7AhdiiNEoESmPyG",
