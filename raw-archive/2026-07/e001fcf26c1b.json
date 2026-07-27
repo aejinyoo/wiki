@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "e001fcf26c1b",
+    "url": "https://x.com/1st_may_/status/2080506131684962349?s=12",
+    "source": "X",
+    "captured_at": "2026-07-27T12:37:21Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "미슐랭 토마토 파스타 레시피 이 더운날 20분 이상 토마토 졸여야하긴 하지만 충분히 가치있는 맛이니 꼭 한번 해먹어보시길,,, https://t.co/LMFZKj1a2P",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "미슐랭 토마토 파스타 레시피 이 더운날 20분 이상 토마토 졸여야하긴 하지만 충분히 가치있는 맛이니 꼭 한번 해먹어보시길,,, https://t.co/LMFZKj1a2P",
+    "author": "오월",
+    "author_url": "https://x.com/1st_may_",
+    "tweet_url": "https://x.com/1st_may_/status/2080506131684962349"
+  }
+}

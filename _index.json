@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-19T07:44:00Z",
+  "updated_at": "2026-07-27T12:41:23Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1748,6 +1748,22 @@
       ],
       "path": "wiki/generative-tools/2026-07-16-무료-폰트-디자인-레퍼런스-사이트-소개.md",
       "title": "무료 폰트 디자인 레퍼런스 사이트 소개"
+    },
+    "e001fcf26c1b": {
+      "url": "https://x.com/1st_may_/status/2080506131684962349?s=12",
+      "source": "X",
+      "captured_at": "2026-07-27T12:37:21Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "pasta",
+        "tomato",
+        "recipe",
+        "michelin",
+        "quick-meal"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-미슐랭-토마토-파스타-레시피.md",
+      "title": "미슐랭 토마토 파스타 레시피"
     }
   }
 }
