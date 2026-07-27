@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "5cb8fd5f598a",
+    "url": "https://www.instagram.com/reel/DVdQkhAlHdA/",
+    "source": "Instagram",
+    "captured_at": "2026-07-27T14:56:41Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DVdQkhAlHdA/",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "11:56 M\n804\n장페린 꽁떼 150g (8개월)\nCOMTE\n25.4K\n144\n세번째는 꼼떼 치즈입니다\n12.8K\n1,334\n_xinhann\nFollow\n치즈를 있어보이게 먹는 법 ...\nFollowed by spread_eunu\n+"
+  }
+}

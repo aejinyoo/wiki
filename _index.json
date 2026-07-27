@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-27T12:41:23Z",
+  "updated_at": "2026-07-27T23:34:00Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1764,6 +1764,155 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-07-27-미슐랭-토마토-파스타-레시피.md",
       "title": "미슐랭 토마토 파스타 레시피"
+    },
+    "605a56dec68c": {
+      "url": "https://www.instagram.com/reel/DbQDaB3S6fr/?igsh=MTdzdnpqODJ5azVldg==",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T14:44:31Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "콜드파스타",
+        "여름레시피",
+        "방울토마토",
+        "푸타네스카",
+        "홈쿡"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-여름에-즐기는-시원한-방울토마토-콜드-파스타-레시피.md",
+      "title": "여름에 즐기는 시원한 방울토마토 콜드 파스타 레시피"
+    },
+    "203e160476ee": {
+      "url": "https://www.instagram.com/reel/DaYsBBMTZn3/",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T14:47:16Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "크로아상",
+        "하몬",
+        "올리브 오일",
+        "레시피",
+        "젤라또"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-더마틴-레시피-크로아상-하몬-올리브-오일-후추-조합.md",
+      "title": "더마틴 레시피: 크로아상, 하몬, 올리브 오일, 후추 조합"
+    },
+    "ab34b5eedad4": {
+      "url": "https://www.instagram.com/reel/Da2_BmYOzpI/",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T14:51:16Z",
+      "status": "raw",
+      "category": null
+    },
+    "5cb8fd5f598a": {
+      "url": "https://www.instagram.com/reel/DVdQkhAlHdA/",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T14:56:41Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "food",
+        "cheese",
+        "recipe",
+        "food-presentation"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-장페린-꽁떼-치즈-소개.md",
+      "title": "장페린 꽁떼 치즈 소개"
+    },
+    "68188da0f3bf": {
+      "url": "https://www.instagram.com/reel/DYhSr3qPL7f/",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T14:58:19Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "파스타",
+        "레시피",
+        "한식",
+        "퓨전",
+        "요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-순두부-고추장-크림-파스타-레시피.md",
+      "title": "순두부 고추장 크림 파스타 레시피"
+    },
+    "817b9205d955": {
+      "url": "https://www.instagram.com/reel/DYMiWJ4SPY2/",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T14:59:26Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "cheese",
+        "wine",
+        "entertaining",
+        "food-pairing"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-야심한-밤-손님-접대-와인-치즈-추천.md",
+      "title": "야심한 밤 손님 접대 와인 치즈 추천"
+    },
+    "3f601373ba0d": {
+      "url": "https://www.instagram.com/reel/Da5H3ESvptp/",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T15:03:39Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "샐러드",
+        "복숭아",
+        "프로슈토",
+        "간단요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-간단-복숭아-프로슈토-치즈-샐러드-레시피.md",
+      "title": "간단 복숭아 프로슈토 치즈 샐러드 레시피"
+    },
+    "325fd0694ba9": {
+      "url": "https://www.instagram.com/reel/DYFIT9fs-zg/",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T15:05:21Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "food",
+        "cheese",
+        "france",
+        "recipe",
+        "food-culture"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-프랑스-주황색-치즈-미몰레트-소개.md",
+      "title": "프랑스 주황색 치즈 '미몰레트' 소개"
+    },
+    "7f6ec275f878": {
+      "url": "https://www.instagram.com/reel/DbMx8wtPUpg/",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T15:07:57Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "독일음식",
+        "소시지",
+        "레시피",
+        "세계음식",
+        "건강식품"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-독일-소시지-바이스부어스트-소개.md",
+      "title": "독일 소시지 '바이스부어스트' 소개"
+    },
+    "10b848051b76": {
+      "url": "https://www.instagram.com/reel/DaQHy91pu0N/",
+      "source": "Instagram",
+      "captured_at": "2026-07-27T15:11:00Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "다이어트",
+        "레시피",
+        "막국수",
+        "저칼로리",
+        "건강식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-27-17kg-감량-다이어터의-초간단-막국수-양념장-레시피.md",
+      "title": "17kg 감량 다이어터의 초간단 막국수 양념장 레시피"
     }
   }
 }
