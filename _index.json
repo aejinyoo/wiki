@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-27T23:34:00Z",
+  "updated_at": "2026-07-28T23:28:59Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1801,8 +1801,17 @@
       "url": "https://www.instagram.com/reel/Da2_BmYOzpI/",
       "source": "Instagram",
       "captured_at": "2026-07-27T14:51:16Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "generative-design",
+        "typography",
+        "animation",
+        "design-tools",
+        "productivity"
+      ],
+      "path": "wiki/generative-tools/2026-07-27-스페이스-타입-제너레이터-디자인-작업-속도-향상-툴.md",
+      "title": "스페이스 타입 제너레이터: 디자인 작업 속도 향상 툴"
     },
     "5cb8fd5f598a": {
       "url": "https://www.instagram.com/reel/DVdQkhAlHdA/",
