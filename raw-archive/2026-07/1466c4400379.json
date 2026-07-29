@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "1466c4400379",
+    "url": "https://www.instagram.com/reel/DbVJSJEvHzq/",
+    "source": "Instagram",
+    "captured_at": "2026-07-29T16:38:34Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DbVJSJEvHzq/",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "1:38 A\n•1 5G 764\n- BP&0-\nApplication\neca-Cola\n251\n많이 배우게 되는 사이트입니다\nThis is a site where you learn a lot. 73\nsenatomorrow\n디자이너라면 저장해야 할\nFollow\nn\n+"
+  }
+}

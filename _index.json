@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-28T23:28:59Z",
+  "updated_at": "2026-07-29T23:30:11Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -1922,6 +1922,98 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-07-27-17kg-감량-다이어터의-초간단-막국수-양념장-레시피.md",
       "title": "17kg 감량 다이어터의 초간단 막국수 양념장 레시피"
+    },
+    "d5a32664c231": {
+      "url": "https://www.instagram.com/reel/DbXkCuAz6GF/",
+      "source": "Instagram",
+      "captured_at": "2026-07-29T16:36:32Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "샐러드",
+        "복숭아",
+        "새우",
+        "여름"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-29-여름-복숭아-새우-샐러드-레시피.md",
+      "title": "여름 복숭아 새우 샐러드 레시피"
+    },
+    "3d108edd0263": {
+      "url": "https://www.instagram.com/reel/DYlfkkWyCyX/",
+      "source": "Instagram",
+      "captured_at": "2026-07-29T16:37:56Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "photo-editing",
+        "ai-art",
+        "creative-tools"
+      ],
+      "path": "wiki/generative-tools/2026-07-29-포토샵-고인물-물웅덩이-사진-편집.md",
+      "title": "포토샵 고인물: 물웅덩이 사진 편집"
+    },
+    "1466c4400379": {
+      "url": "https://www.instagram.com/reel/DbVJSJEvHzq/",
+      "source": "Instagram",
+      "captured_at": "2026-07-29T16:38:34Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "design-resources",
+        "learning-platform",
+        "designer-tips",
+        "instagram-reels"
+      ],
+      "path": "wiki/trend-reports/2026-07-29-디자이너를-위한-유용한-학습-사이트.md",
+      "title": "디자이너를 위한 유용한 학습 사이트"
+    },
+    "fb6d1b50ff93": {
+      "url": "https://www.instagram.com/reel/DbIbS0ZPB0d/",
+      "source": "Instagram",
+      "captured_at": "2026-07-29T16:40:18Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "photo-editing",
+        "photography-tips",
+        "color-correction",
+        "post-processing"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-07-29-사진-보정의-중요성-강조.md",
+      "title": "사진 보정의 중요성 강조"
+    },
+    "ccc99d9d1eac": {
+      "url": "https://www.instagram.com/reel/DbVNVFevpDO/",
+      "source": "Instagram",
+      "captured_at": "2026-07-29T16:40:41Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai-image-generation",
+        "prompt-engineering",
+        "text-to-image",
+        "reference-images",
+        "aspect-ratio"
+      ],
+      "path": "wiki/generative-tools/2026-07-29-ai-이미지-생성-프롬프트-작성법-토끼-포즈-유리-재질.md",
+      "title": "AI 이미지 생성 프롬프트 작성법 (토끼 포즈, 유리 재질)"
+    },
+    "967e6e040f5b": {
+      "url": "https://www.instagram.com/reel/DYze_q4xhXF/",
+      "source": "Instagram",
+      "captured_at": "2026-07-29T16:42:01Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "prompt-engineering",
+        "image-generation",
+        "ai-art",
+        "reference-images"
+      ],
+      "path": "wiki/generative-tools/2026-07-29-ai-이미지-생성-프롬프트-작성법-참고-이미지-활용.md",
+      "title": "AI 이미지 생성 프롬프트 작성법 (참고 이미지 활용)"
     }
   }
 }

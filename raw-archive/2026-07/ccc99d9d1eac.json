@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "ccc99d9d1eac",
+    "url": "https://www.instagram.com/reel/DbVNVFevpDO/",
+    "source": "Instagram",
+    "captured_at": "2026-07-29T16:40:41Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DbVNVFevpDO/",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "1:40二\n5G\n774\n[1] 프롬프트 쓰는 법\n첫번째사진에서는 토끼 포즈를 참고하고, 두번째사진에서는 유리 재질을 참고해 줘. 바닥은 민트색 패턴 카페트, 보라벽, 화이트쉬폰, 살짝 빈티지한 라디에이터가 있는 공간으로 만들어줘. 다양하게 5개 각각 보내줘. 4:5비율로 만들어줘.\n* 참고이미지+ 참고할 요소 첫번쨰사진에서는 토끼 포즈를 참고하고, 두번째사진에서는 유리 재질을 참고해줘.\n* 원하는 조건\n바닥은 민트색 패턴 카페트, 보라벽, 화이트쉬폰, 살짝 빈티지한 라디에이터가 있는 공간으로 만들어줘\n* 출력 조건\n다양하게 5개 각각 보내줘.\n4:5비율로 만들어줘.\n201\n264\n49\njansang.studio\nFollow\n레퍼런스는 한 장을 그대로 따라 하기보다 ...\n000\n几\n+"
+  }
+}
