@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-07-29T23:30:11Z",
+  "updated_at": "2026-08-05T23:28:48Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2014,6 +2014,67 @@
       ],
       "path": "wiki/generative-tools/2026-07-29-ai-이미지-생성-프롬프트-작성법-참고-이미지-활용.md",
       "title": "AI 이미지 생성 프롬프트 작성법 (참고 이미지 활용)"
+    },
+    "bb91524e7598": {
+      "url": "https://www.instagram.com/reel/Dbov3qEh_vZ/",
+      "source": "Instagram",
+      "captured_at": "2026-08-05T16:33:53Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai",
+        "motion-design",
+        "anime-js",
+        "motion-dev",
+        "no-code"
+      ],
+      "path": "wiki/generative-tools/2026-08-05-ai-기반-모션-그래픽-디자인-툴-조합.md",
+      "title": "AI 기반 모션 그래픽 디자인 툴 조합"
+    },
+    "89e230a46633": {
+      "url": "https://www.instagram.com/reel/DbdPyvfvFXv/",
+      "source": "Instagram",
+      "captured_at": "2026-08-05T16:34:40Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "와인",
+        "레시피",
+        "홈메이드",
+        "음료"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-05-시트롱-로즈마리-와인-레시피.md",
+      "title": "시트롱 로즈마리 와인 레시피"
+    },
+    "4918cd3c6ff9": {
+      "url": "https://www.instagram.com/reel/DbiXC5wzYdp/",
+      "source": "Instagram",
+      "captured_at": "2026-08-05T16:37:51Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "prompt-engineering",
+        "ai-tools",
+        "productivity",
+        "llm"
+      ],
+      "path": "wiki/generative-tools/2026-08-05-복붙-가능한-프롬프트-라이브러리-모음.md",
+      "title": "복붙 가능한 프롬프트 라이브러리 모음"
+    },
+    "8fb7de2be5b6": {
+      "url": "https://www.instagram.com/reel/DbnalLxBN0L/",
+      "source": "Instagram",
+      "captured_at": "2026-08-05T16:38:31Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "blender",
+        "illustrator",
+        "3d-modeling",
+        "workflow"
+      ],
+      "path": "wiki/generative-tools/2026-08-05-일러스트레이터-도형을-블렌더로-3d-변환.md",
+      "title": "일러스트레이터 도형을 블렌더로 3D 변환"
     }
   }
 }

@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "4918cd3c6ff9",
+    "url": "https://www.instagram.com/reel/DbiXC5wzYdp/",
+    "source": "Instagram",
+    "captured_at": "2026-08-05T16:37:51Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DbiXC5wzYdp/",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "1:37 g\n804\n<\n복붙만 하면 도 프롬프트 라이브러리 모음\nprmpt\n228\n232\nnavibuilds\n♪\n글\nERlow\n복붙만 하면 되는 프롬포트 라이브러리 모음\n정리된 링크 모음은 댓글에 '프롬프트' 남겨주세요\n@motionsites.ai\n2\n3\n4\n@getlayers.ai\n@prompt.sites design -ism\n3 days ago\n262\n52\n..."
+  }
+}

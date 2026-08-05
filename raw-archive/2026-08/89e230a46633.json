@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "89e230a46633",
+    "url": "https://www.instagram.com/reel/DbdPyvfvFXv/",
+    "source": "Instagram",
+    "captured_at": "2026-08-05T16:34:40Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DbdPyvfvFXv/",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "1:34 m\n시트롱 로즈마리입니다\n872\nQ\n10\nV\n406\n30\nwickedwife.creator c\nFollow\n8월와인 둘째날, 오늘 부엌 폐업하고 쉬운 거 만들었어.··\nFollowed by mina.kang 0987 and 2 others\nn\n+"
+  }
+}
