@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-05T23:28:48Z",
+  "updated_at": "2026-08-11T23:11:06Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2075,6 +2075,22 @@
       ],
       "path": "wiki/generative-tools/2026-08-05-일러스트레이터-도형을-블렌더로-3d-변환.md",
       "title": "일러스트레이터 도형을 블렌더로 3D 변환"
+    },
+    "8e48771c2a33": {
+      "url": "https://www.instagram.com/reel/DbvCErjTIHn/",
+      "source": "Instagram",
+      "captured_at": "2026-08-11T04:00:05Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "파스타",
+        "레시피",
+        "여름",
+        "홈쿠킹",
+        "이탈리안"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-11-여름-별미-레몬-버터-파스타-레시피.md",
+      "title": "여름 별미, 레몬 버터 파스타 레시피"
     }
   }
 }
