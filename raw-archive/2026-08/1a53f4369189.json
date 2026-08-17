@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "1a53f4369189",
+    "url": "https://x.com/fireworks_9999/status/2088927705383489961?s=12",
+    "source": "X",
+    "captured_at": "2026-08-17T10:29:10Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "오이 좋아하는 트친 생각나서 pic.twitter.com/7K9j8bWoVs",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "오이 좋아하는 트친 생각나서 pic.twitter.com/7K9j8bWoVs",
+    "author": "1004 (진짜 1시 전에 자기)",
+    "author_url": "https://x.com/Fireworks_9999",
+    "tweet_url": "https://x.com/Fireworks_9999/status/2088927705383489961"
+  }
+}
