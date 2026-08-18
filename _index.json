@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-17T22:49:27Z",
+  "updated_at": "2026-08-18T22:48:56Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2233,6 +2233,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-08-17-스페인식-감자-오믈렛-또르띠야-데-빠따따스-레시피.md",
       "title": "스페인식 감자 오믈렛 '또르띠야 데 빠따따스' 레시피"
+    },
+    "811c75d73cc2": {
+      "url": "https://x.com/totheno1/status/2063230943780061370?s=12",
+      "source": "X",
+      "captured_at": "2026-08-18T14:57:01Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "연어장",
+        "이탈리안",
+        "레시피",
+        "홈쿡",
+        "간편요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-18-이탈리안-연어장-레시피.md",
+      "title": "이탈리안 연어장 레시피"
     }
   }
 }
