@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-18T22:48:56Z",
+  "updated_at": "2026-08-20T22:53:53Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2249,6 +2249,37 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-08-18-이탈리안-연어장-레시피.md",
       "title": "이탈리안 연어장 레시피"
+    },
+    "99e55b8b1882": {
+      "url": "https://www.instagram.com/reel/DcC_mxMTlUS/",
+      "source": "Instagram",
+      "captured_at": "2026-08-20T13:25:52Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "반려동물",
+        "강아지",
+        "성장일기",
+        "골든리트리버"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-20-골든-리트리버-꿍지-성장-기록.md",
+      "title": "골든 리트리버 '꿍지' 성장 기록"
+    },
+    "be0b449cf3d2": {
+      "url": "https://www.instagram.com/p/Dbk4nhQmBDm/",
+      "source": "Instagram",
+      "captured_at": "2026-08-20T13:27:51Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "바질 페스토",
+        "과카몰리",
+        "홈 쿠킹",
+        "건강식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-20-바질-페스토와-과카몰리-레시피.md",
+      "title": "바질 페스토와 과카몰리 레시피"
     }
   }
 }

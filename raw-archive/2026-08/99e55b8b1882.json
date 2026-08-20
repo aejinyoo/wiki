@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "99e55b8b1882",
+    "url": "https://www.instagram.com/reel/DcC_mxMTlUS/",
+    "source": "Instagram",
+    "captured_at": "2026-08-20T13:25:52Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DcC_mxMTlUS/",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "9:36\n그리고 그냥 지망대로\n'꿍지'라고 지었다.\n꿍지/우\n생후 53일\n골든리트리버\n참고: 꿍지는 초딩 떄 친구 겟앰프드 닉네임이다.\nO 306\n95\nblog.naver.com"
+  }
+}
