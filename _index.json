@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-20T22:53:53Z",
+  "updated_at": "2026-08-21T22:49:20Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2280,6 +2280,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-08-20-바질-페스토와-과카몰리-레시피.md",
       "title": "바질 페스토와 과카몰리 레시피"
+    },
+    "1f624eeed466": {
+      "url": "https://www.instagram.com/reel/DcQZcavpa2u/?igsi=dTFieHI4MXNndHhj",
+      "source": "Instagram",
+      "captured_at": "2026-08-21T11:25:47Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "파스타",
+        "토마토소스",
+        "레시피",
+        "간단요리",
+        "홈쿡"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-21-미슐랭-셰프의-초간단-대추방울토마토-파스타-레시피.md",
+      "title": "미슐랭 셰프의 초간단 대추방울토마토 파스타 레시피"
     }
   }
 }
