@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-21T22:49:20Z",
+  "updated_at": "2026-08-25T22:53:44Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2296,6 +2296,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-08-21-미슐랭-셰프의-초간단-대추방울토마토-파스타-레시피.md",
       "title": "미슐랭 셰프의 초간단 대추방울토마토 파스타 레시피"
+    },
+    "d93ebe873cbe": {
+      "url": "https://x.com/yamyomyumyam/status/2091725908856258657?s=12",
+      "source": "X",
+      "captured_at": "2026-08-25T10:04:16Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "오이",
+        "비빔면",
+        "여름음식",
+        "간단요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-25-오이-비빔면-레시피-꼬독한-식감-살리는-비법.md",
+      "title": "오이 비빔면 레시피: 꼬독한 식감 살리는 비법"
     }
   }
 }
