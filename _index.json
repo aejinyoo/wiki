@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-25T22:53:44Z",
+  "updated_at": "2026-08-31T00:44:10Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2312,6 +2312,85 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-08-25-오이-비빔면-레시피-꼬독한-식감-살리는-비법.md",
       "title": "오이 비빔면 레시피: 꼬독한 식감 살리는 비법"
+    },
+    "e12e4e1442df": {
+      "url": "https://x.com/yamyomyumyam/status/2093901544903365039?s=12",
+      "source": "X",
+      "captured_at": "2026-08-30T06:32:59Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "새송이꼬치",
+        "이자카야",
+        "레시피",
+        "에어프라이어",
+        "간단요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-30-새송이꼬치-레시피-홈-이자카야-1등-메뉴.md",
+      "title": "새송이꼬치 레시피: 홈 이자카야 1등 메뉴"
+    },
+    "3d2fcea843dc": {
+      "url": "https://www.instagram.com/reel/DcBObGcTPFa/",
+      "source": "Instagram",
+      "captured_at": "2026-08-30T10:36:55Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "recipe",
+        "summer-food",
+        "fusion-food",
+        "food-hack"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-30-만두-대신-여름에-먹는-퓨전-만두피-요리.md",
+      "title": "만두 대신 여름에 먹는 퓨전 만두피 요리"
+    },
+    "4af6a3b7e6dc": {
+      "url": "https://www.instagram.com/reel/Dci4LcsP9Wk/",
+      "source": "Instagram",
+      "captured_at": "2026-08-30T14:11:47Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "들깨버섯파스타",
+        "레시피",
+        "초간단",
+        "버섯요리",
+        "홈쿡"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-30-초간단-들깨버섯파스타-레시피.md",
+      "title": "초간단 들깨버섯파스타 레시피"
+    },
+    "6f822faa7730": {
+      "url": "https://www.instagram.com/reel/DcigKW6t-SG/",
+      "source": "Instagram",
+      "captured_at": "2026-08-30T14:12:50Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "가지",
+        "아이간식",
+        "에어프라이어",
+        "레시피",
+        "디핑소스"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-30-아이도-좋아하는-치트키-가지-스틱-레시피.md",
+      "title": "아이도 좋아하는 치트키 가지 스틱 레시피"
+    },
+    "f03a5717f387": {
+      "url": "https://www.instagram.com/reel/DckOGAWygaV/",
+      "source": "Instagram",
+      "captured_at": "2026-08-30T14:13:46Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "파스타",
+        "레시피",
+        "가리비",
+        "바질페스토",
+        "홈쿡"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-08-30-집에서-만드는-99-싱크로율-가리비-바질-파스타-레시피.md",
+      "title": "집에서 만드는 99% 싱크로율 가리비 바질 파스타 레시피"
     }
   }
 }

@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "3d2fcea843dc",
+    "url": "https://www.instagram.com/reel/DcBObGcTPFa/",
+    "source": "Instagram",
+    "captured_at": "2026-08-30T10:36:55Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DcBObGcTPFa/",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "7:36 ¼\nSuggested for you\nFollow\n진짜\n꼭 드셔보세요\nWatch more reels\nWatch again\n3,890\nQ\n) 31 V 1,975\nfood_radio_여름에 만두 대신 드셔보세요\nAugust 14\n333\nt"
+  }
+}
