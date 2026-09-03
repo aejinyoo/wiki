@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-08-31T00:44:10Z",
+  "updated_at": "2026-09-03T00:28:01Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2391,6 +2391,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-08-30-집에서-만드는-99-싱크로율-가리비-바질-파스타-레시피.md",
       "title": "집에서 만드는 99% 싱크로율 가리비 바질 파스타 레시피"
+    },
+    "10e51403af5e": {
+      "url": "https://www.instagram.com/reel/DcvO25_pn29/",
+      "source": "Instagram",
+      "captured_at": "2026-09-02T11:12:42Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "들깨파스타",
+        "레시피",
+        "한식",
+        "간편요리",
+        "집밥"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-02-고소한-들깨-대패-파스타-레시피.md",
+      "title": "고소한 들깨 대패 파스타 레시피"
     }
   }
 }
