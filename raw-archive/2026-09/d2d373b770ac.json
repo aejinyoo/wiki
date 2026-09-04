@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "d2d373b770ac",
+    "url": "https://youtube.com/shorts/8Fliu-wIZIs?si=5cW7B5KNbKePrN2g",
+    "source": "YouTube",
+    "captured_at": "2026-09-03T13:00:50Z",
+    "title": "불 안쓰고 만드는 초간단 점심 도시락",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "초간단 전자레인지 양참덮\n\n밥에 양배추 물 조금 넣고 전자레인지 돌리기\n한 번 섞어주고 참치액 1, 굴소스 0.5\n참치 올리고 계란 하나 \n노른자는 터질 수 있으니 터쳐주기\n전자레인지 2분 / 참기름 뿌려서 비벼드세용\n저는 참기름 참치 써서 따로 안뿌렸습니당!\n\n\n#도시락용품 #전자레인지양참덮",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "불 안쓰고 만드는 초간단 점심 도시락",
+    "text": "초간단 전자레인지 양참덮\n\n밥에 양배추 물 조금 넣고 전자레인지 돌리기\n한 번 섞어주고 참치액 1, 굴소스 0.5\n참치 올리고 계란 하나 \n노른자는 터질 수 있으니 터쳐주기\n전자레인지 2분 / 참기름 뿌려서 비벼드세용\n저는 참기름 참치 써서 따로 안뿌렸습니당!\n\n\n#도시락용품 #전자레인지양참덮",
+    "video_id": "8Fliu-wIZIs",
+    "channel": "두콩 dukong",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/8Fliu-wIZIs/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

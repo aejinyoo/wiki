@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-03T00:28:01Z",
+  "updated_at": "2026-09-04T00:14:49Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2407,6 +2407,38 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-02-고소한-들깨-대패-파스타-레시피.md",
       "title": "고소한 들깨 대패 파스타 레시피"
+    },
+    "d83e20604c21": {
+      "url": "https://www.instagram.com/reel/Db737imyjeK/",
+      "source": "Instagram",
+      "captured_at": "2026-09-03T11:35:46Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "팽이버섯",
+        "라이스페이퍼",
+        "간단요리",
+        "안주",
+        "레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-03-팽이버섯-라이스페이퍼-튀김-레시피.md",
+      "title": "팽이버섯 라이스페이퍼 튀김 레시피"
+    },
+    "d2d373b770ac": {
+      "url": "https://youtube.com/shorts/8Fliu-wIZIs?si=5cW7B5KNbKePrN2g",
+      "source": "YouTube",
+      "captured_at": "2026-09-03T13:00:50Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "도시락",
+        "레시피",
+        "전자레인지",
+        "간편식",
+        "점심"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-03-불-없이-만드는-초간단-전자레인지-점심-도시락.md",
+      "title": "불 없이 만드는 초간단 전자레인지 점심 도시락"
     }
   }
 }
