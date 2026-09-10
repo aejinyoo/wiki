@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-04T00:14:49Z",
+  "updated_at": "2026-09-10T00:25:04Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2439,6 +2439,37 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-03-불-없이-만드는-초간단-전자레인지-점심-도시락.md",
       "title": "불 없이 만드는 초간단 전자레인지 점심 도시락"
+    },
+    "6b6c0d268f91": {
+      "url": "https://www.instagram.com/reel/Dc0YCUvRTG9/?stkn=NXpidXB5anc0NDM0",
+      "source": "Instagram",
+      "captured_at": "2026-09-09T11:40:22Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "집밥",
+        "냉파스타",
+        "다이어트식단",
+        "일상브이로그"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-09-집밥-브이로그-냉파스타-레시피.md",
+      "title": "집밥 브이로그: 냉파스타 레시피"
+    },
+    "fa2e341cbfad": {
+      "url": "https://www.instagram.com/reel/DbC_d1nuyfc/?stkn=bWx0ZTE0ZjBxMTJn",
+      "source": "Instagram",
+      "captured_at": "2026-09-09T12:57:39Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "요리",
+        "간단요리",
+        "집밥",
+        "명란두부"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-09-버터박-명란-두부-레시피.md",
+      "title": "버터박 명란 두부 레시피"
     }
   }
 }
