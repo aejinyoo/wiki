@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-10T00:25:04Z",
+  "updated_at": "2026-09-11T00:19:46Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2470,6 +2470,38 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-09-버터박-명란-두부-레시피.md",
       "title": "버터박 명란 두부 레시피"
+    },
+    "532544ea12d9": {
+      "url": "https://www.instagram.com/reel/DbA4ejNBAHk/?stkn=MWMxZWh5bjQ0NmNwaw==",
+      "source": "Instagram",
+      "captured_at": "2026-09-10T03:17:14Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "파스타",
+        "레시피",
+        "한식",
+        "우삼겹",
+        "들깨"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-10-우삼겹-들깨-파스타-레시피.md",
+      "title": "우삼겹 들깨 파스타 레시피"
+    },
+    "5da17632a6fd": {
+      "url": "https://www.instagram.com/reel/CrQmROsM-JN/?stkn=MXRsY20wcnpoNTN5dQ==",
+      "source": "Instagram",
+      "captured_at": "2026-09-10T03:19:53Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "vegan",
+        "recipe",
+        "sauce",
+        "cooking",
+        "hot-chili"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-10-비건-핫-칠리-소스-레시피.md",
+      "title": "비건 핫 칠리 소스 레시피"
     }
   }
 }
