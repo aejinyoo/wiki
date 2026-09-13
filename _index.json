@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-11T00:19:46Z",
+  "updated_at": "2026-09-13T00:06:14Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2502,6 +2502,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-10-비건-핫-칠리-소스-레시피.md",
       "title": "비건 핫 칠리 소스 레시피"
+    },
+    "a37569783c3f": {
+      "url": "https://x.com/miel_jade/status/894587841757331457?s=12",
+      "source": "X",
+      "captured_at": "2026-09-12T07:52:47Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "샌드위치",
+        "토마토",
+        "바질",
+        "홈베이킹"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-12-나폴레옹-과자점-출신이-알려준-완소-토마토-바질-샌드위치-레시피.md",
+      "title": "나폴레옹 과자점 출신이 알려준 완소 토마토 바질 샌드위치 레시피"
     }
   }
 }
