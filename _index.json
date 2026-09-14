@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-13T00:06:14Z",
+  "updated_at": "2026-09-14T00:20:10Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2518,6 +2518,101 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-12-나폴레옹-과자점-출신이-알려준-완소-토마토-바질-샌드위치-레시피.md",
       "title": "나폴레옹 과자점 출신이 알려준 완소 토마토 바질 샌드위치 레시피"
+    },
+    "32284b275c09": {
+      "url": "https://www.instagram.com/reel/DZuaQIcxpg2/?stkn=bm56Nnd6bmZuOWd3",
+      "source": "Instagram",
+      "captured_at": "2026-09-13T08:54:02Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "korean-food",
+        "recipe",
+        "healthy-eating",
+        "mushroom-soup",
+        "perilla-seed"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-13-몸보신-버섯-들깨탕-레시피.md",
+      "title": "몸보신 버섯 들깨탕 레시피"
+    },
+    "36f0b6a21129": {
+      "url": "https://www.instagram.com/reel/DcivMcPmGXI/?stkn=Mmx1OXFzem9uZTY5",
+      "source": "Instagram",
+      "captured_at": "2026-09-13T08:56:39Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "버섯밥",
+        "간단요리",
+        "집밥",
+        "레시피",
+        "한그릇요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-13-10분-완성-고소한-들기름-들깨-버섯밥-레시피.md",
+      "title": "10분 완성! 고소한 들기름 들깨 버섯밥 레시피"
+    },
+    "d835e4a82832": {
+      "url": "https://youtube.com/shorts/0qEusMTNxaQ?si=ng4B4CrcrXUuOuL8",
+      "source": "YouTube",
+      "captured_at": "2026-09-13T10:18:04Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "recipe",
+        "healthy-eating",
+        "quick-meals",
+        "celebrity-secrets"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-13-안소희의-초간단-감자-에그-샐러드-레시피.md",
+      "title": "안소희의 초간단 감자 에그 샐러드 레시피"
+    },
+    "fd1b568414fe": {
+      "url": "https://www.instagram.com/reel/DcqAY16JTUV/?stkn=NG1wcHdhZ255dDU5",
+      "source": "Instagram",
+      "captured_at": "2026-09-13T11:02:34Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "고등어",
+        "파스타",
+        "레시피",
+        "집밥",
+        "간단요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-13-고등어-오일-파스타-초간단-레시피.md",
+      "title": "고등어 오일 파스타 초간단 레시피"
+    },
+    "04a66e06e3b5": {
+      "url": "https://www.instagram.com/reel/DdMKcpYh-GE/?stkn=d2RxMTVjbm84YjZ5",
+      "source": "Instagram",
+      "captured_at": "2026-09-13T11:04:00Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "김국",
+        "소면",
+        "간단요리",
+        "집밥",
+        "레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-13-130만-조회수-화제의-김국x소면-레시피.md",
+      "title": "130만 조회수 화제의 김국X소면 레시피"
+    },
+    "6106f6a12816": {
+      "url": "https://www.instagram.com/reel/Db5CgRRpxrT/?stkn=Mm85dmtmOHpzeDRw",
+      "source": "Instagram",
+      "captured_at": "2026-09-13T11:05:20Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "원팬",
+        "크림파스타",
+        "레시피",
+        "간단요리",
+        "자취요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-13-초간단-원팬-크림-파스타-레시피.md",
+      "title": "초간단 원팬 크림 파스타 레시피"
     }
   }
 }
