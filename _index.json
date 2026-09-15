@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T00:20:10Z",
+  "updated_at": "2026-09-15T00:45:56Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2613,6 +2613,38 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-13-초간단-원팬-크림-파스타-레시피.md",
       "title": "초간단 원팬 크림 파스타 레시피"
+    },
+    "6b2e0a413ce8": {
+      "url": "https://www.instagram.com/reel/DciagVDRGkL/?stkn=MWY5bjYyNDN2Z2E1dQ==",
+      "source": "Instagram",
+      "captured_at": "2026-09-14T03:17:22Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "리조또",
+        "크림소스",
+        "집밥",
+        "간단요리",
+        "버섯요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-14-집에서-만드는-초간단-버섯-크림-리조또-레시피.md",
+      "title": "집에서 만드는 초간단 버섯 크림 리조또 레시피"
+    },
+    "cebe536a2c46": {
+      "url": "https://www.instagram.com/reel/DbtmQTnTv98/?stkn=MXdzZzNiejVoeHE1cA==",
+      "source": "Instagram",
+      "captured_at": "2026-09-14T04:28:41Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "부라타",
+        "레시피",
+        "저탄고지",
+        "홈메이드",
+        "간단요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-14-집에서-만드는-부라타-치즈-속-크림-레시피.md",
+      "title": "집에서 만드는 부라타 치즈 속 크림 레시피"
     }
   }
 }
