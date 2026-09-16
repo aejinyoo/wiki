@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T00:45:56Z",
+  "updated_at": "2026-09-16T00:37:39Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2645,6 +2645,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-14-집에서-만드는-부라타-치즈-속-크림-레시피.md",
       "title": "집에서 만드는 부라타 치즈 속 크림 레시피"
+    },
+    "8baedbce729d": {
+      "url": "https://www.instagram.com/reel/DbSigQMzS-s/?stkn=MTR3ZHAxdTMxMTdnbA==",
+      "source": "Instagram",
+      "captured_at": "2026-09-15T14:58:32Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "까르보나라",
+        "파스타",
+        "레시피",
+        "이탈리안",
+        "요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-15-매콤-까르보나라-레시피-집에서-즐기는-이탈리안-요리.md",
+      "title": "매콤 까르보나라 레시피: 집에서 즐기는 이탈리안 요리"
     }
   }
 }
