@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "26489b01ce26",
+    "url": "https://youtube.com/shorts/dnDZ497EiKc?si=pI0sFB9NFRG9_Zxb",
+    "source": "YouTube",
+    "captured_at": "2026-09-17T13:05:17Z",
+    "title": "3분 비빔국수",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "3분 비빔국수",
+    "text": "",
+    "video_id": "dnDZ497EiKc",
+    "channel": "홍래씨",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/dnDZ497EiKc/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}

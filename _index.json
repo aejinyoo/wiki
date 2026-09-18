@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-16T00:37:39Z",
+  "updated_at": "2026-09-18T00:35:22Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2661,6 +2661,69 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-15-매콤-까르보나라-레시피-집에서-즐기는-이탈리안-요리.md",
       "title": "매콤 까르보나라 레시피: 집에서 즐기는 이탈리안 요리"
+    },
+    "132a1577fbb5": {
+      "url": "https://www.instagram.com/reel/Dck0mNfxcRj/?stkn=MTdpNDIxdTYwM2wxMg==",
+      "source": "Instagram",
+      "captured_at": "2026-09-17T12:20:45Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "recipe",
+        "korean-food",
+        "healthy-eating",
+        "appetizer",
+        "quick-meal"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-17-새우-두부-부추-라이스페이퍼롤-레시피.md",
+      "title": "새우 두부 부추 라이스페이퍼롤 레시피"
+    },
+    "0967ff1ed956": {
+      "url": "https://www.instagram.com/reel/DautW3IzRs1/?stkn=MWthM2Y0bmJxb3gwdw==",
+      "source": "Instagram",
+      "captured_at": "2026-09-17T12:25:10Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "recipe",
+        "easy-meal",
+        "korean-food",
+        "egg-rice",
+        "quick-meal"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-17-매콤-간장-계란밥-레시피.md",
+      "title": "매콤 간장 계란밥 레시피"
+    },
+    "adc72436c408": {
+      "url": "https://youtube.com/shorts/apNAnOj4zf0?si=-1tqhHeiWTiCeM40",
+      "source": "YouTube",
+      "captured_at": "2026-09-17T13:01:14Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "요리",
+        "레시피",
+        "볶음밥",
+        "가정식",
+        "알고리즘"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-17-아내의-알고리즘을-점령한-볶음밥-레시피.md",
+      "title": "아내의 알고리즘을 점령한 볶음밥 레시피"
+    },
+    "26489b01ce26": {
+      "url": "https://youtube.com/shorts/dnDZ497EiKc?si=pI0sFB9NFRG9_Zxb",
+      "source": "YouTube",
+      "captured_at": "2026-09-17T13:05:17Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "비빔국수",
+        "레시피",
+        "간단요리",
+        "3분요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-17-3분-비빔국수-레시피.md",
+      "title": "3분 비빔국수 레시피"
     }
   }
 }

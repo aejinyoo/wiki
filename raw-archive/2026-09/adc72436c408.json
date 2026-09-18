@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "adc72436c408",
+    "url": "https://youtube.com/shorts/apNAnOj4zf0?si=-1tqhHeiWTiCeM40",
+    "source": "YouTube",
+    "captured_at": "2026-09-17T13:01:14Z",
+    "title": "아내의 알고리즘을 점령한 볶음밥",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "아내의 알고리즘을 점령한 볶음밥",
+    "text": "",
+    "video_id": "apNAnOj4zf0",
+    "channel": "홍래씨",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/apNAnOj4zf0/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}
