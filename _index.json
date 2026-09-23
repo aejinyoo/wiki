@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-18T00:35:22Z",
+  "updated_at": "2026-09-23T00:48:39Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2724,6 +2724,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-17-3분-비빔국수-레시피.md",
       "title": "3분 비빔국수 레시피"
+    },
+    "f2cac07888ab": {
+      "url": "https://www.instagram.com/reel/DdlmhkLTLbx/?stkn=a2Z2NDBuZTd1djlz",
+      "source": "Instagram",
+      "captured_at": "2026-09-23T00:27:48Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "photoshop",
+        "photo-editing",
+        "tutorial",
+        "vintage-effect",
+        "cyanotype"
+      ],
+      "path": "wiki/generative-tools/2026-09-23-포토샵-3단계로-인화-사진-느낌-만들기.md",
+      "title": "포토샵 3단계로 인화 사진 느낌 만들기"
     }
   }
 }
