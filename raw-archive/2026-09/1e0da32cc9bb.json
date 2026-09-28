@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "1e0da32cc9bb",
+    "url": "https://youtube.com/shorts/IVflavhkc74?si=wh3GIm7lsTzA58vJ",
+    "source": "YouTube",
+    "captured_at": "2026-09-27T13:58:02Z",
+    "title": "매일 감동란 사 먹다 ㄹㅇ파산할 뻔해서 직접 만듦",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "#엠주니 #계란 #감동란 #계란레시피 #다이어트간식 \n🎵Music provided by 브금대통령",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "no_transcript",
+  "extracted": {
+    "title": "매일 감동란 사 먹다 ㄹㅇ파산할 뻔해서 직접 만듦",
+    "text": "#엠주니 #계란 #감동란 #계란레시피 #다이어트간식 \n🎵Music provided by 브금대통령",
+    "video_id": "IVflavhkc74",
+    "channel": "엠주니 MZuni",
+    "duration": null,
+    "thumbnail": "https://i.ytimg.com/vi/IVflavhkc74/hqdefault.jpg",
+    "has_transcript": false,
+    "fetch_degraded": true,
+    "fetch_degraded_reason": "yt_dlp_blocked_data_api_used, transcript_blocked"
+  }
+}
