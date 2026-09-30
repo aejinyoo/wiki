@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-28T01:00:27Z",
+  "updated_at": "2026-09-30T01:23:44Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2756,6 +2756,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-27-감동란-파산-위기-극복-직접-만든-초간단-레시피.md",
       "title": "감동란 파산 위기 극복! 직접 만든 초간단 레시피"
+    },
+    "df467930c0e2": {
+      "url": "https://www.instagram.com/reel/DcBOKD4vNp1/?stkn=b2kzd3ZhY2tlamg0",
+      "source": "Instagram",
+      "captured_at": "2026-09-29T11:49:34Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "닭볶음탕",
+        "치킨스톡",
+        "레시피",
+        "한식",
+        "요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-09-29-세상-든든-치킨스톡-활용-닭볶음탕-레시피.md",
+      "title": "세상 든든! 치킨스톡 활용 닭볶음탕 레시피"
     }
   }
 }
