@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-30T01:23:44Z",
+  "updated_at": "2026-10-04T01:46:54Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2772,6 +2772,29 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-09-29-세상-든든-치킨스톡-활용-닭볶음탕-레시피.md",
       "title": "세상 든든! 치킨스톡 활용 닭볶음탕 레시피"
+    },
+    "29ee73819629": {
+      "url": "https://www.instagram.com/reel/DdyfcW3T5Ma/?stkn=OTdtYjIwc2piaHds",
+      "source": "Instagram",
+      "captured_at": "2026-10-04T01:27:04Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "가지",
+        "깐풍",
+        "레시피",
+        "집밥",
+        "술안주"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-04-단짠-깐풍-소스로-만드는-바삭-쫀득-가지-요리.md",
+      "title": "단짠 깐풍 소스로 만드는 바삭 쫀득 가지 요리"
+    },
+    "5dca2ef144b2": {
+      "url": "https://www.instagram.com/reel/Dd_qwJMpYjm/?stkn=dHp4c2Z0a2VqaTVj",
+      "source": "Instagram",
+      "captured_at": "2026-10-04T01:28:14Z",
+      "status": "raw",
+      "category": null
     }
   }
 }
