@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-04T01:46:54Z",
+  "updated_at": "2026-10-05T01:05:59Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2793,8 +2793,17 @@
       "url": "https://www.instagram.com/reel/Dd_qwJMpYjm/?stkn=dHp4c2Z0a2VqaTVj",
       "source": "Instagram",
       "captured_at": "2026-10-04T01:28:14Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "느타리버섯",
+        "버섯볶음",
+        "들깨가루",
+        "깻잎",
+        "집밥레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-04-느타리버섯-볶음-들깨와-깻잎으로-풍미-더하기.md",
+      "title": "느타리버섯 볶음: 들깨와 깻잎으로 풍미 더하기"
     }
   }
 }
