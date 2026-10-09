@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-05T01:05:59Z",
+  "updated_at": "2026-10-09T02:22:53Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2804,6 +2804,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-04-느타리버섯-볶음-들깨와-깻잎으로-풍미-더하기.md",
       "title": "느타리버섯 볶음: 들깨와 깻잎으로 풍미 더하기"
+    },
+    "cb3c9cf68697": {
+      "url": "https://www.instagram.com/reel/DeMALnKS38Q/",
+      "source": "Instagram",
+      "captured_at": "2026-10-08T03:50:58Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "다이어트",
+        "파스타",
+        "레시피",
+        "초간단요리",
+        "묵은지"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-08-다이어트-묵은지-깻잎-파스타-레시피.md",
+      "title": "다이어트 묵은지 깻잎 파스타 레시피"
     }
   }
 }
