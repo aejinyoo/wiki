@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-09T02:22:53Z",
+  "updated_at": "2026-10-11T01:06:44Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2820,6 +2820,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-08-다이어트-묵은지-깻잎-파스타-레시피.md",
       "title": "다이어트 묵은지 깻잎 파스타 레시피"
+    },
+    "db43474c4cac": {
+      "url": "https://www.instagram.com/reel/Dd55o-BO8Qp/?srtk=ZDFrNHNoMzRlamx4",
+      "source": "Instagram",
+      "captured_at": "2026-10-10T04:17:54Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "요리",
+        "레시피",
+        "치킨 스테이크",
+        "베샤멜 소스",
+        "데이트 요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-10-여자친구를-위한-베샤멜-소스-치킨-스테이크-레시피.md",
+      "title": "여자친구를 위한 베샤멜 소스 치킨 스테이크 레시피"
     }
   }
 }
