@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-11T01:06:44Z",
+  "updated_at": "2026-10-12T01:30:36Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2836,6 +2836,85 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-10-여자친구를-위한-베샤멜-소스-치킨-스테이크-레시피.md",
       "title": "여자친구를 위한 베샤멜 소스 치킨 스테이크 레시피"
+    },
+    "e03051407e75": {
+      "url": "https://www.instagram.com/reel/DdbjotpTOtB/?srtk=azdtanFiYzF6bWhy",
+      "source": "Instagram",
+      "captured_at": "2026-10-11T13:42:21Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "저탄수화물",
+        "키토제닉",
+        "베이킹",
+        "리코타치즈",
+        "간단레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-11-저탄수화물-리코타-치즈-빵-레시피.md",
+      "title": "저탄수화물 리코타 치즈 빵 레시피"
+    },
+    "cb7083e8a729": {
+      "url": "https://www.instagram.com/reel/DeT7jnevD1L/?exln=NnZ6anFkZHlndjZ2",
+      "source": "Instagram",
+      "captured_at": "2026-10-11T13:44:16Z",
+      "status": "classified",
+      "category": "trend-reports",
+      "tags": [
+        "shanghai",
+        "food-recommendation",
+        "viral-marketing",
+        "travel-tips"
+      ],
+      "path": "wiki/trend-reports/2026-10-11-상하이-맛집-바이럴-추천.md",
+      "title": "상하이 맛집 바이럴 추천"
+    },
+    "e1464b790b0a": {
+      "url": "https://www.instagram.com/reel/DeVdS-VSH2W/?obrf=MXI2dGM2NDlranppbw==",
+      "source": "Instagram",
+      "captured_at": "2026-10-12T00:07:56Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "korean-food",
+        "cucumber-salad",
+        "easy-recipe",
+        "chinese-style",
+        "quick-meal"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-12-새콤달콤-중국식-오이탕탕이-레시피.md",
+      "title": "새콤달콤 중국식 오이탕탕이 레시피"
+    },
+    "31c92e4d8184": {
+      "url": "https://www.instagram.com/reel/DeOeXTPzA2h/?srtk=bnN0MnhseGEzanhl",
+      "source": "Instagram",
+      "captured_at": "2026-10-12T00:08:56Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "파스타",
+        "크림파스타",
+        "새우요리",
+        "레시피",
+        "홈쿡"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-12-매콤-크림-새우-파스타-레시피.md",
+      "title": "매콤 크림 새우 파스타 레시피"
+    },
+    "fbc07201039a": {
+      "url": "https://www.instagram.com/reel/DeWRukmpgjY/?vrfl=MXRsY3Btc3NnbG5ocg==",
+      "source": "Instagram",
+      "captured_at": "2026-10-12T00:10:46Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "파스타",
+        "레몬버터",
+        "레시피",
+        "요리",
+        "홈쿡"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-12-마성의-레몬-버터-파스타-레시피.md",
+      "title": "마성의 레몬 버터 파스타 레시피"
     }
   }
 }

@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "cb7083e8a729",
+    "url": "https://www.instagram.com/reel/DeT7jnevD1L/?exln=NnZ6anFkZHlndjZ2",
+    "source": "Instagram",
+    "captured_at": "2026-10-11T13:44:16Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DeT7jnevD1L/?exln=NnZ6anFkZHlndjZ2",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "10:44\n954\n<\n(18년차 로컬)\n10.6K\n상하이\n101\n뭐먹지\n15.1K\ngosheepgrl | Follow\n상하이 맛집 바이럴 딱 알려드림\n#상하이 #상하이맛집 #맛집 #추천\n1 day ago\n1,157\nQ"
+  }
+}
