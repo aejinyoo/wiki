@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-12T01:30:36Z",
+  "updated_at": "2026-10-13T03:06:32Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2915,6 +2915,69 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-12-마성의-레몬-버터-파스타-레시피.md",
       "title": "마성의 레몬 버터 파스타 레시피"
+    },
+    "886fd83ad16d": {
+      "url": "https://www.instagram.com/reel/DbpdFLyBIGk/?mdxt=djhsMW80eGhueDVn",
+      "source": "Instagram",
+      "captured_at": "2026-10-12T08:53:02Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "다이어트",
+        "레시피",
+        "건강식",
+        "새우",
+        "양배추"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-12-30kg-감량-성공-레시피-자동-볶음팬-활용-새우-양배추-볶음.md",
+      "title": "30kg 감량 성공 레시피: 자동 볶음팬 활용 새우 양배추 볶음"
+    },
+    "38809b218ffa": {
+      "url": "https://www.instagram.com/reel/DeOkmjnCKBZ/?srtk=MXc0MmxxbTl4czNjcw==",
+      "source": "Instagram",
+      "captured_at": "2026-10-13T02:31:13Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "가지덮밥",
+        "한식",
+        "집밥",
+        "레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-13-초간단-가지덮밥-레시피.md",
+      "title": "초간단 가지덮밥 레시피"
+    },
+    "4be1e2536b48": {
+      "url": "https://www.instagram.com/reel/DbNIg4qPNWV/?dlrf=dTN6dnlsMXBycGtt",
+      "source": "Instagram",
+      "captured_at": "2026-10-13T02:32:02Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "치즈케이크",
+        "블루베리",
+        "전자레인지",
+        "다이어트"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-13-전자레인지-블루베리-치즈케이크-레시피.md",
+      "title": "전자레인지 블루베리 치즈케이크 레시피"
+    },
+    "0b25d8edf6c2": {
+      "url": "https://www.instagram.com/reel/DeZQD4Uyk58/?obrf=MTdxNjR5bG5odmw3Yg==",
+      "source": "Instagram",
+      "captured_at": "2026-10-13T02:33:24Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "korean-food",
+        "vegan-recipe",
+        "healthy-eating",
+        "quick-meal",
+        "home-cooking"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-13-두부-들깨-국물-활용-양배추-볶음-레시피.md",
+      "title": "두부 들깨 국물 활용 양배추 볶음 레시피"
     }
   }
 }
