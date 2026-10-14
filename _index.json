@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13T03:06:32Z",
+  "updated_at": "2026-10-14T01:18:51Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -2978,6 +2978,38 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-13-두부-들깨-국물-활용-양배추-볶음-레시피.md",
       "title": "두부 들깨 국물 활용 양배추 볶음 레시피"
+    },
+    "ff04a66c5fef": {
+      "url": "https://www.instagram.com/reel/DE8p2GCPHYY/?psln=MTRoa2hxM3ZxZ3NsaQ==",
+      "source": "Instagram",
+      "captured_at": "2026-10-13T10:01:03Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "korean-food",
+        "japanese-izakaya",
+        "easy-recipe",
+        "pork-belly",
+        "scallion"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-13-초간단-일본식-이자카야-대파삼겹말이-레시피.md",
+      "title": "초간단 일본식 이자카야 대파삼겹말이 레시피"
+    },
+    "d22c266c8ac7": {
+      "url": "https://www.instagram.com/reel/DI0-LFJSMcc/?psln=MXE5eWZsejg0ZHV1eA==",
+      "source": "Instagram",
+      "captured_at": "2026-10-13T10:10:35Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "간단요리",
+        "토스트",
+        "대파",
+        "치즈"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-13-대파-치즈-토스트-레시피.md",
+      "title": "대파 치즈 토스트 레시피"
     }
   }
 }
