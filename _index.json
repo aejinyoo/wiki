@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-14T01:18:51Z",
+  "updated_at": "2026-10-18T00:08:26Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3010,6 +3010,84 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-13-대파-치즈-토스트-레시피.md",
       "title": "대파 치즈 토스트 레시피"
+    },
+    "1dbd1aff22e0": {
+      "url": "https://www.instagram.com/reel/DdOUlGaTzok/?xtok=MW1kdXVqY3p2ajBvbQ==",
+      "source": "Instagram",
+      "captured_at": "2026-10-17T13:55:13Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ai",
+        "coding",
+        "editor",
+        "automation",
+        "productivity"
+      ],
+      "path": "wiki/generative-tools/2026-10-17-ai-기반-코드-생성-및-편집-도구-소개.md",
+      "title": "AI 기반 코드 생성 및 편집 도구 소개"
+    },
+    "1455e3c8a93b": {
+      "url": "https://www.instagram.com/reel/Deg2BB1uU0F/?obrf=N3NuYWVkejBpMmU1",
+      "source": "Instagram",
+      "captured_at": "2026-10-17T13:57:05Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "blender",
+        "visual-effects",
+        "addon",
+        "3d-animation"
+      ],
+      "path": "wiki/generative-tools/2026-10-17-블렌더-애드온으로-복잡한-시각-효과-만들기.md",
+      "title": "블렌더 애드온으로 복잡한 시각 효과 만들기"
+    },
+    "77b69e40116b": {
+      "url": "https://www.instagram.com/reel/DdKyjHvSwdl/?xtok=Z3phbTAwenFzNTk=",
+      "source": "Instagram",
+      "captured_at": "2026-10-17T13:57:56Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "ui-components",
+        "design-inspiration",
+        "prototyping",
+        "web-tools"
+      ],
+      "path": "wiki/generative-tools/2026-10-17-신기한-ui-컴포넌트-탐색-사이트.md",
+      "title": "신기한 UI 컴포넌트 탐색 사이트"
+    },
+    "96246f8dfe1e": {
+      "url": "https://www.instagram.com/reel/DbmsppLRWGd/?cplk=MTRtam41YW5pcnowag==",
+      "source": "Instagram",
+      "captured_at": "2026-10-17T13:58:44Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "맛집",
+        "초밥",
+        "방어",
+        "수원",
+        "영통"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-17-수원-영통-맛집-방어철에-방문할-만한-초밥집-추천.md",
+      "title": "수원 영통 맛집: 방어철에 방문할 만한 초밥집 추천"
+    },
+    "10094614e80e": {
+      "url": "https://www.instagram.com/reel/Db-3jRvho4c/?mdxt=MWN2a2wzczUxNzEyZA==",
+      "source": "Instagram",
+      "captured_at": "2026-10-17T14:00:29Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "kakao-friends",
+        "chun-sik",
+        "pasta",
+        "recipe",
+        "korean-food"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-17-노래하는-춘식이와-함께하는-명란-파스타-레시피.md",
+      "title": "노래하는 춘식이와 함께하는 명란 파스타 레시피"
     }
   }
 }
