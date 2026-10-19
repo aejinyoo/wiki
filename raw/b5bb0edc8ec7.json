@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "b5bb0edc8ec7",
+    "url": "https://www.instagram.com/reel/DbU4_Dlz9Jc/?rpxt=NnR1enByN2h4cmY1",
+    "source": "Instagram",
+    "captured_at": "2026-10-18T03:06:23Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DbU4_Dlz9Jc/?rpxt=NnR1enByN2h4cmY1",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "12:06 →\n• 86\nA24 indie film still\nLikes\n95\n1,188\n266\nplanb_ai_lab\nFollow\nAl 이미지가 어색하고 'AI 티'가 난다고 느껴지셨나요...\n几\nQ"
+  }
+}

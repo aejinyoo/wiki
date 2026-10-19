@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "21aa13b9a3d0",
+    "url": "https://www.instagram.com/reel/DegW9NGz7PB/?obrf=ajJpNjBxODJlMjdl",
+    "source": "Instagram",
+    "captured_at": "2026-10-18T10:56:14Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DegW9NGz7PB/?obrf=ajJpNjBxODJlMjdl",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "7:561\nhobababame\nS okayceci • feel u\n88\nFollow\n•••\n오늘도 맛있는 한 끼 해드세요?!!\n444\nQ\n6\n633\n89\nIhobababame 제발드셔봐 맛있음\n#자취 #자취요리 #리조또 #리조또레시피 #연어\n3 days ago"
+  }
+}
