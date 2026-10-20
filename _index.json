@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-19T00:21:28Z",
+  "updated_at": "2026-10-20T01:08:49Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3093,22 +3093,47 @@
       "url": "https://www.instagram.com/reel/DbU4_Dlz9Jc/?rpxt=NnR1enByN2h4cmY1",
       "source": "Instagram",
       "captured_at": "2026-10-18T03:06:23Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "ai-ux-patterns",
+      "tags": [
+        "ai-image-generation",
+        "visual-design",
+        "ux-challenges",
+        "aesthetics"
+      ],
+      "path": "wiki/ai-ux-patterns/2026-10-18-ai-생성-이미지의-어색함과-ai-티-극복-방안.md",
+      "title": "AI 생성 이미지의 어색함과 'AI 티' 극복 방안"
     },
     "c7e3faa8b076": {
       "url": "https://www.instagram.com/reel/Dek-jAEykBt/?rpxt=cmRzcmNpbTZld3Ey",
       "source": "Instagram",
       "captured_at": "2026-10-18T03:07:48Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "figma",
+        "shader-effects",
+        "design-tools",
+        "ui-design"
+      ],
+      "path": "wiki/generative-tools/2026-10-18-피그마-셰이더-효과-및-채우기-활용법.md",
+      "title": "피그마 셰이더 효과 및 채우기 활용법"
     },
     "95edcbf04630": {
       "url": "https://www.instagram.com/reel/Del85fPB4ha/?cplk=YXdhbnlhM29oMDMx",
       "source": "Instagram",
       "captured_at": "2026-10-18T03:09:20Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "새송이버섯",
+        "간장버터구이",
+        "레시피",
+        "요리",
+        "반찬"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-새송이버섯-간장-버터구이-레시피.md",
+      "title": "새송이버섯 간장 버터구이 레시피"
     },
     "22f81b86911f": {
       "url": "https://www.instagram.com/reel/DemHEllyHAh/?cplk=MWxiNDUzZml2dDE2MA==",
@@ -3144,8 +3169,17 @@
       "url": "https://www.instagram.com/reel/DeeOx5JTGe_/?cplk=c2hvc2I5MTFhZWZk",
       "source": "Instagram",
       "captured_at": "2026-10-18T07:50:35Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "에그샐러드",
+        "아보카도",
+        "건강식",
+        "다이어트",
+        "레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-아보카도-에그-샐러드-레시피.md",
+      "title": "아보카도 에그 샐러드 레시피"
     },
     "dd122aac7088": {
       "url": "https://www.instagram.com/reel/Deb150KzQTF/?rpxt=MTNxcmF2Z3Q1bW9raw==",
@@ -3158,8 +3192,17 @@
       "url": "https://www.instagram.com/reel/DdToE0nplzl/?mdxt=OXZmd3lnNWZoYXFt",
       "source": "Instagram",
       "captured_at": "2026-10-18T07:52:37Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "두부",
+        "프렌치토스트",
+        "비건",
+        "간단요리",
+        "레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-두부로-만든-초간단-프렌치-토스트-레시피.md",
+      "title": "두부로 만든 초간단 프렌치 토스트 레시피"
     },
     "0b07e1ee2ce3": {
       "url": "https://www.instagram.com/reel/DaaUQmNSMax/?cplk=MXQxeWZ1dmoyMTB3OQ==",
@@ -3181,8 +3224,17 @@
       "url": "https://www.instagram.com/reel/DSAW1lUD2GJ/?obrf=MXYwZXU4bWQxcWQ5NQ==",
       "source": "Instagram",
       "captured_at": "2026-10-18T10:09:45Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "도시락",
+        "간단요리",
+        "양배추",
+        "레시피",
+        "전자레인지"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-간단-양배추-쌈밥-도시락-레시피.md",
+      "title": "간단 양배추 쌈밥 도시락 레시피"
     },
     "3c97d87b2673": {
       "url": "https://www.instagram.com/reel/DTpEoyjjzGd/?exln=cnZsdXV3bGRhZG91",
@@ -3204,8 +3256,17 @@
       "url": "https://www.instagram.com/reel/DcwlKx7Tu8R/?vrfl=NDMxaHprZ2VtOXo3",
       "source": "Instagram",
       "captured_at": "2026-10-18T10:48:00Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "계란요리",
+        "수플레",
+        "홈브런치",
+        "간식",
+        "밀가루 없는"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-계란-2개로-만드는-밀가루-없는-폭신한-수플레-레시피.md",
+      "title": "계란 2개로 만드는 밀가루 없는 폭신한 수플레 레시피"
     },
     "0480ddf8bd80": {
       "url": "https://www.instagram.com/reel/Dd-qAR-zGig/?xtok=MTlpcGRkYXZrdXo=",
@@ -3227,8 +3288,17 @@
       "url": "https://www.instagram.com/reel/DeS2tbBhN0l/?srtk=MW52ZXU4MGM4MDltZg==",
       "source": "Instagram",
       "captured_at": "2026-10-18T10:52:32Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "토스트",
+        "그릭요거트",
+        "블루베리",
+        "간식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-블루베리-그릭요거트-토스트-레시피.md",
+      "title": "블루베리 그릭요거트 토스트 레시피"
     },
     "16699c443477": {
       "url": "https://www.instagram.com/reel/Dd2b5swSeKS/?vrfl=MXNteTZmdHMydmVmeA==",
@@ -3250,8 +3320,17 @@
       "url": "https://www.instagram.com/reel/DebrFuAqsFo/?vrfl=cjA3b2N0YnM0c2Yx",
       "source": "Instagram",
       "captured_at": "2026-10-18T10:55:01Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "고구마",
+        "닭가슴살",
+        "간단레시피",
+        "단백질식단",
+        "다이어트"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-고구마-치즈-닭가슴살-그라탕-레시피.md",
+      "title": "고구마 치즈 닭가슴살 그라탕 레시피"
     },
     "21aa13b9a3d0": {
       "url": "https://www.instagram.com/reel/DegW9NGz7PB/?obrf=ajJpNjBxODJlMjdl",
