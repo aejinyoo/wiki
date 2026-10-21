@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T01:08:49Z",
+  "updated_at": "2026-10-21T00:44:16Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3155,15 +3155,33 @@
       "url": "https://www.instagram.com/reel/DdT6XceTVJT/?dlrf=MWl4Ynh1bDVneDZrYw==",
       "source": "Instagram",
       "captured_at": "2026-10-18T07:46:17Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "노오븐",
+        "바나나",
+        "땅콩버터",
+        "건강베이킹",
+        "에어프라이어"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-바나나-땅콩버터-초간단-노오븐-베이킹-레시피.md",
+      "title": "바나나 땅콩버터 초간단 노오븐 베이킹 레시피"
     },
     "f9e9bbfec8be": {
       "url": "https://www.instagram.com/reel/Ddptc-5JhAd/?psln=ZzdqNDYxaGhwam0w",
       "source": "Instagram",
       "captured_at": "2026-10-18T07:49:33Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "맛집",
+        "수원",
+        "갑오징어",
+        "갈비",
+        "회식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-수원-망포역-맛집-갑오징어-구이와-갈비.md",
+      "title": "수원 망포역 맛집: 갑오징어 구이와 갈비"
     },
     "3fe933183992": {
       "url": "https://www.instagram.com/reel/DeeOx5JTGe_/?cplk=c2hvc2I5MTFhZWZk",
@@ -3185,8 +3203,17 @@
       "url": "https://www.instagram.com/reel/Deb150KzQTF/?rpxt=MTNxcmF2Z3Q1bW9raw==",
       "source": "Instagram",
       "captured_at": "2026-10-18T07:51:48Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "두부",
+        "삼겹살",
+        "간편요리",
+        "집밥"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-전자레인지-두부-삼겹살말이-레시피.md",
+      "title": "전자레인지 두부 삼겹살말이 레시피"
     },
     "a5020bb59fc8": {
       "url": "https://www.instagram.com/reel/DdToE0nplzl/?mdxt=OXZmd3lnNWZoYXFt",
@@ -3352,8 +3379,17 @@
       "url": "https://www.instagram.com/reel/DcGAFU1s3T5/?xtok=d3dxejZjY3c5cnll",
       "source": "Instagram",
       "captured_at": "2026-10-18T12:33:00Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "오이",
+        "크래미",
+        "롤",
+        "다이어트",
+        "레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-오이-크래미-롤-레시피.md",
+      "title": "오이 크래미 롤 레시피"
     },
     "28d3d2aa3d75": {
       "url": "https://www.instagram.com/reel/DegexjEDf_z/?psln=Z3FmbXNmanAyNzk5",
@@ -3391,8 +3427,16 @@
       "url": "https://www.instagram.com/reel/Dc_iTPPSM7X/?xtok=MWc3NDZ5bDB6ejE0eA==",
       "source": "Instagram",
       "captured_at": "2026-10-18T12:45:51Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "레시피",
+        "치폴레",
+        "홈쿡",
+        "멕시칸"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-18-초간단-치폴레-보울-레시피.md",
+      "title": "초간단 치폴레 보울 레시피"
     },
     "04ba13041e8e": {
       "url": "https://www.instagram.com/reel/DcC0nXqMKui/?vrfl=dG13YXkycjB5b24z",
@@ -3409,6 +3453,21 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-18-고구마-고르곤졸라-또띠아-피자-레시피.md",
       "title": "고구마 고르곤졸라 또띠아 피자 레시피"
+    },
+    "5de08cec19fa": {
+      "url": "https://www.instagram.com/reel/DetarpHyY_c/?obrf=bnRsbXlteDZwOGhk",
+      "source": "Instagram",
+      "captured_at": "2026-10-20T15:48:49Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "양배추",
+        "참치",
+        "라이스페이퍼",
+        "레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-20-양배추-참치-라이스페이퍼롤-레시피.md",
+      "title": "양배추 참치 라이스페이퍼롤 레시피"
     }
   }
 }
