@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-21T00:44:16Z",
+  "updated_at": "2026-10-22T00:47:35Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3468,6 +3468,84 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-20-양배추-참치-라이스페이퍼롤-레시피.md",
       "title": "양배추 참치 라이스페이퍼롤 레시피"
+    },
+    "7d869acaee33": {
+      "url": "https://www.instagram.com/reel/DVIkZaVgWgq/?rpxt=MTJrbnp0ZnF4Njlj",
+      "source": "Instagram",
+      "captured_at": "2026-10-21T10:21:57Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "간단레시피",
+        "파스타",
+        "대파요리",
+        "요리브이로그"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-21-대파-페퍼론치노-새우-파스타-레시피.md",
+      "title": "대파 페퍼론치노 새우 파스타 레시피"
+    },
+    "564b3e1a774a": {
+      "url": "https://www.instagram.com/reel/DKCOTtIJ6mF/?psln=ZXFkYnBrMmRkMzAx",
+      "source": "Instagram",
+      "captured_at": "2026-10-21T10:23:11Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "korean-food",
+        "recipe",
+        "beef",
+        "leek",
+        "stew"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-21-대파-소고기-찌개-레시피.md",
+      "title": "대파 소고기 찌개 레시피"
+    },
+    "845c0cc52e59": {
+      "url": "https://www.instagram.com/reel/DWU6hsck341/?psln=M241eXN3OTNkcW83",
+      "source": "Instagram",
+      "captured_at": "2026-10-21T10:24:11Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "korean-food",
+        "recipe",
+        "scallion",
+        "fermented-anchovy-sauce",
+        "sweetener"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-21-대파-황금-비율-레시피.md",
+      "title": "대파 황금 비율 레시피"
+    },
+    "91b99ff9e80b": {
+      "url": "https://www.instagram.com/reel/DUnKvlFESiQ/?exln=eTljMjRvc3I4bW8y",
+      "source": "Instagram",
+      "captured_at": "2026-10-21T10:24:50Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "라면",
+        "레시피",
+        "요리",
+        "대파",
+        "집밥"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-21-집에서-즐기는-얼큰한-대파라면-레시피.md",
+      "title": "집에서 즐기는 얼큰한 대파라면 레시피"
+    },
+    "f92a8723275a": {
+      "url": "https://x.com/nono_ai_archive/status/2112838807535915312?s=12",
+      "source": "X",
+      "captured_at": "2026-10-21T11:02:40Z",
+      "status": "classified",
+      "category": "generative-tools",
+      "tags": [
+        "gpt",
+        "analog-style",
+        "ephemera",
+        "prompt-engineering"
+      ],
+      "path": "wiki/generative-tools/2026-10-21-gpt로-아날로그-감성-구현-에페메라-키워드-활용.md",
+      "title": "GPT로 아날로그 감성 구현: 에페메라 키워드 활용"
     }
   }
 }
