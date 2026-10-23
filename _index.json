@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T00:47:35Z",
+  "updated_at": "2026-10-23T00:47:37Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3546,6 +3546,38 @@
       ],
       "path": "wiki/generative-tools/2026-10-21-gpt로-아날로그-감성-구현-에페메라-키워드-활용.md",
       "title": "GPT로 아날로그 감성 구현: 에페메라 키워드 활용"
+    },
+    "3eafe523383f": {
+      "url": "https://www.instagram.com/reel/DewW9X6B0Xe/?rpxt=MWI2a3ptMWE1dHVsag==",
+      "source": "Instagram",
+      "captured_at": "2026-10-22T07:47:27Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "도시락",
+        "레시피",
+        "타마고야끼",
+        "명란마요",
+        "간편식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-22-명란마요-타마고야끼-도시락-레시피.md",
+      "title": "명란마요 타마고야끼 도시락 레시피"
+    },
+    "1a95b8c39991": {
+      "url": "https://www.instagram.com/reel/DePIzSkvqwE/?exln=MTRpc3hqc2Jkc2R5Nw==",
+      "source": "Instagram",
+      "captured_at": "2026-10-22T14:15:04Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "토스트",
+        "레시피",
+        "간단요리",
+        "디저트",
+        "허니버터"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-22-우유-품은-허니버터토스트-레시피.md",
+      "title": "우유 품은 허니버터토스트 레시피"
     }
   }
 }
