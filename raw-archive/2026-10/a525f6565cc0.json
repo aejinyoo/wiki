@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "a525f6565cc0",
+    "url": "https://www.instagram.com/reel/DfCPxecsA-C/?dlrf=MXI1MDhha3p0cG5qeA==",
+    "source": "Instagram",
+    "captured_at": "2026-10-29T12:31:58Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DfCPxecsA-C/?dlrf=MXI1MDhha3p0cG5qeA==",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "9:314\n424\npeaxeforlee\nSuggested for you\nFollow\n아무 댓글 남겨주시면\n사이트별 추천 폰트 및 링크 전송드릴게요!\n1,181\nQ\n382\n1,968\n269\npeaxeforlee 예쁜데 특이한 폰트 찾는 사람 들어와... more\n1 day ago"
+  }
+}
