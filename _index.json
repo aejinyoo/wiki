@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-30T02:05:06Z",
+  "updated_at": "2026-10-31T01:43:02Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3598,8 +3598,17 @@
       "url": "https://www.instagram.com/reel/DfCeor5Jsdq/?xtok=MWQwMGxwYTlsdG1qeA==",
       "source": "Instagram",
       "captured_at": "2026-10-29T12:32:29Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "맛집",
+        "곱창",
+        "대창",
+        "영통",
+        "파모듬구이"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-29-영통-맛집-슈렉대창-파모듬구이-후기.md",
+      "title": "영통 맛집: 슈렉대창 파모듬구이 후기"
     },
     "b0cc659d7217": {
       "url": "https://www.instagram.com/reel/De6PUvssA-o/?cplk=MTc0azAwdXh5eTN2ZA==",
@@ -3700,8 +3709,17 @@
       "url": "https://www.instagram.com/reel/DfCC9v0hsae/?rpxt=bWVoMXBmaHp5dWN1",
       "source": "Instagram",
       "captured_at": "2026-10-29T13:38:19Z",
-      "status": "raw",
-      "category": null
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "korean-food",
+        "quick-meal",
+        "recipe",
+        "home-cooking",
+        "budget-friendly"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-29-5분컷-양배추-명란-비빔밥-레시피.md",
+      "title": "5분컷 양배추 명란 비빔밥 레시피"
     },
     "463522f9d411": {
       "url": "https://www.instagram.com/reel/Deq5dVXJpqX/?obrf=bzhiMXIydmFtNHh4",
