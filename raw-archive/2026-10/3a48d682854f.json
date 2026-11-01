@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "3a48d682854f",
+    "url": "https://www.instagram.com/reel/DePED-4PrKT/?psln=YWg2dDZlNXFmOTNs",
+    "source": "Instagram",
+    "captured_at": "2026-10-31T13:44:00Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/DePED-4PrKT/?psln=YWg2dDZlNXFmOTNs",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false,
+    "user_caption": "10:43\n100\nn번째 만드는중\n3,550\n85\n3,098\nmy_peach1\nFollow\n고구마의 계절이 돌아오는거 느껴지시나요? 고구마가 맛 이 좋더라구요~~간단한 고구마치즈피자\n간단해\n서 넘 좋은 메뉴 #고구마간식 #피자만들기\nOctober 8\n475"
+  }
+}

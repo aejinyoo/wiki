@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T01:43:02Z",
+  "updated_at": "2026-11-01T01:20:28Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3752,6 +3752,100 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-29-5분-만에-만드는-초간단-간장-비빔국수-레시피.md",
       "title": "5분 만에 만드는 초간단 간장 비빔국수 레시피"
+    },
+    "3498bb27a1a8": {
+      "url": "https://www.instagram.com/reel/DeBbt9aBSEe/?xtok=Z2R0ajN4ejlteTEx",
+      "source": "Instagram",
+      "captured_at": "2026-10-31T13:39:11Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "고구마",
+        "아이간식",
+        "에어프라이어",
+        "간단레시피"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-31-고구마-치즈-간식-레시피.md",
+      "title": "고구마 치즈 간식 레시피"
+    },
+    "380ecb3164e3": {
+      "url": "https://www.instagram.com/reel/DeTT20ohJyl/?obrf=OHl2eWZub3IxZ2hq",
+      "source": "Instagram",
+      "captured_at": "2026-10-31T13:41:28Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "양배추",
+        "레시피",
+        "간편식",
+        "피자",
+        "파스타"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-31-양배추-활용-레시피-피자-파스타.md",
+      "title": "양배추 활용 레시피: 피자 & 파스타"
+    },
+    "09138560da1f": {
+      "url": "https://www.instagram.com/reel/DeTT20ohJyl/?vrfl=OHl2eWZub3IxZ2hq",
+      "source": "Instagram",
+      "captured_at": "2026-10-31T13:41:37Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "양배추",
+        "레시피",
+        "간단요리",
+        "건강식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-31-양배추-활용-레시피-피자-파스타.md",
+      "title": "양배추 활용 레시피: 피자 & 파스타"
+    },
+    "a34e6d7e68ba": {
+      "url": "https://www.instagram.com/reel/De1DP3xB8iB/?vrfl=MTUyNzVtbWRyeHNmZw==",
+      "source": "Instagram",
+      "captured_at": "2026-10-31T13:43:01Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "요거트",
+        "땅콩버터",
+        "사과",
+        "간단레시피",
+        "건강식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-31-사과와-그릭요거트-땅콩버터-소스-레시피.md",
+      "title": "사과와 그릭요거트 땅콩버터 소스 레시피"
+    },
+    "3a48d682854f": {
+      "url": "https://www.instagram.com/reel/DePED-4PrKT/?psln=YWg2dDZlNXFmOTNs",
+      "source": "Instagram",
+      "captured_at": "2026-10-31T13:44:00Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "고구마",
+        "간식",
+        "피자",
+        "레시피",
+        "가을"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-31-간단-고구마-치즈-피자-레시피.md",
+      "title": "간단 고구마 치즈 피자 레시피"
+    },
+    "6ae5adfb90a7": {
+      "url": "https://www.instagram.com/reel/DdwCnrTzgz6/?srtk=dGRsYm1lMzVvbXdn",
+      "source": "Instagram",
+      "captured_at": "2026-10-31T13:45:27Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "샌드위치",
+        "레시피",
+        "애플",
+        "브리치즈",
+        "간단요리"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-10-31-애플-브리치즈-샌드위치-레시피.md",
+      "title": "애플 브리치즈 샌드위치 레시피"
     }
   }
 }
