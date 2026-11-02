@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T01:20:28Z",
+  "updated_at": "2026-11-02T01:41:16Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3846,6 +3846,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-10-31-애플-브리치즈-샌드위치-레시피.md",
       "title": "애플 브리치즈 샌드위치 레시피"
+    },
+    "c60fa5e9f00a": {
+      "url": "https://www.instagram.com/reel/DfHiEabJv2i/?xtok=MTJ4dDR4b3hva2ZlZQ==",
+      "source": "Instagram",
+      "captured_at": "2026-11-01T05:35:44Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "밀프랩",
+        "간편식",
+        "레시피",
+        "요리",
+        "건강식"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-11-01-초간단-밀프랩-레시피-면-삶기-고기-굽기.md",
+      "title": "초간단 밀프랩 레시피: 면 삶기 & 고기 굽기"
     }
   }
 }
