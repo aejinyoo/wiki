@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T01:41:16Z",
+  "updated_at": "2026-11-03T03:33:35Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3862,6 +3862,22 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-11-01-초간단-밀프랩-레시피-면-삶기-고기-굽기.md",
       "title": "초간단 밀프랩 레시피: 면 삶기 & 고기 굽기"
+    },
+    "dc726f4b5232": {
+      "url": "https://www.instagram.com/reel/DcdB08lNOBy/?cplk=dDMzNWdzM240cGE1",
+      "source": "Instagram",
+      "captured_at": "2026-11-02T10:19:39Z",
+      "status": "classified",
+      "category": "lifestyle-recipe",
+      "tags": [
+        "요거트",
+        "크림치즈",
+        "베이킹",
+        "레시피",
+        "간단 디저트"
+      ],
+      "path": "wiki/lifestyle-recipe/2026-11-02-크림치즈-요거트-베이킹-레시피.md",
+      "title": "크림치즈 요거트 베이킹 레시피"
     }
   }
 }
