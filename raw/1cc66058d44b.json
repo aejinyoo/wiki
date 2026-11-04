@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "1cc66058d44b",
+    "url": "https://x.com/3dxdev7/status/2107364087537529275?s=12",
+    "source": "X",
+    "captured_at": "2026-11-03T13:15:10Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Creator Blender Procedural developed AutoDepth AI, a Blender add-on that automatically generates high-resolution depth height maps and 3D geometry from 2D photos. By running Stable Diffusion and ControlNet locally or via online AI services, the tool projects precise displacement… pic.twitter.com/z3JkhE5ytT",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Creator Blender Procedural developed AutoDepth AI, a Blender add-on that automatically generates high-resolution depth height maps and 3D geometry from 2D photos. By running Stable Diffusion and ControlNet locally or via online AI services, the tool projects precise displacement… pic.twitter.com/z3JkhE5ytT",
+    "author": "3DxDEV",
+    "author_url": "https://x.com/3DxDEV7",
+    "tweet_url": "https://x.com/3DxDEV7/status/2107364087537529275"
+  }
+}

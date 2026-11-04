@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "e8bebe72e75a",
+    "url": "https://x.com/mukadeshinigami/status/2115580095511617850?s=12",
+    "source": "X",
+    "captured_at": "2026-11-03T13:24:17Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "From one reference photo to a photoreal PBR material in Blender. Every step, every script, every mistake I made. https://t.co/4cV5zr1sDk",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "From one reference photo to a photoreal PBR material in Blender. Every step, every script, every mistake I made. https://t.co/4cV5zr1sDk",
+    "author": "mukade死神",
+    "author_url": "https://x.com/mukadeshinigami",
+    "tweet_url": "https://x.com/mukadeshinigami/status/2115580095511617850"
+  }
+}

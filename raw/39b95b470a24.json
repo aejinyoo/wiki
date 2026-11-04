@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "39b95b470a24",
+    "url": "https://x.com/sorenxet/status/2116912025825616083?s=12",
+    "source": "X",
+    "captured_at": "2026-11-03T13:30:47Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Full office in 3D with Claude Opus 5.5 + Blender... A few reference shots in, 1,876 objects out, built in 8 prompts. How it's set up: 01 / Connect Opus to Blender over MCP and send the reference shots. 02 / Set one camera to match the reference and lock it. 03 / Build the… https://t.co/RRraEpDLPW pic.twitter.com/KcmXa1yq6X",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Full office in 3D with Claude Opus 5.5 + Blender... A few reference shots in, 1,876 objects out, built in 8 prompts. How it's set up: 01 / Connect Opus to Blender over MCP and send the reference shots. 02 / Set one camera to match the reference and lock it. 03 / Build the… https://t.co/RRraEpDLPW pic.twitter.com/KcmXa1yq6X",
+    "author": "sorenxet",
+    "author_url": "https://x.com/sorenxet",
+    "tweet_url": "https://x.com/sorenxet/status/2116912025825616083"
+  }
+}

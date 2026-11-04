@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-03T03:33:35Z",
+  "updated_at": "2026-11-04T02:31:25Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3878,6 +3878,55 @@
       ],
       "path": "wiki/lifestyle-recipe/2026-11-02-크림치즈-요거트-베이킹-레시피.md",
       "title": "크림치즈 요거트 베이킹 레시피"
+    },
+    "08161284b7d5": {
+      "url": "https://www.instagram.com/reel/DfBR3eYv5i_/?psln=MTFubHp1MjgyeHczYQ==",
+      "source": "Instagram",
+      "captured_at": "2026-11-03T08:50:37Z",
+      "status": "raw",
+      "category": null
+    },
+    "95070e54d250": {
+      "url": "https://x.com/mukadeshinigami/status/2117128574964560278?s=12",
+      "source": "X",
+      "captured_at": "2026-11-03T11:29:30Z",
+      "status": "raw",
+      "category": null
+    },
+    "fbd6b900be6f": {
+      "url": "https://x.com/3dxdev7/status/2110261260327457252?s=12",
+      "source": "X",
+      "captured_at": "2026-11-03T13:13:38Z",
+      "status": "raw",
+      "category": null
+    },
+    "1cc66058d44b": {
+      "url": "https://x.com/3dxdev7/status/2107364087537529275?s=12",
+      "source": "X",
+      "captured_at": "2026-11-03T13:15:10Z",
+      "status": "raw",
+      "category": null
+    },
+    "e8bebe72e75a": {
+      "url": "https://x.com/mukadeshinigami/status/2115580095511617850?s=12",
+      "source": "X",
+      "captured_at": "2026-11-03T13:24:17Z",
+      "status": "raw",
+      "category": null
+    },
+    "39b95b470a24": {
+      "url": "https://x.com/sorenxet/status/2116912025825616083?s=12",
+      "source": "X",
+      "captured_at": "2026-11-03T13:30:47Z",
+      "status": "raw",
+      "category": null
+    },
+    "140c7010a4e5": {
+      "url": "https://x.com/rewind02/status/2117627721844994413?s=12",
+      "source": "X",
+      "captured_at": "2026-11-03T23:55:45Z",
+      "status": "raw",
+      "category": null
     }
   }
 }

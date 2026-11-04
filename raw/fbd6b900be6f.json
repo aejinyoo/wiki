@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "fbd6b900be6f",
+    "url": "https://x.com/3dxdev7/status/2110261260327457252?s=12",
+    "source": "X",
+    "captured_at": "2026-11-03T13:13:38Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Is procedural mesh fracturing in Blender about to become a native, free tool for the entire community? Environment artist Jolan Huijskes @jolanhuijskes shared an update on his custom Geometry Nodes fracturing setup—designed for procedural stone blocks, cracked tiles, and… pic.twitter.com/j0LtcnmVCn",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Is procedural mesh fracturing in Blender about to become a native, free tool for the entire community? Environment artist Jolan Huijskes @jolanhuijskes shared an update on his custom Geometry Nodes fracturing setup—designed for procedural stone blocks, cracked tiles, and… pic.twitter.com/j0LtcnmVCn",
+    "author": "3DxDEV",
+    "author_url": "https://x.com/3DxDEV7",
+    "tweet_url": "https://x.com/3DxDEV7/status/2110261260327457252"
+  }
+}

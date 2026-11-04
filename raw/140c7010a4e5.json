@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "140c7010a4e5",
+    "url": "https://x.com/rewind02/status/2117627721844994413?s=12",
+    "source": "X",
+    "captured_at": "2026-11-03T23:55:45Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "reusable prompt for building 3D architecture with Claude Opus 5.5 + Blender MCP.. describe the building, choose a style, and specify whether you need an exterior or a complete interior attach references if you have them the prompt gives Claude a full construction workflow: -… https://t.co/zfdarsJli1 pic.twitter.com/kbeFeU3mIP",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "reusable prompt for building 3D architecture with Claude Opus 5.5 + Blender MCP.. describe the building, choose a style, and specify whether you need an exterior or a complete interior attach references if you have them the prompt gives Claude a full construction workflow: -… https://t.co/zfdarsJli1 pic.twitter.com/kbeFeU3mIP",
+    "author": "rewind",
+    "author_url": "https://x.com/rewind02",
+    "tweet_url": "https://x.com/rewind02/status/2117627721844994413"
+  }
+}
