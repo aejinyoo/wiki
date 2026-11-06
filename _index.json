@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-05T02:39:22Z",
+  "updated_at": "2026-11-06T02:41:18Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3953,6 +3953,41 @@
       "url": "https://www.instagram.com/reel/DfOdlANK5I1/?psln=OTJidnBtMXExemdy",
       "source": "Instagram",
       "captured_at": "2026-11-04T13:01:36Z",
+      "status": "raw",
+      "category": null
+    },
+    "735fa766fa70": {
+      "url": "https://x.com/mukadeshinigami/status/2118234597049700601?s=12",
+      "source": "X",
+      "captured_at": "2026-11-05T07:59:06Z",
+      "status": "raw",
+      "category": null
+    },
+    "2617db3b4582": {
+      "url": "https://x.com/heyalexmoore/status/2117981428004888637?s=12",
+      "source": "X",
+      "captured_at": "2026-11-05T08:49:14Z",
+      "status": "raw",
+      "category": null
+    },
+    "152cfc5f4ef0": {
+      "url": "https://x.com/heyalexmoore/status/2117981423496020222?s=12",
+      "source": "X",
+      "captured_at": "2026-11-05T08:49:39Z",
+      "status": "raw",
+      "category": null
+    },
+    "556b9837cbb8": {
+      "url": "https://www.instagram.com/reel/DfWLCzGheS6/?exln=c3Y4ZXBuM3BlZjhx",
+      "source": "Instagram",
+      "captured_at": "2026-11-05T11:28:09Z",
+      "status": "raw",
+      "category": null
+    },
+    "58037f5fac0b": {
+      "url": "https://www.instagram.com/reel/DfVzRizvBlU/?rpxt=MXNicWZ1bWZrcXJpag==",
+      "source": "Instagram",
+      "captured_at": "2026-11-05T12:22:31Z",
       "status": "raw",
       "category": null
     }

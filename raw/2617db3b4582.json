@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "2617db3b4582",
+    "url": "https://x.com/heyalexmoore/status/2117981428004888637?s=12",
+    "source": "X",
+    "captured_at": "2026-11-05T08:49:14Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "1. Complete application from scratch. Think like a senior full-stack engineer developing a complete, production-ready application. First, design the system architecture and then develop the minimal but scalable version. The result should include: • Architecture • File…",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "1. Complete application from scratch. Think like a senior full-stack engineer developing a complete, production-ready application. First, design the system architecture and then develop the minimal but scalable version. The result should include: • Architecture • File…",
+    "author": "Alex Moore",
+    "author_url": "https://x.com/heyalexmoore",
+    "tweet_url": "https://x.com/heyalexmoore/status/2117981428004888637"
+  }
+}

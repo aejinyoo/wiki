@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "152cfc5f4ef0",
+    "url": "https://x.com/heyalexmoore/status/2117981423496020222?s=12",
+    "source": "X",
+    "captured_at": "2026-11-05T08:49:39Z",
+    "title": "",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Stop telling Claude, \"do this.\" Stop telling Claude, \"write code.\" Stop telling Claude, \"fix this error.\" You're actually treating a senior AI like a junior intern. Here are 8 prompts you can copy and paste directly:",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "",
+    "text": "Stop telling Claude, \"do this.\" Stop telling Claude, \"write code.\" Stop telling Claude, \"fix this error.\" You're actually treating a senior AI like a junior intern. Here are 8 prompts you can copy and paste directly:",
+    "author": "Alex Moore",
+    "author_url": "https://x.com/heyalexmoore",
+    "tweet_url": "https://x.com/heyalexmoore/status/2117981423496020222"
+  }
+}
