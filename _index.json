@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-06T02:41:18Z",
+  "updated_at": "2026-11-07T02:08:11Z",
   "items": {
     "788351943a48": {
       "url": "https://apps.apple.com/app/id535886823?pt=9008&ct=iosChromeShare&mt=8",
@@ -3988,6 +3988,13 @@
       "url": "https://www.instagram.com/reel/DfVzRizvBlU/?rpxt=MXNicWZ1bWZrcXJpag==",
       "source": "Instagram",
       "captured_at": "2026-11-05T12:22:31Z",
+      "status": "raw",
+      "category": null
+    },
+    "9ca8c1fe2aad": {
+      "url": "https://x.com/ni_settled/status/2118560215528526075?s=12",
+      "source": "X",
+      "captured_at": "2026-11-06T08:40:46Z",
       "status": "raw",
       "category": null
     }
