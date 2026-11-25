@@ -1,0 +1,31 @@
+{
+  "item": {
+    "id": "28388319f5b3",
+    "url": "https://www.instagram.com/reel/Df_yK1ehcPz/?bqrl=MTVpeGNrdDMwcjdvYg==",
+    "source": "Instagram",
+    "captured_at": "2026-11-24T14:13:33Z",
+    "title": "Instagram Reel",
+    "summary_3lines": "",
+    "tags": [],
+    "category": "",
+    "confidence": 0.0,
+    "tried": false,
+    "tried_at": null,
+    "author": "",
+    "body": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "key_takeaways": [],
+    "why_it_matters": "",
+    "what_to_try": "",
+    "body_ko": "",
+    "original_language": ""
+  },
+  "fetch_status": "ok",
+  "extracted": {
+    "title": "Instagram Reel",
+    "text": "Instagram 원본 확인 필요 — 로그인 후 열람",
+    "url": "https://www.instagram.com/reel/Df_yK1ehcPz/?bqrl=MTVpeGNrdDMwcjdvYg==",
+    "post_type": "reel",
+    "fetch_attempted": true,
+    "og_found": false
+  }
+}
